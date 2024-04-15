@@ -1,0 +1,3758 @@
+{
+    "items": [
+        {
+            "ID": "7351",
+            "name": "Grand Refuge SPA de Pervenchères",
+            "address": "Lieu-dit La Chevrie<br>61360 Pervenchères",
+            "latitude": "48.432071685791016",
+            "longitude": "0.4031769931316376",
+            "opening_hours": "Le Grand Refuge SPA est ouvert au public de 13h30 à 17h30. Fermé le Mardi.",
+            "filter": {
+                "ID": 23,
+                "name": "Refuges",
+                "color": "green",
+                "icon": {
+                    "color": {
+                        "src": "https://www.la-spa.fr/app/app/themes/spa/assets/img/icons/map/refuge.svg",
+                        "alt": ""
+                    },
+                    "light": {
+                        "src": "https://www.la-spa.fr/app/app/themes/spa/assets/img/icons/map/refuge-light.svg",
+                        "alt": ""
+                    }
+                }
+            },
+            "image": {
+                "desktop": {
+                    "src": "https://www.la-spa.fr/app/app/uploads/2021/09/Grand-Refuge.jpg",
+                    "alt": "",
+                    "webp": ""
+                },
+                "mobile": {
+                    "src": "https://www.la-spa.fr/app/app/uploads/2021/09/Grand-Refuge.jpg",
+                    "alt": "",
+                    "webp": ""
+                }
+            },
+            "email": "",
+            "phone": "02 33 83 08 66",
+            "url": "/etablissement/grand-refuge-spa-de-pervencheres/",
+            "contact": "/contact-etablissement/?establishment=grand-refuge-spa-de-pervencheres"
+        },
+        {
+            "ID": "7352",
+            "name": "Refuge SPA de Laon - Des Prés de Longuevalle",
+            "address": "Chemin de la Croix de Chivy<br>02000 Laon",
+            "latitude": "49.55644502399694",
+            "longitude": "3.6378486996861357",
+            "opening_hours": "Ouvert au public tous les jours au public de 13H30 à 17H00 sauf le mardi.",
+            "filter": {
+                "ID": 23,
+                "name": "Refuges",
+                "color": "green",
+                "icon": {
+                    "color": {
+                        "src": "https://www.la-spa.fr/app/app/themes/spa/assets/img/icons/map/refuge.svg",
+                        "alt": ""
+                    },
+                    "light": {
+                        "src": "https://www.la-spa.fr/app/app/themes/spa/assets/img/icons/map/refuge-light.svg",
+                        "alt": ""
+                    }
+                }
+            },
+            "image": {
+                "desktop": {
+                    "src": "https://www.la-spa.fr/app/app/uploads/2021/09/Refuge-Laon.jpg",
+                    "alt": "",
+                    "webp": ""
+                },
+                "mobile": {
+                    "src": "https://www.la-spa.fr/app/app/uploads/2021/09/Refuge-Laon.jpg",
+                    "alt": "",
+                    "webp": ""
+                }
+            },
+            "email": "",
+            "phone": "03 23 20 42 54",
+            "url": "/etablissement/refuge-spa-de-laon-des-pres-de-longuevalle/",
+            "contact": "/contact-etablissement/?establishment=refuge-spa-de-laon-des-pres-de-longuevalle"
+        },
+        {
+            "ID": "7353",
+            "name": "Refuge SPA de Montluçon - La Loue",
+            "address": "67 rue de la Loue<br>03100 Montluçon",
+            "latitude": "46.369895198439956",
+            "longitude": "2.5967036687921263",
+            "opening_hours": "Ouvert tous les jours sauf les jeudis et certains jours fériés, de 14h à 17h30.",
+            "filter": {
+                "ID": 23,
+                "name": "Refuges",
+                "color": "green",
+                "icon": {
+                    "color": {
+                        "src": "https://www.la-spa.fr/app/app/themes/spa/assets/img/icons/map/refuge.svg",
+                        "alt": ""
+                    },
+                    "light": {
+                        "src": "https://www.la-spa.fr/app/app/themes/spa/assets/img/icons/map/refuge-light.svg",
+                        "alt": ""
+                    }
+                }
+            },
+            "image": {
+                "desktop": {
+                    "src": "https://www.la-spa.fr/app/app/uploads/2021/09/Refuge-Montlucon.jpg",
+                    "alt": "",
+                    "webp": ""
+                },
+                "mobile": {
+                    "src": "https://www.la-spa.fr/app/app/uploads/2021/09/Refuge-Montlucon.jpg",
+                    "alt": "",
+                    "webp": ""
+                }
+            },
+            "email": "",
+            "phone": "04 70 29 63 23",
+            "url": "/etablissement/refuge-spa-de-montlucon-la-loue/",
+            "contact": "/contact-etablissement/?establishment=refuge-spa-de-montlucon-la-loue"
+        },
+        {
+            "ID": "7354",
+            "name": "Refuge SPA de Brugheas - Vichy",
+            "address": "9 bis La Boucharde<br>03700 Brugheas",
+            "latitude": "46.069611743225096",
+            "longitude": "3.3815094488383757",
+            "opening_hours": "Le refuge est ouvert au public le lundi, mercredi et vendredi de 13h30 à 17h.<br />\r\nLe mardi de 13h30 à 17h uniquement sur rendez-vous.<br />\r\nLe samedi et le dimanche de 10h30 à 12h30 et de 14h00 à 17h30.<br />\r\nFermeture le jeudi.",
+            "filter": {
+                "ID": 23,
+                "name": "Refuges",
+                "color": "green",
+                "icon": {
+                    "color": {
+                        "src": "https://www.la-spa.fr/app/app/themes/spa/assets/img/icons/map/refuge.svg",
+                        "alt": ""
+                    },
+                    "light": {
+                        "src": "https://www.la-spa.fr/app/app/themes/spa/assets/img/icons/map/refuge-light.svg",
+                        "alt": ""
+                    }
+                }
+            },
+            "image": {
+                "desktop": {
+                    "src": "https://www.la-spa.fr/app/app/uploads/2021/09/Refuge.jpg",
+                    "alt": "",
+                    "webp": ""
+                },
+                "mobile": {
+                    "src": "https://www.la-spa.fr/app/app/uploads/2021/09/Refuge.jpg",
+                    "alt": "",
+                    "webp": ""
+                }
+            },
+            "email": "",
+            "phone": "04 70 32 43 42",
+            "url": "/etablissement/refuge-spa-de-brugheas-vichy/",
+            "contact": "/contact-etablissement/?establishment=refuge-spa-de-brugheas-vichy"
+        },
+        {
+            "ID": "7355",
+            "name": "Refuge SPA de Briançon - Le Chazal",
+            "address": "181 rue des Fontainiers<br>05100 Briançon",
+            "latitude": "44.879458298218786",
+            "longitude": "6.6203012732921716",
+            "opening_hours": "Ouvert tous les jours de 15h à 17h30.",
+            "filter": {
+                "ID": 23,
+                "name": "Refuges",
+                "color": "green",
+                "icon": {
+                    "color": {
+                        "src": "https://www.la-spa.fr/app/app/themes/spa/assets/img/icons/map/refuge.svg",
+                        "alt": ""
+                    },
+                    "light": {
+                        "src": "https://www.la-spa.fr/app/app/themes/spa/assets/img/icons/map/refuge-light.svg",
+                        "alt": ""
+                    }
+                }
+            },
+            "image": {
+                "desktop": {
+                    "src": "https://www.la-spa.fr/app/app/uploads/2021/09/Refuge.jpg",
+                    "alt": "",
+                    "webp": ""
+                },
+                "mobile": {
+                    "src": "https://www.la-spa.fr/app/app/uploads/2021/09/Refuge.jpg",
+                    "alt": "",
+                    "webp": ""
+                }
+            },
+            "email": "",
+            "phone": "04 92 21 15 29",
+            "url": "/etablissement/refuge-spa-de-briancon-le-chazal/",
+            "contact": "/contact-etablissement/?establishment=refuge-spa-de-briancon-le-chazal"
+        },
+        {
+            "ID": "7357",
+            "name": "Refuge SPA de Mirepoix - Le Clergue",
+            "address": "Route de Villefranche<br>09500 Mirepoix",
+            "latitude": "43.11780840382037",
+            "longitude": "1.8392960591620964",
+            "opening_hours": "Lundi : 14h - 17h<br />\r\nMardi : Fermé<br />\r\nMercredi : 14h - 17h<br />\r\nJeudi : 14h - 17h<br />\r\nVendredi : 14h - 17h<br />\r\nSamedi : 14h - 17h<br />\r\nDimanche : 14h - 17h",
+            "filter": {
+                "ID": 23,
+                "name": "Refuges",
+                "color": "green",
+                "icon": {
+                    "color": {
+                        "src": "https://www.la-spa.fr/app/app/themes/spa/assets/img/icons/map/refuge.svg",
+                        "alt": ""
+                    },
+                    "light": {
+                        "src": "https://www.la-spa.fr/app/app/themes/spa/assets/img/icons/map/refuge-light.svg",
+                        "alt": ""
+                    }
+                }
+            },
+            "image": {
+                "desktop": {
+                    "src": "https://www.la-spa.fr/app/app/uploads/2021/09/Refuge.jpg",
+                    "alt": "",
+                    "webp": ""
+                },
+                "mobile": {
+                    "src": "https://www.la-spa.fr/app/app/uploads/2021/09/Refuge.jpg",
+                    "alt": "",
+                    "webp": ""
+                }
+            },
+            "email": "mirepoix@la-spa.fr",
+            "phone": "05 61 68 89 77",
+            "url": "/etablissement/refuge-spa-de-mirepoix-le-clergue/",
+            "contact": "/contact-etablissement/?establishment=refuge-spa-de-mirepoix-le-clergue"
+        },
+        {
+            "ID": "7358",
+            "name": "Refuge SPA de Saint-Parres-Aux-Tertres - Troyes",
+            "address": "Chemin Départemental de Baires<br>10410 St-Parres-Aux-Tertres",
+            "latitude": "48.28251978992517",
+            "longitude": "4.122306664822761",
+            "opening_hours": "Ouvert tous les jours sauf le mardi de 13h30 à 17h.",
+            "filter": {
+                "ID": 23,
+                "name": "Refuges",
+                "color": "green",
+                "icon": {
+                    "color": {
+                        "src": "https://www.la-spa.fr/app/app/themes/spa/assets/img/icons/map/refuge.svg",
+                        "alt": ""
+                    },
+                    "light": {
+                        "src": "https://www.la-spa.fr/app/app/themes/spa/assets/img/icons/map/refuge-light.svg",
+                        "alt": ""
+                    }
+                }
+            },
+            "image": {
+                "desktop": {
+                    "src": "https://www.la-spa.fr/app/app/uploads/2021/09/Refuge-SaintParres.jpg",
+                    "alt": "",
+                    "webp": ""
+                },
+                "mobile": {
+                    "src": "https://www.la-spa.fr/app/app/uploads/2021/09/Refuge-SaintParres.jpg",
+                    "alt": "",
+                    "webp": ""
+                }
+            },
+            "email": "",
+            "phone": "03 25 81 17 83",
+            "url": "/etablissement/refuge-spa-de-saint-parres-aux-tertres-troyes/",
+            "contact": "/contact-etablissement/?establishment=refuge-spa-de-saint-parres-aux-tertres-troyes"
+        },
+        {
+            "ID": "7359",
+            "name": "Refuge SPA de Port-La-Nouvelle - Narbonne",
+            "address": "615 Route de la Palme <br>11210 Port-La-Nouvelle",
+            "latitude": "43.00664125853189",
+            "longitude": "3.039421840844749",
+            "opening_hours": "Le refuge accueille le public tous les jours, SAUF le JEUDI, de 14h à 17h, et ce sans rendez-vous.<br />\r\nPour toute adoption nous vous demanderons de présenter un justificatif d'identité, de domicile et de revenus (version papier), merci d'y penser sans les documents requis l'adoption se sera pas possible. De plus, AUCUNE adoption ne se fera au premier rendez vous.",
+            "filter": {
+                "ID": 23,
+                "name": "Refuges",
+                "color": "green",
+                "icon": {
+                    "color": {
+                        "src": "https://www.la-spa.fr/app/app/themes/spa/assets/img/icons/map/refuge.svg",
+                        "alt": ""
+                    },
+                    "light": {
+                        "src": "https://www.la-spa.fr/app/app/themes/spa/assets/img/icons/map/refuge-light.svg",
+                        "alt": ""
+                    }
+                }
+            },
+            "image": {
+                "desktop": {
+                    "src": "https://www.la-spa.fr/app/app/uploads/2021/09/20230726_160828-scaled.jpg",
+                    "alt": "",
+                    "webp": ""
+                },
+                "mobile": {
+                    "src": "https://www.la-spa.fr/app/app/uploads/2021/09/20230726_160828-scaled.jpg",
+                    "alt": "",
+                    "webp": ""
+                }
+            },
+            "email": "",
+            "phone": "04 68 33 61 08",
+            "url": "/etablissement/refuge-spa-de-port-la-nouvelle-narbonne/",
+            "contact": "/contact-etablissement/?establishment=refuge-spa-de-port-la-nouvelle-narbonne"
+        },
+        {
+            "ID": "7360",
+            "name": "Refuge SPA de Millau - L'Escale",
+            "address": "Route de Paulhe<br>12100 Millau",
+            "latitude": "44.12307216820629",
+            "longitude": "3.097041397920106",
+            "opening_hours": "Horaires :<br />\r\nLundi, mercredi, vendredi : 13h30 à 17h<br />\r\nSamedi et dimanche : 10h30 à 12h30 et 14h à 17h30<br />\r\nJour de fermeture : mardi et jeudi<br />\r\n<br />\r\nPour un projet d'adoption, contactez nous par mail (millau@la-spa.fr) afin de recevoir le questionnaire à remplir. Nous vous donnerons ensuite un rendez-vous pour venir rencontrer nos pensionnaires.<br />\r\n<br />\r\nMerci !",
+            "filter": {
+                "ID": 23,
+                "name": "Refuges",
+                "color": "green",
+                "icon": {
+                    "color": {
+                        "src": "https://www.la-spa.fr/app/app/themes/spa/assets/img/icons/map/refuge.svg",
+                        "alt": ""
+                    },
+                    "light": {
+                        "src": "https://www.la-spa.fr/app/app/themes/spa/assets/img/icons/map/refuge-light.svg",
+                        "alt": ""
+                    }
+                }
+            },
+            "image": {
+                "desktop": {
+                    "src": "https://www.la-spa.fr/app/app/uploads/2022/01/les-Top-canons-scaled.jpg",
+                    "alt": "",
+                    "webp": ""
+                },
+                "mobile": {
+                    "src": "https://www.la-spa.fr/app/app/uploads/2022/01/les-Top-canons-scaled.jpg",
+                    "alt": "",
+                    "webp": ""
+                }
+            },
+            "email": "",
+            "phone": "05 65 61 26 27",
+            "url": "/etablissement/refuge-spa-de-millau-lescale/",
+            "contact": "/contact-etablissement/?establishment=refuge-spa-de-millau-lescale"
+        },
+        {
+            "ID": "7361",
+            "name": "Refuge SPA d'Aix-En-Provence - Des Chiens En Liberté",
+            "address": "Route de la Tour d’Arbois<br>13290 Aix-En-Provence",
+            "latitude": "43.46946329197231",
+            "longitude": "5.320243949595488",
+            "opening_hours": "Nous accueillons le public du mercredi au lundi, de 14h à 17h. Même les jours feriés excepté Noël et jour de l'an.<br />\r\nJour de fermeture : mardi<br />\r\n<br />\r\nPour un projet d'adoption si vous souhaitez un contact par mail avant de vous déplacer. Merci de nous contacter directement via ce mail (aixenprovence@la-spa.fr) afin de recevoir le questionnaire à remplir. Nous vous inviterons ensuite à venir rencontrer nos pensionnaires. <br />\r\n<br />\r\nMerci !<br />\r\n<br />\r\nPour plus d'informations sur nos portes ouvertes n’hésitez pas à surveiller nos réseaux Facebook et Instagram! :)",
+            "filter": {
+                "ID": 23,
+                "name": "Refuges",
+                "color": "green",
+                "icon": {
+                    "color": {
+                        "src": "https://www.la-spa.fr/app/app/themes/spa/assets/img/icons/map/refuge.svg",
+                        "alt": ""
+                    },
+                    "light": {
+                        "src": "https://www.la-spa.fr/app/app/themes/spa/assets/img/icons/map/refuge-light.svg",
+                        "alt": ""
+                    }
+                }
+            },
+            "image": {
+                "desktop": {
+                    "src": "https://www.la-spa.fr/app/app/uploads/2021/09/285631895_709371416786708_7652242816105458642_n.jpg",
+                    "alt": "",
+                    "webp": ""
+                },
+                "mobile": {
+                    "src": "https://www.la-spa.fr/app/app/uploads/2021/09/285631895_709371416786708_7652242816105458642_n.jpg",
+                    "alt": "",
+                    "webp": ""
+                }
+            },
+            "email": "aixenprovence@la-spa.fr",
+            "phone": " 04 13 91 06 30",
+            "url": "/etablissement/refuge-spa-daix-en-provence-des-chiens-en-liberte/",
+            "contact": "/contact-etablissement/?establishment=refuge-spa-daix-en-provence-des-chiens-en-liberte"
+        },
+        {
+            "ID": "7362",
+            "name": "Refuge SPA de Cabourg",
+            "address": "Avenue de l'Hippodrome<br>14390 Cabourg",
+            "latitude": "49.27698013033936",
+            "longitude": "-0.11607741358816458",
+            "opening_hours": "- Lundi : <strong>13h30 à 17h</strong><br />\r\n- Mardi : fermé<br />\r\n- Mercredi : <strong>13h30 à 17h</strong><br />\r\n- Jeudi : fermé<br />\r\n- Vendredi : <strong>13h30 à 17h</strong><br />\r\n- Samedi : <strong>10h30 à 12h30</strong> et <strong>14h à 17h30</strong><br />\r\n- Dimanche : <strong>10h30 à 12h30</strong> et <strong>14h à 17h30</strong>",
+            "filter": {
+                "ID": 23,
+                "name": "Refuges",
+                "color": "green",
+                "icon": {
+                    "color": {
+                        "src": "https://www.la-spa.fr/app/app/themes/spa/assets/img/icons/map/refuge.svg",
+                        "alt": ""
+                    },
+                    "light": {
+                        "src": "https://www.la-spa.fr/app/app/themes/spa/assets/img/icons/map/refuge-light.svg",
+                        "alt": ""
+                    }
+                }
+            },
+            "image": {
+                "desktop": {
+                    "src": "https://www.la-spa.fr/app/app/uploads/2021/09/Refuge.jpg",
+                    "alt": "",
+                    "webp": ""
+                },
+                "mobile": {
+                    "src": "https://www.la-spa.fr/app/app/uploads/2021/09/Refuge.jpg",
+                    "alt": "",
+                    "webp": ""
+                }
+            },
+            "email": "",
+            "phone": "02 31 28 09 71",
+            "url": "/etablissement/refuge-spa-de-cabourg/",
+            "contact": "/contact-etablissement/?establishment=refuge-spa-de-cabourg"
+        },
+        {
+            "ID": "7363",
+            "name": "Refuge SPA de Chameyrat - Tulle",
+            "address": "La Rochette RN 89<br>19330 Chameyrat",
+            "latitude": "45.225928249516414",
+            "longitude": "1.7098979712806317",
+            "opening_hours": "Ouvert tous les jours sauf mardis de 14h à 17h, y compris les jours fériés.<br />\r\nFermé à noël et le jour de l'an.",
+            "filter": {
+                "ID": 23,
+                "name": "Refuges",
+                "color": "green",
+                "icon": {
+                    "color": {
+                        "src": "https://www.la-spa.fr/app/app/themes/spa/assets/img/icons/map/refuge.svg",
+                        "alt": ""
+                    },
+                    "light": {
+                        "src": "https://www.la-spa.fr/app/app/themes/spa/assets/img/icons/map/refuge-light.svg",
+                        "alt": ""
+                    }
+                }
+            },
+            "image": {
+                "desktop": {
+                    "src": "https://www.la-spa.fr/app/app/uploads/2021/09/Refuge.jpg",
+                    "alt": "",
+                    "webp": ""
+                },
+                "mobile": {
+                    "src": "https://www.la-spa.fr/app/app/uploads/2021/09/Refuge.jpg",
+                    "alt": "",
+                    "webp": ""
+                }
+            },
+            "email": "",
+            "phone": "05 55 27 26 81",
+            "url": "/etablissement/refuge-spa-de-chameyrat-tulle/",
+            "contact": "/contact-etablissement/?establishment=refuge-spa-de-chameyrat-tulle"
+        },
+        {
+            "ID": "7364",
+            "name": "Refuge SPA de Quimper - Du Corniguel",
+            "address": "Avenue Denis Papin<br>29000 Quimper",
+            "latitude": "47.96885884154085",
+            "longitude": " -4.1090700705249175",
+            "opening_hours": "Le refuge SPA de Quimper vous accueille sans rendez-vous tous les jours du lundi au dimanche de 14h à 17h (sauf le mardi : jour de fermeture hebdomadaire).<br />\r\nVous pouvez nous joindre par mail quimper@la-spa.fr.<br />\r\nTous les animaux à l'adoption sont visibles sur notre site internet.<br />\r\nVous pouvez également suivre l'actualité de nos petits pensionnaires sur notre page Facebook ou sur notre page Instagram.",
+            "filter": {
+                "ID": 23,
+                "name": "Refuges",
+                "color": "green",
+                "icon": {
+                    "color": {
+                        "src": "https://www.la-spa.fr/app/app/themes/spa/assets/img/icons/map/refuge.svg",
+                        "alt": ""
+                    },
+                    "light": {
+                        "src": "https://www.la-spa.fr/app/app/themes/spa/assets/img/icons/map/refuge-light.svg",
+                        "alt": ""
+                    }
+                }
+            },
+            "image": {
+                "desktop": {
+                    "src": "https://www.la-spa.fr/app/app/uploads/2021/09/REFUGE-QUIMPER.jpg",
+                    "alt": "",
+                    "webp": ""
+                },
+                "mobile": {
+                    "src": "https://www.la-spa.fr/app/app/uploads/2021/09/REFUGE-QUIMPER.jpg",
+                    "alt": "",
+                    "webp": ""
+                }
+            },
+            "email": "",
+            "phone": "02 98 64 87 35",
+            "url": "/etablissement/refuge-spa-de-quimper-du-corniguel/",
+            "contact": "/contact-etablissement/?establishment=refuge-spa-de-quimper-du-corniguel"
+        },
+        {
+            "ID": "7365",
+            "name": "Refuge SPA de Crozon",
+            "address": "Z.A. Kerdanvez<br>29160 Crozon",
+            "latitude": "48.25289082716569",
+            "longitude": "-4.446519115149014",
+            "opening_hours": "Lundi 14h00 - 17h00<br />\r\nMardi 14h00 - 17h00<br />\r\nMercredi 14h00 - 17h00<br />\r\nJeudi FERMÉ<br />\r\nVendredi 14h00 - 17h00<br />\r\nSamedi 14h00 - 17h00<br />\r\nDimanche 14h00 - 17h00<br />\r\n<br />\r\nRefuge ouvert également les jours fériés",
+            "filter": {
+                "ID": 23,
+                "name": "Refuges",
+                "color": "green",
+                "icon": {
+                    "color": {
+                        "src": "https://www.la-spa.fr/app/app/themes/spa/assets/img/icons/map/refuge.svg",
+                        "alt": ""
+                    },
+                    "light": {
+                        "src": "https://www.la-spa.fr/app/app/themes/spa/assets/img/icons/map/refuge-light.svg",
+                        "alt": ""
+                    }
+                }
+            },
+            "image": {
+                "desktop": {
+                    "src": "https://www.la-spa.fr/app/app/uploads/2021/09/Refuge.jpg",
+                    "alt": "",
+                    "webp": ""
+                },
+                "mobile": {
+                    "src": "https://www.la-spa.fr/app/app/uploads/2021/09/Refuge.jpg",
+                    "alt": "",
+                    "webp": ""
+                }
+            },
+            "email": "",
+            "phone": "02 30 14 05 42",
+            "url": "/etablissement/refuge-spa-de-crozon/",
+            "contact": "/contact-etablissement/?establishment=refuge-spa-de-crozon"
+        },
+        {
+            "ID": "7366",
+            "name": "Refuge SPA de Plouhinec",
+            "address": "Trohonan<br>29780 Plouhinec",
+            "latitude": "48.03348348630781",
+            "longitude": " -4.492666945655804",
+            "opening_hours": "Ouverture du refuge au public tous les jours de 14h à 17h. Fermeture le mardi.",
+            "filter": {
+                "ID": 23,
+                "name": "Refuges",
+                "color": "green",
+                "icon": {
+                    "color": {
+                        "src": "https://www.la-spa.fr/app/app/themes/spa/assets/img/icons/map/refuge.svg",
+                        "alt": ""
+                    },
+                    "light": {
+                        "src": "https://www.la-spa.fr/app/app/themes/spa/assets/img/icons/map/refuge-light.svg",
+                        "alt": ""
+                    }
+                }
+            },
+            "image": {
+                "desktop": {
+                    "src": "https://www.la-spa.fr/app/app/uploads/2021/09/GridArt_20220128_201213815-01.jpeg",
+                    "alt": "",
+                    "webp": ""
+                },
+                "mobile": {
+                    "src": "https://www.la-spa.fr/app/app/uploads/2021/09/GridArt_20220128_201213815-01.jpeg",
+                    "alt": "",
+                    "webp": ""
+                }
+            },
+            "email": "",
+            "phone": "02 98 70 44 93",
+            "url": "/etablissement/refuge-spa-de-plouhinec/",
+            "contact": "/contact-etablissement/?establishment=refuge-spa-de-plouhinec"
+        },
+        {
+            "ID": "7367",
+            "name": "Refuge SPA de Vallerargues - Alès",
+            "address": "Lussan<br>30580 Vallerargues",
+            "latitude": "44.11892069462789",
+            "longitude": "4.368914385834261",
+            "opening_hours": "Le refuge est ouvert de 13h30 à 17h lundi, mercredi et vendredi.<br />\r\nLe refuge est ouvert 10h30 à 12h30 puis de 14h à 17h30 tous les samedis et dimanches.<br />\r\nLe refuge est fermé au public tous les mardis et jeudis.",
+            "filter": {
+                "ID": 23,
+                "name": "Refuges",
+                "color": "green",
+                "icon": {
+                    "color": {
+                        "src": "https://www.la-spa.fr/app/app/themes/spa/assets/img/icons/map/refuge.svg",
+                        "alt": ""
+                    },
+                    "light": {
+                        "src": "https://www.la-spa.fr/app/app/themes/spa/assets/img/icons/map/refuge-light.svg",
+                        "alt": ""
+                    }
+                }
+            },
+            "image": {
+                "desktop": {
+                    "src": "https://www.la-spa.fr/app/app/uploads/2021/09/Refuge-Vallerargues.jpg",
+                    "alt": "",
+                    "webp": ""
+                },
+                "mobile": {
+                    "src": "https://www.la-spa.fr/app/app/uploads/2021/09/Refuge-Vallerargues.jpg",
+                    "alt": "",
+                    "webp": ""
+                }
+            },
+            "email": "",
+            "phone": "04 66 72 93 20",
+            "url": "/etablissement/refuge-spa-de-vallerargues-ales/",
+            "contact": "/contact-etablissement/?establishment=refuge-spa-de-vallerargues-ales"
+        },
+        {
+            "ID": "7368",
+            "name": "Refuge SPA de Rennes",
+            "address": "5, A, rue Roland Doré<br>35000 Rennes",
+            "latitude": "48.10981912489737",
+            "longitude": " -1.7335357298548824",
+            "opening_hours": "Ouvert tous les jours de 14h à 17h00, sauf le jeudi.",
+            "filter": {
+                "ID": 23,
+                "name": "Refuges",
+                "color": "green",
+                "icon": {
+                    "color": {
+                        "src": "https://www.la-spa.fr/app/app/themes/spa/assets/img/icons/map/refuge.svg",
+                        "alt": ""
+                    },
+                    "light": {
+                        "src": "https://www.la-spa.fr/app/app/themes/spa/assets/img/icons/map/refuge-light.svg",
+                        "alt": ""
+                    }
+                }
+            },
+            "image": {
+                "desktop": {
+                    "src": "https://www.la-spa.fr/app/app/uploads/2021/09/Refuge-Rennes.jpg",
+                    "alt": "",
+                    "webp": ""
+                },
+                "mobile": {
+                    "src": "https://www.la-spa.fr/app/app/uploads/2021/09/Refuge-Rennes.jpg",
+                    "alt": "",
+                    "webp": ""
+                }
+            },
+            "email": "",
+            "phone": "02 99 59 32 74",
+            "url": "/etablissement/refuge-spa-de-rennes/",
+            "contact": "/contact-etablissement/?establishment=refuge-spa-de-rennes"
+        },
+        {
+            "ID": "7369",
+            "name": "Refuge de Châteaubourg",
+            "address": "Chemin de la Goulgatière<br>35220 Châteaubourg",
+            "latitude": "48.103293356729516",
+            "longitude": "-1.411882164000802",
+            "opening_hours": "Le refuge est ouvert du lundi au samedi de 14h à 17h30 et le dimanche de 14h à 17h. Le refuge est fermé au public le jeudi.<br />\r\n<br />\r\nPour une adoption, tous les membres du foyer devront être présents. Il faudra vous munir d'un justificatif de domicile, d'une pièce d'identité ainsi que d'un chéquier.<br />\r\n<br />\r\nMerci de vous présenter au minimum une heure avant la fermeture si vous souhaitez adopter un de nos petits pensionnaires.",
+            "filter": {
+                "ID": 23,
+                "name": "Refuges",
+                "color": "green",
+                "icon": {
+                    "color": {
+                        "src": "https://www.la-spa.fr/app/app/themes/spa/assets/img/icons/map/refuge.svg",
+                        "alt": ""
+                    },
+                    "light": {
+                        "src": "https://www.la-spa.fr/app/app/themes/spa/assets/img/icons/map/refuge-light.svg",
+                        "alt": ""
+                    }
+                }
+            },
+            "image": {
+                "desktop": {
+                    "src": "https://www.la-spa.fr/app/app/uploads/2021/09/MLS_5911-2.jpg",
+                    "alt": "",
+                    "webp": ""
+                },
+                "mobile": {
+                    "src": "https://www.la-spa.fr/app/app/uploads/2021/09/MLS_5911-2.jpg",
+                    "alt": "",
+                    "webp": ""
+                }
+            },
+            "email": "",
+            "phone": "02 99 62 32 65",
+            "url": "/etablissement/refuge-spa-de-chateaubourg/",
+            "contact": "/contact-etablissement/?establishment=refuge-spa-de-chateaubourg"
+        },
+        {
+            "ID": "7370",
+            "name": "Refuge SPA de Vitré - Le Bois Pinson",
+            "address": "Route des Eaux<br>35500 Vitré",
+            "latitude": "48.11034801660367 ",
+            "longitude": "-1.170871906314464",
+            "opening_hours": "Ouvert les lundi, mardi, mercredi, vendredi et samedi de 14h à 17h30 et le dimanche de 14h à 17h. Fermé le jeudi.",
+            "filter": {
+                "ID": 23,
+                "name": "Refuges",
+                "color": "green",
+                "icon": {
+                    "color": {
+                        "src": "https://www.la-spa.fr/app/app/themes/spa/assets/img/icons/map/refuge.svg",
+                        "alt": ""
+                    },
+                    "light": {
+                        "src": "https://www.la-spa.fr/app/app/themes/spa/assets/img/icons/map/refuge-light.svg",
+                        "alt": ""
+                    }
+                }
+            },
+            "image": {
+                "desktop": {
+                    "src": "https://www.la-spa.fr/app/app/uploads/2021/09/Refuge.jpg",
+                    "alt": "",
+                    "webp": ""
+                },
+                "mobile": {
+                    "src": "https://www.la-spa.fr/app/app/uploads/2021/09/Refuge.jpg",
+                    "alt": "",
+                    "webp": ""
+                }
+            },
+            "email": "",
+            "phone": "02 99 75 21 32",
+            "url": "/etablissement/refuge-spa-de-vitre-le-bois-pinson/",
+            "contact": "/contact-etablissement/?establishment=refuge-spa-de-vitre-le-bois-pinson"
+        },
+        {
+            "ID": "7371",
+            "name": "Refuge SPA de Redon",
+            "address": "La Verdière<br>35600 Sainte-Marie De Redon",
+            "latitude": "47.69429940665234",
+            "longitude": "-2.042334988488124",
+            "opening_hours": "Ouvert tous les jours de 13h à 17h00, sauf le jeudi.<br />\r\nPour toute adoption, merci de venir au moins 1 heure avant la fermeture.",
+            "filter": {
+                "ID": 23,
+                "name": "Refuges",
+                "color": "green",
+                "icon": {
+                    "color": {
+                        "src": "https://www.la-spa.fr/app/app/themes/spa/assets/img/icons/map/refuge.svg",
+                        "alt": ""
+                    },
+                    "light": {
+                        "src": "https://www.la-spa.fr/app/app/themes/spa/assets/img/icons/map/refuge-light.svg",
+                        "alt": ""
+                    }
+                }
+            },
+            "image": {
+                "desktop": {
+                    "src": "https://www.la-spa.fr/app/app/uploads/2021/09/refuge-de-redon-scaled.jpg",
+                    "alt": "",
+                    "webp": ""
+                },
+                "mobile": {
+                    "src": "https://www.la-spa.fr/app/app/uploads/2021/09/refuge-de-redon-scaled.jpg",
+                    "alt": "",
+                    "webp": ""
+                }
+            },
+            "email": "",
+            "phone": "02 99 72 40 97",
+            "url": "/etablissement/refuge-spa-de-redon/",
+            "contact": "/contact-etablissement/?establishment=refuge-spa-de-redon"
+        },
+        {
+            "ID": "7372",
+            "name": "Refuge SPA de Luynes - Tours",
+            "address": "Malitourne<br>37230 Luynes",
+            "latitude": "47.88026662326896",
+            "longitude": "0.5919960790649058",
+            "opening_hours": "Ouvert du lundi au dimanche de 14h à 17h.<br />\r\nFermeture les jeudis.",
+            "filter": {
+                "ID": 23,
+                "name": "Refuges",
+                "color": "green",
+                "icon": {
+                    "color": {
+                        "src": "https://www.la-spa.fr/app/app/themes/spa/assets/img/icons/map/refuge.svg",
+                        "alt": ""
+                    },
+                    "light": {
+                        "src": "https://www.la-spa.fr/app/app/themes/spa/assets/img/icons/map/refuge-light.svg",
+                        "alt": ""
+                    }
+                }
+            },
+            "image": {
+                "desktop": {
+                    "src": "https://www.la-spa.fr/app/app/uploads/2021/09/Refuge-de-Luynes.jpg",
+                    "alt": "",
+                    "webp": ""
+                },
+                "mobile": {
+                    "src": "https://www.la-spa.fr/app/app/uploads/2021/09/Refuge-de-Luynes.jpg",
+                    "alt": "",
+                    "webp": ""
+                }
+            },
+            "email": "",
+            "phone": "02 47 42 10 47",
+            "url": "/etablissement/refuge-spa-de-luynes-tours/",
+            "contact": "/contact-etablissement/?establishment=refuge-spa-de-luynes-tours"
+        },
+        {
+            "ID": "7373",
+            "name": "Refuge SPA de Saint-Pierre-du-Mont - Mont-de-Marsan",
+            "address": "Lieu-dit \"Candille\", Route départementale 390<br>40280 Saint-Pierre Du Mont",
+            "latitude": "43.855507893254114",
+            "longitude": "-0.544799746368973",
+            "opening_hours": "<strong>Ouvert lundi, mercredi & vendredi de 13h30 à 17h ;<br />\r\nSamedi & dimanche de 10h30 à 12h30 puis de 14h à 17h30.<br />\r\n<br />\r\nFermé les mardis et les jeudis.</strong><br />\r\n<br />\r\nMerci de nous contacter en priorité par e-mail à l'adresse <span style=\"color: #eb561c;\"><a href=\"mailto:stpierredumont@la-spa.fr\">stpierredumont@la-spa.fr</a></span>.<br />\r\nPour toute adoption, merci de vous présenter au refuge avant 16H30, avec l'ensemble des membres de votre foyer. <br />\r\nN'oubliez pas de vous munir d'un chéquier pour une éventuelle réservation. ",
+            "filter": {
+                "ID": 23,
+                "name": "Refuges",
+                "color": "green",
+                "icon": {
+                    "color": {
+                        "src": "https://www.la-spa.fr/app/app/themes/spa/assets/img/icons/map/refuge.svg",
+                        "alt": ""
+                    },
+                    "light": {
+                        "src": "https://www.la-spa.fr/app/app/themes/spa/assets/img/icons/map/refuge-light.svg",
+                        "alt": ""
+                    }
+                }
+            },
+            "image": {
+                "desktop": {
+                    "src": "https://www.la-spa.fr/app/app/uploads/2021/09/Refuge-Saint-Pierre-du-Mont.jpg",
+                    "alt": "",
+                    "webp": ""
+                },
+                "mobile": {
+                    "src": "https://www.la-spa.fr/app/app/uploads/2021/09/Refuge-Saint-Pierre-du-Mont.jpg",
+                    "alt": "",
+                    "webp": ""
+                }
+            },
+            "email": "stpierredumont@la-spa.fr",
+            "phone": "05 58 46 00 99",
+            "url": "/etablissement/refuge-spa-de-saint-pierre-du-mont-mont-de-marsan/",
+            "contact": "/contact-etablissement/?establishment=refuge-spa-de-saint-pierre-du-mont-mont-de-marsan"
+        },
+        {
+            "ID": "7374",
+            "name": "Refuge SPA de Morée - Jean Leriche",
+            "address": "1 Les Grandes Bretonnières<br>41160 Morée",
+            "latitude": "47.91180286897853",
+            "longitude": "1.278139680805298",
+            "opening_hours": "Horaires d'ouverture:<br />\r\n 🟢 Lundi : 13h30 - 17h<br />\r\n 🟢 Mardi : 13h30 - 17h<br />\r\n 🟢 Mercredi : 13h30 - 17h<br />\r\n 🔴 Jeudi : Fermé au public<br />\r\n 🟢 Vendredi : 13h30 - 17h<br />\r\n 🟢 Samedi : 13h30 - 17h<br />\r\n 🟢 Dimanche : 13h30 - 17h<br />\r\n<br />\r\nOuvert les jours fériés (sauf le 25 décembre et le 1er janvier)<br />\r\n<br />\r\nAfin de permettre une rencontre avec nos animaux et de finaliser le contrat d'adoption, nous vous prions de venir avant 16h30 pour toute adoption. Après cet horaire, aucune adoption ne pourra être réalisée.<br />\r\nIl est nécessaire de fournir un chèque de caution non encaissé pour l'adoption d'un animal non stérilisé, ainsi qu'une caisse de transport pour l'adoption d'un chat.<br />\r\n<br />\r\nN'hésitez pas à visiter notre site internet où vous trouverez des photos de nos animaux actuellement présents au refuge. Si vous ne trouvez plus la photo d'un animal, cela signifie qu'il a été adopté !<br />\r\nVous pouvez également nous contacter par e-mail à moree@la-spa.fr",
+            "filter": {
+                "ID": 23,
+                "name": "Refuges",
+                "color": "green",
+                "icon": {
+                    "color": {
+                        "src": "https://www.la-spa.fr/app/app/themes/spa/assets/img/icons/map/refuge.svg",
+                        "alt": ""
+                    },
+                    "light": {
+                        "src": "https://www.la-spa.fr/app/app/themes/spa/assets/img/icons/map/refuge-light.svg",
+                        "alt": ""
+                    }
+                }
+            },
+            "image": {
+                "desktop": {
+                    "src": "https://www.la-spa.fr/app/app/uploads/2021/09/SPA-IMG-2.png",
+                    "alt": "",
+                    "webp": ""
+                },
+                "mobile": {
+                    "src": "https://www.la-spa.fr/app/app/uploads/2021/09/SPA-IMG-2.png",
+                    "alt": "",
+                    "webp": ""
+                }
+            },
+            "email": "",
+            "phone": "02 54 82 09 79",
+            "url": "/etablissement/refuge-spa-de-moree-jean-leriche/",
+            "contact": "/contact-etablissement/?establishment=refuge-spa-de-moree-jean-leriche"
+        },
+        {
+            "ID": "7375",
+            "name": "Refuge SPA de Pornic - Saint-Père en Retz",
+            "address": "Le Brandais <br>44210 Pornic",
+            "latitude": "47.19170985734564",
+            "longitude": "-2.0755631042641802",
+            "opening_hours": "Ouvert du lundi au dimanche de 14h à 17h, sauf le mardi.<br />\r\nOuvert les jours fériés (sauf le 25 décembre et le 1er janvier)<br />\r\n<br />\r\nPour toute adoption, nous vous demandons de venir avant 16h30 afin d'avoir le temps d'organiser la rencontre avec nos animaux ainsi que d'effectuer le contrat d'adoption. Après cette heure, aucune adoption ne sera possible.<br />\r\n<br />\r\nPrévoir un chèque de caution (non encaissé) pour adopter un animal non stérilisé ainsi qu'une caisse de transport pour l'adoption d'un chat.<br />\r\n<br />\r\nN'hésitez pas à consulter notre site internet avec les photos de nos animaux présents au refuge. Si vous ne voyez plus un animal en photo, c'est qu'il a été adopté !<br />\r\n<br />\r\nVous pouvez également nous contacter par e-mail à pornic@la-spa.fr",
+            "filter": {
+                "ID": 23,
+                "name": "Refuges",
+                "color": "green",
+                "icon": {
+                    "color": {
+                        "src": "https://www.la-spa.fr/app/app/themes/spa/assets/img/icons/map/refuge.svg",
+                        "alt": ""
+                    },
+                    "light": {
+                        "src": "https://www.la-spa.fr/app/app/themes/spa/assets/img/icons/map/refuge-light.svg",
+                        "alt": ""
+                    }
+                }
+            },
+            "image": {
+                "desktop": {
+                    "src": "https://www.la-spa.fr/app/app/uploads/2021/09/Refuge-Pornic.jpg",
+                    "alt": "",
+                    "webp": ""
+                },
+                "mobile": {
+                    "src": "https://www.la-spa.fr/app/app/uploads/2021/09/Refuge-Pornic.jpg",
+                    "alt": "",
+                    "webp": ""
+                }
+            },
+            "email": "",
+            "phone": "02 40 21 75 92",
+            "url": "/etablissement/refuge-spa-de-pornic-saint-pere-en-retz/",
+            "contact": "/contact-etablissement/?establishment=refuge-spa-de-pornic-saint-pere-en-retz"
+        },
+        {
+            "ID": "7376",
+            "name": "Refuge SPA de Chilleurs-Aux-Bois - Le Moulin d’en Haut",
+            "address": "Rue de la gare<br>45170 Chilleurs-Aux-Bois",
+            "latitude": "48.08193822955417",
+            "longitude": "2.135548400173919",
+            "opening_hours": "Lundi, mercredi et vendredi de 13h30 à 17h,<br />\r\nMardi sur rendez-vous<br />\r\nJeudi : fermé<br />\r\nSamedi et dimanche : 10h30-12h30 /13h30 à 17h30.",
+            "filter": {
+                "ID": 23,
+                "name": "Refuges",
+                "color": "green",
+                "icon": {
+                    "color": {
+                        "src": "https://www.la-spa.fr/app/app/themes/spa/assets/img/icons/map/refuge.svg",
+                        "alt": ""
+                    },
+                    "light": {
+                        "src": "https://www.la-spa.fr/app/app/themes/spa/assets/img/icons/map/refuge-light.svg",
+                        "alt": ""
+                    }
+                }
+            },
+            "image": {
+                "desktop": {
+                    "src": "https://www.la-spa.fr/app/app/uploads/2021/09/18620419_1391933824208535_5821077857644366553_n.jpg",
+                    "alt": "",
+                    "webp": ""
+                },
+                "mobile": {
+                    "src": "https://www.la-spa.fr/app/app/uploads/2021/09/18620419_1391933824208535_5821077857644366553_n.jpg",
+                    "alt": "",
+                    "webp": ""
+                }
+            },
+            "email": "",
+            "phone": "02 38 32 98 11",
+            "url": "/etablissement/refuge-spa-de-chilleurs-aux-bois-le-moulin-den-haut/",
+            "contact": "/contact-etablissement/?establishment=refuge-spa-de-chilleurs-aux-bois-le-moulin-den-haut"
+        },
+        {
+            "ID": "7377",
+            "name": "Refuge SPA de Cholet - De l'Espérance",
+            "address": "Route de Toulemonde<br>49300 Cholet",
+            "latitude": "47.0566268309681",
+            "longitude": "-0.8181984350242697",
+            "opening_hours": "Le Refuge est ouvert de 14h à 17h du lundi au dimanche sauf le vendredi.<br />\r\nRemplir votre profil adoptant sur notre site, permet de réfléchir à cet acte responsable !",
+            "filter": {
+                "ID": 23,
+                "name": "Refuges",
+                "color": "green",
+                "icon": {
+                    "color": {
+                        "src": "https://www.la-spa.fr/app/app/themes/spa/assets/img/icons/map/refuge.svg",
+                        "alt": ""
+                    },
+                    "light": {
+                        "src": "https://www.la-spa.fr/app/app/themes/spa/assets/img/icons/map/refuge-light.svg",
+                        "alt": ""
+                    }
+                }
+            },
+            "image": {
+                "desktop": {
+                    "src": "https://www.la-spa.fr/app/app/uploads/2021/09/Refuge-Cholet.jpg",
+                    "alt": "",
+                    "webp": ""
+                },
+                "mobile": {
+                    "src": "https://www.la-spa.fr/app/app/uploads/2021/09/Refuge-Cholet.jpg",
+                    "alt": "",
+                    "webp": ""
+                }
+            },
+            "email": "",
+            "phone": "02 41 71 99 99",
+            "url": "/etablissement/refuge-spa-de-cholet-de-lesperance/",
+            "contact": "/contact-etablissement/?establishment=refuge-spa-de-cholet-de-lesperance"
+        },
+        {
+            "ID": "7378",
+            "name": "Refuge SPA du Cotentin - Cherbourg",
+            "address": "3 RN 13 , Lieu-dit Les Tourterelles<br>50470 Tollevast",
+            "latitude": "49.63385011111512",
+            "longitude": "-1.6035413013126993",
+            "opening_hours": "lundi 14h à 17h<br />\r\nmardi 14h à 17h<br />\r\nmercredi 14h à 17h<br />\r\njeudi fermé au public<br />\r\nvendredi 14h à 17h<br />\r\nsamedi 14h à 17h<br />\r\ndimanche 14h à 17h",
+            "filter": {
+                "ID": 23,
+                "name": "Refuges",
+                "color": "green",
+                "icon": {
+                    "color": {
+                        "src": "https://www.la-spa.fr/app/app/themes/spa/assets/img/icons/map/refuge.svg",
+                        "alt": ""
+                    },
+                    "light": {
+                        "src": "https://www.la-spa.fr/app/app/themes/spa/assets/img/icons/map/refuge-light.svg",
+                        "alt": ""
+                    }
+                }
+            },
+            "image": {
+                "desktop": {
+                    "src": "https://www.la-spa.fr/app/app/uploads/2021/09/Refuge-Cotentin.jpg",
+                    "alt": "",
+                    "webp": ""
+                },
+                "mobile": {
+                    "src": "https://www.la-spa.fr/app/app/uploads/2021/09/Refuge-Cotentin.jpg",
+                    "alt": "",
+                    "webp": ""
+                }
+            },
+            "email": "",
+            "phone": "02 33 20 49 74",
+            "url": "/etablissement/refuge-spa-du-cotentin-cherbourg/",
+            "contact": "/contact-etablissement/?establishment=refuge-spa-du-cotentin-cherbourg"
+        },
+        {
+            "ID": "7379",
+            "name": "Refuge SPA de Lorient-Inzinzac",
+            "address": "Bois du Trémelin<br>56650 Inzinzac",
+            "latitude": "47.846250241139685",
+            "longitude": "-3.2564201071151535",
+            "opening_hours": "Ouvert du lundi au samedi de 14h à 17h30 avec fermeture hebdomadaire le jeudi.<br />\r\nOuvert le dimanche et jours fériés de 14h à 17h.<br />\r\n<br />\r\n",
+            "filter": {
+                "ID": 23,
+                "name": "Refuges",
+                "color": "green",
+                "icon": {
+                    "color": {
+                        "src": "https://www.la-spa.fr/app/app/themes/spa/assets/img/icons/map/refuge.svg",
+                        "alt": ""
+                    },
+                    "light": {
+                        "src": "https://www.la-spa.fr/app/app/themes/spa/assets/img/icons/map/refuge-light.svg",
+                        "alt": ""
+                    }
+                }
+            },
+            "image": {
+                "desktop": {
+                    "src": "https://www.la-spa.fr/app/app/uploads/2021/09/Refuge.jpg",
+                    "alt": "",
+                    "webp": ""
+                },
+                "mobile": {
+                    "src": "https://www.la-spa.fr/app/app/uploads/2021/09/Refuge.jpg",
+                    "alt": "",
+                    "webp": ""
+                }
+            },
+            "email": "inzinzac@la-spa.fr",
+            "phone": "02 97 36 02 26",
+            "url": "/etablissement/refuge-spa-dinzinzac-lorient/",
+            "contact": "/contact-etablissement/?establishment=refuge-spa-dinzinzac-lorient"
+        },
+        {
+            "ID": "7380",
+            "name": "Refuge SPA de Thionville",
+            "address": "101 Chemin des Mineurs Oeutrange<br>57100 Thionville",
+            "latitude": "49.406417597560186",
+            "longitude": "6.117183569570666",
+            "opening_hours": "Nos équipes auront le plaisir de vous accueillir tous les jours (de 13h30 à 17h00), sauf les mardis et jeudis (fermeture au public), et sur des plages plus larges encore le samedi et le dimanche : le matin (de 10h30 à 12h30) et l’après-midi (de 14h à 17h30).",
+            "filter": {
+                "ID": 23,
+                "name": "Refuges",
+                "color": "green",
+                "icon": {
+                    "color": {
+                        "src": "https://www.la-spa.fr/app/app/themes/spa/assets/img/icons/map/refuge.svg",
+                        "alt": ""
+                    },
+                    "light": {
+                        "src": "https://www.la-spa.fr/app/app/themes/spa/assets/img/icons/map/refuge-light.svg",
+                        "alt": ""
+                    }
+                }
+            },
+            "image": {
+                "desktop": {
+                    "src": "https://www.la-spa.fr/app/app/uploads/2021/09/Refuge-de-Thionville.jpg",
+                    "alt": "",
+                    "webp": ""
+                },
+                "mobile": {
+                    "src": "https://www.la-spa.fr/app/app/uploads/2021/09/Refuge-de-Thionville.jpg",
+                    "alt": "",
+                    "webp": ""
+                }
+            },
+            "email": "",
+            "phone": "03 82 50 31 45",
+            "url": "/etablissement/refuge-spa-de-thionville/",
+            "contact": "/contact-etablissement/?establishment=refuge-spa-de-thionville"
+        },
+        {
+            "ID": "7381",
+            "name": "Refuge SPA de Sarreguemines",
+            "address": "100 chemin du Bruchwies <br>57200 Sarreguemines",
+            "latitude": "49.11019749842416",
+            "longitude": "7.127357739873835",
+            "opening_hours": "Ouvert tous les jours sauf le jeudi entre 14h30 et 17h30.",
+            "filter": {
+                "ID": 23,
+                "name": "Refuges",
+                "color": "green",
+                "icon": {
+                    "color": {
+                        "src": "https://www.la-spa.fr/app/app/themes/spa/assets/img/icons/map/refuge.svg",
+                        "alt": ""
+                    },
+                    "light": {
+                        "src": "https://www.la-spa.fr/app/app/themes/spa/assets/img/icons/map/refuge-light.svg",
+                        "alt": ""
+                    }
+                }
+            },
+            "image": {
+                "desktop": {
+                    "src": "https://www.la-spa.fr/app/app/uploads/2021/09/Refuge.jpg",
+                    "alt": "",
+                    "webp": ""
+                },
+                "mobile": {
+                    "src": "https://www.la-spa.fr/app/app/uploads/2021/09/Refuge.jpg",
+                    "alt": "",
+                    "webp": ""
+                }
+            },
+            "email": "",
+            "phone": "03 87 98 82 63",
+            "url": "/etablissement/refuge-spa-de-sarreguemines/",
+            "contact": "/contact-etablissement/?establishment=refuge-spa-de-sarreguemines"
+        },
+        {
+            "ID": "7382",
+            "name": "Refuge SPA de Forbach",
+            "address": "1 rue St Guy<br>57600 Forbach",
+            "latitude": "49.193472592938534",
+            "longitude": "6.932104248769037",
+            "opening_hours": "Le refuge de Forbach est ouvert tous les après-midis sauf le jeudi.<br />\r\nLes horaires pour les visites sont de 14h à 17h30.",
+            "filter": {
+                "ID": 23,
+                "name": "Refuges",
+                "color": "green",
+                "icon": {
+                    "color": {
+                        "src": "https://www.la-spa.fr/app/app/themes/spa/assets/img/icons/map/refuge.svg",
+                        "alt": ""
+                    },
+                    "light": {
+                        "src": "https://www.la-spa.fr/app/app/themes/spa/assets/img/icons/map/refuge-light.svg",
+                        "alt": ""
+                    }
+                }
+            },
+            "image": {
+                "desktop": {
+                    "src": "https://www.la-spa.fr/app/app/uploads/2021/09/Refuge.jpg",
+                    "alt": "",
+                    "webp": ""
+                },
+                "mobile": {
+                    "src": "https://www.la-spa.fr/app/app/uploads/2021/09/Refuge.jpg",
+                    "alt": "",
+                    "webp": ""
+                }
+            },
+            "email": "",
+            "phone": "03 87 87 29 30",
+            "url": "/etablissement/refuge-spa-de-forbach/",
+            "contact": "/contact-etablissement/?establishment=refuge-spa-de-forbach"
+        },
+        {
+            "ID": "7383",
+            "name": "Refuge SPA d'Arry - Gerhard Cramer",
+            "address": "Ferme du voisage, Route Nationale<br>57680 Arry",
+            "latitude": "49.00610523305906",
+            "longitude": "6.051981176244221",
+            "opening_hours": "Nous sommes ouvert au public sans rdv ! <br />\r\nTous les jours de 14h à 17h30 (sauf le jeudi) ",
+            "filter": {
+                "ID": 23,
+                "name": "Refuges",
+                "color": "green",
+                "icon": {
+                    "color": {
+                        "src": "https://www.la-spa.fr/app/app/themes/spa/assets/img/icons/map/refuge.svg",
+                        "alt": ""
+                    },
+                    "light": {
+                        "src": "https://www.la-spa.fr/app/app/themes/spa/assets/img/icons/map/refuge-light.svg",
+                        "alt": ""
+                    }
+                }
+            },
+            "image": {
+                "desktop": {
+                    "src": "https://www.la-spa.fr/app/app/uploads/2021/09/ARRY.jpg",
+                    "alt": "",
+                    "webp": ""
+                },
+                "mobile": {
+                    "src": "https://www.la-spa.fr/app/app/uploads/2021/09/ARRY.jpg",
+                    "alt": "",
+                    "webp": ""
+                }
+            },
+            "email": "",
+            "phone": "03 87 52 08 99",
+            "url": "/etablissement/refuge-spa-darry-gerhard-cramer/",
+            "contact": "/contact-etablissement/?establishment=refuge-spa-darry-gerhard-cramer"
+        },
+        {
+            "ID": "7384",
+            "name": "Refuge SPA de Compiègne",
+            "address": "2 avenue de l'Armistice<br>60200 Compiègne",
+            "latitude": "49.42299241204667",
+            "longitude": "2.8485552412551067",
+            "opening_hours": "Ouvert tous les jours de 13h30 à 17h00.<br />\r\nLes week-end de 10h00 à 12h30 et de 13h30 à 17h00.<br />\r\nFermé tous les jeudis.<br />\r\nFermé à Noël (24 et 25 décembre) et au jour de l'an (31 décembre et 1er janvier).",
+            "filter": {
+                "ID": 23,
+                "name": "Refuges",
+                "color": "green",
+                "icon": {
+                    "color": {
+                        "src": "https://www.la-spa.fr/app/app/themes/spa/assets/img/icons/map/refuge.svg",
+                        "alt": ""
+                    },
+                    "light": {
+                        "src": "https://www.la-spa.fr/app/app/themes/spa/assets/img/icons/map/refuge-light.svg",
+                        "alt": ""
+                    }
+                }
+            },
+            "image": {
+                "desktop": {
+                    "src": "https://www.la-spa.fr/app/app/uploads/2021/09/Refuge-Compiegne.jpg",
+                    "alt": "",
+                    "webp": ""
+                },
+                "mobile": {
+                    "src": "https://www.la-spa.fr/app/app/uploads/2021/09/Refuge-Compiegne.jpg",
+                    "alt": "",
+                    "webp": ""
+                }
+            },
+            "email": "",
+            "phone": "03 44 40 21 20",
+            "url": "/etablissement/refuge-spa-de-compiegne/",
+            "contact": "/contact-etablissement/?establishment=refuge-spa-de-compiegne"
+        },
+        {
+            "ID": "7385",
+            "name": "Refuge SPA de Saint-Omer - Le Brockus",
+            "address": "Allée du Général Grammont<br>62500 Saint-Omer",
+            "latitude": "50.74775730643689",
+            "longitude": "2.2777489790233956",
+            "opening_hours": "Ouvert du lundi, mardi, mercredi, vendredi samedi de 14h00 à 17h30 et dimanche de 14h00 à 17h00. Fermé les jeudis.<br />\r\n<span style=\"color: #eb561c;\">Pour les adoptions il faudra être présent 30 minutes avant la fermeture.</span>",
+            "filter": {
+                "ID": 23,
+                "name": "Refuges",
+                "color": "green",
+                "icon": {
+                    "color": {
+                        "src": "https://www.la-spa.fr/app/app/themes/spa/assets/img/icons/map/refuge.svg",
+                        "alt": ""
+                    },
+                    "light": {
+                        "src": "https://www.la-spa.fr/app/app/themes/spa/assets/img/icons/map/refuge-light.svg",
+                        "alt": ""
+                    }
+                }
+            },
+            "image": {
+                "desktop": {
+                    "src": "https://www.la-spa.fr/app/app/uploads/2021/09/Refuge-Saint-Omer.jpg",
+                    "alt": "",
+                    "webp": ""
+                },
+                "mobile": {
+                    "src": "https://www.la-spa.fr/app/app/uploads/2021/09/Refuge-Saint-Omer.jpg",
+                    "alt": "",
+                    "webp": ""
+                }
+            },
+            "email": "",
+            "phone": "03 21 98 43 03 ",
+            "url": "/etablissement/refuge-spa-de-saint-omer-le-brockus/",
+            "contact": "/contact-etablissement/?establishment=refuge-spa-de-saint-omer-le-brockus"
+        },
+        {
+            "ID": "7386",
+            "name": "Refuge SPA de Tilloy-Les-Mofflaines - Arras",
+            "address": "Rue Laennec, Zone Industrielle Est <br>62217 Tilloy-Les-Mofflaines",
+            "latitude": "50.293258555466124",
+            "longitude": "2.812682501112065",
+            "opening_hours": "Ouvert tous les jours de 14h à 17h sauf le mardi (fermeture hebdomadaire).<br />\r\nOuvert les jours fériés (sauf les 24 et 25 décembre et le 31 décembre et 1er janvier).<br />\r\nPour une adoption se présenter au moins une heure avant la fermeture.",
+            "filter": {
+                "ID": 23,
+                "name": "Refuges",
+                "color": "green",
+                "icon": {
+                    "color": {
+                        "src": "https://www.la-spa.fr/app/app/themes/spa/assets/img/icons/map/refuge.svg",
+                        "alt": ""
+                    },
+                    "light": {
+                        "src": "https://www.la-spa.fr/app/app/themes/spa/assets/img/icons/map/refuge-light.svg",
+                        "alt": ""
+                    }
+                }
+            },
+            "image": {
+                "desktop": {
+                    "src": "https://www.la-spa.fr/app/app/uploads/2021/09/Refuge-Tilloy.jpg",
+                    "alt": "",
+                    "webp": ""
+                },
+                "mobile": {
+                    "src": "https://www.la-spa.fr/app/app/uploads/2021/09/Refuge-Tilloy.jpg",
+                    "alt": "",
+                    "webp": ""
+                }
+            },
+            "email": "",
+            "phone": "03 21 60 09 74",
+            "url": "/etablissement/refuge-spa-de-tilloy-les-mofflaines-arras/",
+            "contact": "/contact-etablissement/?establishment=refuge-spa-de-tilloy-les-mofflaines-arras"
+        },
+        {
+            "ID": "7387",
+            "name": "Refuge SPA de Perpignan",
+            "address": "Lieu-dit La Llabanère<br>66000 Perpignan",
+            "latitude": "42.74156536414631",
+            "longitude": "2.8865025764095273",
+            "opening_hours": "Le refuge de Perpignan est ouvert tous les jours de 14h à 17h.<br />\r\n- y compris les week-end et jours fériés<br />\r\n- mais sauf le mardi, jour de fermeture hebdomadaire,<br />\r\n- et sauf à Noël et le Jour de l'an",
+            "filter": {
+                "ID": 23,
+                "name": "Refuges",
+                "color": "green",
+                "icon": {
+                    "color": {
+                        "src": "https://www.la-spa.fr/app/app/themes/spa/assets/img/icons/map/refuge.svg",
+                        "alt": ""
+                    },
+                    "light": {
+                        "src": "https://www.la-spa.fr/app/app/themes/spa/assets/img/icons/map/refuge-light.svg",
+                        "alt": ""
+                    }
+                }
+            },
+            "image": {
+                "desktop": {
+                    "src": "https://www.la-spa.fr/app/app/uploads/2021/09/DSC_1176-2-scaled.jpg",
+                    "alt": "",
+                    "webp": ""
+                },
+                "mobile": {
+                    "src": "https://www.la-spa.fr/app/app/uploads/2021/09/DSC_1176-2-scaled.jpg",
+                    "alt": "",
+                    "webp": ""
+                }
+            },
+            "email": "",
+            "phone": "04 68 57 52 53",
+            "url": "/etablissement/refuge-spa-de-perpignan/",
+            "contact": "/contact-etablissement/?establishment=refuge-spa-de-perpignan"
+        },
+        {
+            "ID": "7388",
+            "name": "Refuge SPA de Torreilles - Le Jardin de La Padrine",
+            "address": "Route de Villelongue<br>66440 Torreilles",
+            "latitude": "42.73928786667211",
+            "longitude": "2.9906285642005326",
+            "opening_hours": "✅ Le refuge accueille le public tous les jours, SAUF LE LUNDI, de 14h à 17h, sans besoin de rendez-vous .<br />\r\nPour toute adoption nous vous demanderons de présenter un justificatif d'identité, de domicile et de revenus (version papier ou visualisable sur téléphone), merci d'y penser.<br />\r\nUn projet d'adoption ? Vous pouvez dés à présent télécharger  le certificat d'engagement et de connaissance, à signer a minima 7 jours avant adoption (accessible sur notre site depuis la page \"Voir tous les animaux à adopter\"), ou venir le retirer à notre accueil.<br />\r\n<br />\r\n<br />\r\n",
+            "filter": {
+                "ID": 23,
+                "name": "Refuges",
+                "color": "green",
+                "icon": {
+                    "color": {
+                        "src": "https://www.la-spa.fr/app/app/themes/spa/assets/img/icons/map/refuge.svg",
+                        "alt": ""
+                    },
+                    "light": {
+                        "src": "https://www.la-spa.fr/app/app/themes/spa/assets/img/icons/map/refuge-light.svg",
+                        "alt": ""
+                    }
+                }
+            },
+            "image": {
+                "desktop": {
+                    "src": "https://www.la-spa.fr/app/app/uploads/2021/09/refuge-argos.jpg",
+                    "alt": "",
+                    "webp": ""
+                },
+                "mobile": {
+                    "src": "https://www.la-spa.fr/app/app/uploads/2021/09/refuge-argos.jpg",
+                    "alt": "",
+                    "webp": ""
+                }
+            },
+            "email": "",
+            "phone": "04 68 28 20 36",
+            "url": "/etablissement/refuge-spa-de-torreilles-le-jardin-de-la-padrine/",
+            "contact": "/contact-etablissement/?establishment=refuge-spa-de-torreilles-le-jardin-de-la-padrine"
+        },
+        {
+            "ID": "7389",
+            "name": "Refuge SPA de Marennes - Lyon",
+            "address": "660 chemin de Chantemerle<br>69970 Marennes",
+            "latitude": "45.6138616096697",
+            "longitude": "4.905011610195405",
+            "opening_hours": "Le refuge est ouvert de 14h à 17h tous les jours de la semaine ( dimanche et jours fériés compris), sauf le jeudi, jour de fermeture.",
+            "filter": {
+                "ID": 23,
+                "name": "Refuges",
+                "color": "green",
+                "icon": {
+                    "color": {
+                        "src": "https://www.la-spa.fr/app/app/themes/spa/assets/img/icons/map/refuge.svg",
+                        "alt": ""
+                    },
+                    "light": {
+                        "src": "https://www.la-spa.fr/app/app/themes/spa/assets/img/icons/map/refuge-light.svg",
+                        "alt": ""
+                    }
+                }
+            },
+            "image": {
+                "desktop": {
+                    "src": "https://www.la-spa.fr/app/app/uploads/2021/09/IMG-20230115-WA00042-e1674473440639.jpg",
+                    "alt": "",
+                    "webp": ""
+                },
+                "mobile": {
+                    "src": "https://www.la-spa.fr/app/app/uploads/2021/09/IMG-20230115-WA00042-e1674473440639.jpg",
+                    "alt": "",
+                    "webp": ""
+                }
+            },
+            "email": "",
+            "phone": "04 72 70 46 36",
+            "url": "/etablissement/refuge-spa-de-marennes-lyon/",
+            "contact": "/contact-etablissement/?establishment=refuge-spa-de-marennes-lyon"
+        },
+        {
+            "ID": "7390",
+            "name": "Refuge SPA de Cluses - De La Vallée Blanche",
+            "address": "280 rue de la Garette<br>74300 Cluses",
+            "latitude": "46.05709334735139",
+            "longitude": "6.572538002491266",
+            "opening_hours": "Le refuge est ouvert de 14h à 17h tous les jours de la semaine ( dimanche et jours fériés compris), sauf le mardi, jour de fermeture.",
+            "filter": {
+                "ID": 23,
+                "name": "Refuges",
+                "color": "green",
+                "icon": {
+                    "color": {
+                        "src": "https://www.la-spa.fr/app/app/themes/spa/assets/img/icons/map/refuge.svg",
+                        "alt": ""
+                    },
+                    "light": {
+                        "src": "https://www.la-spa.fr/app/app/themes/spa/assets/img/icons/map/refuge-light.svg",
+                        "alt": ""
+                    }
+                }
+            },
+            "image": {
+                "desktop": {
+                    "src": "https://www.la-spa.fr/app/app/uploads/2021/09/Refuge-Cluses.jpg",
+                    "alt": "",
+                    "webp": ""
+                },
+                "mobile": {
+                    "src": "https://www.la-spa.fr/app/app/uploads/2021/09/Refuge-Cluses.jpg",
+                    "alt": "",
+                    "webp": ""
+                }
+            },
+            "email": "",
+            "phone": "04 50 96 00 83",
+            "url": "/etablissement/refuge-spa-de-cluses-de-la-vallee-blanche/",
+            "contact": "/contact-etablissement/?establishment=refuge-spa-de-cluses-de-la-vallee-blanche"
+        },
+        {
+            "ID": "7391",
+            "name": "Refuge SPA d’Étalondes",
+            "address": "Route de Boscrocourt<br>76260 Étalondes",
+            "latitude": "50.02121267968917",
+            "longitude": "1.3967069776701224",
+            "opening_hours": "Ouvert au public tous les jours de 14h00 à 16h45 SAUF le mardi.<br />\r\n",
+            "filter": {
+                "ID": 23,
+                "name": "Refuges",
+                "color": "green",
+                "icon": {
+                    "color": {
+                        "src": "https://www.la-spa.fr/app/app/themes/spa/assets/img/icons/map/refuge.svg",
+                        "alt": ""
+                    },
+                    "light": {
+                        "src": "https://www.la-spa.fr/app/app/themes/spa/assets/img/icons/map/refuge-light.svg",
+                        "alt": ""
+                    }
+                }
+            },
+            "image": {
+                "desktop": {
+                    "src": "https://www.la-spa.fr/app/app/uploads/2021/09/Photo-accueil.jpg",
+                    "alt": "",
+                    "webp": ""
+                },
+                "mobile": {
+                    "src": "https://www.la-spa.fr/app/app/uploads/2021/09/Photo-accueil.jpg",
+                    "alt": "",
+                    "webp": ""
+                }
+            },
+            "email": "",
+            "phone": "02 35 86 88 51",
+            "url": "/etablissement/refuge-spa-detalondes/",
+            "contact": "/contact-etablissement/?establishment=refuge-spa-detalondes"
+        },
+        {
+            "ID": "7392",
+            "name": "Refuge SPA de Vaux-Le-Penil",
+            "address": "Lieu-dit Les Prés Neufs<br>77000 Vaux-Le-Pénil",
+            "latitude": "48.52060653063953",
+            "longitude": "2.719298017136059",
+            "opening_hours": "Ouvert lundi, mercredi, jeudi, vendredi : de 14h à 17h.<br />\r\nOuvert samedi et dimanche : de 10h30 à 12h30 et de 14h à 17h.<br />\r\nFermé le mardi.<br />\r\nOuvert certains jours fériés.<br />\r\n",
+            "filter": {
+                "ID": 23,
+                "name": "Refuges",
+                "color": "green",
+                "icon": {
+                    "color": {
+                        "src": "https://www.la-spa.fr/app/app/themes/spa/assets/img/icons/map/refuge.svg",
+                        "alt": ""
+                    },
+                    "light": {
+                        "src": "https://www.la-spa.fr/app/app/themes/spa/assets/img/icons/map/refuge-light.svg",
+                        "alt": ""
+                    }
+                }
+            },
+            "image": {
+                "desktop": {
+                    "src": "https://www.la-spa.fr/app/app/uploads/2021/09/entree-refuge-soleil.jpg",
+                    "alt": "",
+                    "webp": ""
+                },
+                "mobile": {
+                    "src": "https://www.la-spa.fr/app/app/uploads/2021/09/entree-refuge-soleil.jpg",
+                    "alt": "",
+                    "webp": ""
+                }
+            },
+            "email": "",
+            "phone": "01 60 56 54 60",
+            "url": "/etablissement/refuge-spa-de-vaux-le-penil/",
+            "contact": "/contact-etablissement/?establishment=refuge-spa-de-vaux-le-penil"
+        },
+        {
+            "ID": "7393",
+            "name": "Refuge SPA d'Hermeray",
+            "address": "La Berthière<br>78125 Hermeray",
+            "latitude": "48.64608123047182",
+            "longitude": "1.655380022270077",
+            "opening_hours": "Ouvert lundi, mercredi, vendredi de 13h30 à 17h00.<br />\r\nMardi, Jeudi : fermeture au public<br />\r\nSamedi et dimanche : ouvert de 10h30-12h30 / 14h00-17h30",
+            "filter": {
+                "ID": 23,
+                "name": "Refuges",
+                "color": "green",
+                "icon": {
+                    "color": {
+                        "src": "https://www.la-spa.fr/app/app/themes/spa/assets/img/icons/map/refuge.svg",
+                        "alt": ""
+                    },
+                    "light": {
+                        "src": "https://www.la-spa.fr/app/app/themes/spa/assets/img/icons/map/refuge-light.svg",
+                        "alt": ""
+                    }
+                }
+            },
+            "image": {
+                "desktop": false,
+                "mobile": false
+            },
+            "email": "",
+            "phone": "01 34 83 50 28",
+            "url": "/etablissement/refuge-spa-dhermeray/",
+            "contact": "/contact-etablissement/?establishment=refuge-spa-dhermeray"
+        },
+        {
+            "ID": "7394",
+            "name": "Refuge SPA de Plaisir",
+            "address": "Bois de Sainte Apolline<br>78370 Plaisir",
+            "latitude": "48.799870281121535",
+            "longitude": "1.9314405018236562",
+            "opening_hours": "Notre refuge est ouvert aux horaires suivants:<br />\r\nLundi: 14h-17h<br />\r\nMardi: 14h-17h<br />\r\nMercredi: 14h-17h<br />\r\nJeudi: Fermé<br />\r\nVendredi: 14h-17h<br />\r\nSamedi: 10h30-13h puis 14h-17h<br />\r\nDimanche: 10h30-13h puis 14h-17h<br />\r\n<br />\r\nPour les adoptions, venir au moins 1heure avant la fermeture.",
+            "filter": {
+                "ID": 23,
+                "name": "Refuges",
+                "color": "green",
+                "icon": {
+                    "color": {
+                        "src": "https://www.la-spa.fr/app/app/themes/spa/assets/img/icons/map/refuge.svg",
+                        "alt": ""
+                    },
+                    "light": {
+                        "src": "https://www.la-spa.fr/app/app/themes/spa/assets/img/icons/map/refuge-light.svg",
+                        "alt": ""
+                    }
+                }
+            },
+            "image": {
+                "desktop": {
+                    "src": "https://www.la-spa.fr/app/app/uploads/2021/09/Refuge-Plaisir.jpg",
+                    "alt": "",
+                    "webp": ""
+                },
+                "mobile": {
+                    "src": "https://www.la-spa.fr/app/app/uploads/2021/09/Refuge-Plaisir.jpg",
+                    "alt": "",
+                    "webp": ""
+                }
+            },
+            "email": "",
+            "phone": "01 34 89 05 47",
+            "url": "/etablissement/refuge-spa-de-plaisir/",
+            "contact": "/contact-etablissement/?establishment=refuge-spa-de-plaisir"
+        },
+        {
+            "ID": "7395",
+            "name": "Refuge SPA d'Orgeval",
+            "address": "1 Route Royale<br>78630 Orgeval",
+            "latitude": "48.90466416893593",
+            "longitude": "1.9370745433045211",
+            "opening_hours": "Ouvert de 13h30 à 17h en semaine, de 10h à 13h puis de 14h à 17h le weekend.<br />\r\nFermé le mardi (standard téléphonique inclus).<br />\r\nPour toute adoption, nous vous invitons à vous présenter au refuge au minimum 1h avant la fermeture.",
+            "filter": {
+                "ID": 23,
+                "name": "Refuges",
+                "color": "green",
+                "icon": {
+                    "color": {
+                        "src": "https://www.la-spa.fr/app/app/themes/spa/assets/img/icons/map/refuge.svg",
+                        "alt": ""
+                    },
+                    "light": {
+                        "src": "https://www.la-spa.fr/app/app/themes/spa/assets/img/icons/map/refuge-light.svg",
+                        "alt": ""
+                    }
+                }
+            },
+            "image": {
+                "desktop": {
+                    "src": "https://www.la-spa.fr/app/app/uploads/2021/09/Refuge-Orgeval.jpg",
+                    "alt": "",
+                    "webp": ""
+                },
+                "mobile": {
+                    "src": "https://www.la-spa.fr/app/app/uploads/2021/09/Refuge-Orgeval.jpg",
+                    "alt": "",
+                    "webp": ""
+                }
+            },
+            "email": "",
+            "phone": "01 39 08 05 08",
+            "url": "/etablissement/refuge-spa-dorgeval/",
+            "contact": "/contact-etablissement/?establishment=refuge-spa-dorgeval"
+        },
+        {
+            "ID": "7396",
+            "name": "Refuge SPA de Poulainville",
+            "address": "Chemin des Aubivats<br>80260 Poulainville",
+            "latitude": "49.949374557633284",
+            "longitude": "2.3018638369305853",
+            "opening_hours": "Refuge ouvert tous les jours de 14h à 17h <br />\r\nSauf les jeudis fermeture hebdomadaire <br />\r\nRemplissez votre profil adoptant sur notre site, nos équipes vous contacteront !",
+            "filter": {
+                "ID": 23,
+                "name": "Refuges",
+                "color": "green",
+                "icon": {
+                    "color": {
+                        "src": "https://www.la-spa.fr/app/app/themes/spa/assets/img/icons/map/refuge.svg",
+                        "alt": ""
+                    },
+                    "light": {
+                        "src": "https://www.la-spa.fr/app/app/themes/spa/assets/img/icons/map/refuge-light.svg",
+                        "alt": ""
+                    }
+                }
+            },
+            "image": {
+                "desktop": {
+                    "src": "https://www.la-spa.fr/app/app/uploads/2021/09/Refuge-Poulainville.jpg",
+                    "alt": "",
+                    "webp": ""
+                },
+                "mobile": {
+                    "src": "https://www.la-spa.fr/app/app/uploads/2021/09/Refuge-Poulainville.jpg",
+                    "alt": "",
+                    "webp": ""
+                }
+            },
+            "email": "poulainville@la-spa.fr",
+            "phone": "03 22 52 01 47 ",
+            "url": "/etablissement/refuge-spa-de-poulainville/",
+            "contact": "/contact-etablissement/?establishment=refuge-spa-de-poulainville"
+        },
+        {
+            "ID": "7397",
+            "name": "Refuge SPA de Le Garric - Albi",
+            "address": "Route de Valdériès<br>81450 Le Garric",
+            "latitude": "44.00716115472063",
+            "longitude": "2.18166589438313",
+            "opening_hours": "Nous sommes ouverts, tous les jours sauf le mardi, de 14h15 à 17h00<br />\r\nOuverts jours fériés et weekend.",
+            "filter": {
+                "ID": 23,
+                "name": "Refuges",
+                "color": "green",
+                "icon": {
+                    "color": {
+                        "src": "https://www.la-spa.fr/app/app/themes/spa/assets/img/icons/map/refuge.svg",
+                        "alt": ""
+                    },
+                    "light": {
+                        "src": "https://www.la-spa.fr/app/app/themes/spa/assets/img/icons/map/refuge-light.svg",
+                        "alt": ""
+                    }
+                }
+            },
+            "image": {
+                "desktop": {
+                    "src": "https://www.la-spa.fr/app/app/uploads/2021/09/Refuge-Le-Garric.jpg",
+                    "alt": "",
+                    "webp": ""
+                },
+                "mobile": {
+                    "src": "https://www.la-spa.fr/app/app/uploads/2021/09/Refuge-Le-Garric.jpg",
+                    "alt": "",
+                    "webp": ""
+                }
+            },
+            "email": "legarric@la-spa.fr",
+            "phone": "05 63 36 51 92",
+            "url": "/etablissement/refuge-spa-de-le-garric-albi/",
+            "contact": "/contact-etablissement/?establishment=refuge-spa-de-le-garric-albi"
+        },
+        {
+            "ID": "7398",
+            "name": "Refuge SPA de Golfech - Des Deux Rives",
+            "address": "Route du stade<br>82400 Golfech",
+            "latitude": "44.11517669955284",
+            "longitude": "0.8658890556717515",
+            "opening_hours": "Ouvert tous les jours sauf le jeudi de 14h30 à 17h00.",
+            "filter": {
+                "ID": 23,
+                "name": "Refuges",
+                "color": "green",
+                "icon": {
+                    "color": {
+                        "src": "https://www.la-spa.fr/app/app/themes/spa/assets/img/icons/map/refuge.svg",
+                        "alt": ""
+                    },
+                    "light": {
+                        "src": "https://www.la-spa.fr/app/app/themes/spa/assets/img/icons/map/refuge-light.svg",
+                        "alt": ""
+                    }
+                }
+            },
+            "image": {
+                "desktop": {
+                    "src": "https://www.la-spa.fr/app/app/uploads/2021/09/Refuge.jpg",
+                    "alt": "",
+                    "webp": ""
+                },
+                "mobile": {
+                    "src": "https://www.la-spa.fr/app/app/uploads/2021/09/Refuge.jpg",
+                    "alt": "",
+                    "webp": ""
+                }
+            },
+            "email": "",
+            "phone": "05 63 39 55 20",
+            "url": "/etablissement/refuge-spa-de-golfech-des-deux-rives/",
+            "contact": "/contact-etablissement/?establishment=refuge-spa-de-golfech-des-deux-rives"
+        },
+        {
+            "ID": "7399",
+            "name": "Refuge SPA de Flayosc - Draguignan",
+            "address": "125 route de Lorgues <br>83780 Flayosc",
+            "latitude": "43.54295861326064",
+            "longitude": "6.313172523310175",
+            "opening_hours": "Ouvert tous les jours de 14h00 à 17h00, sauf le mardi.",
+            "filter": {
+                "ID": 23,
+                "name": "Refuges",
+                "color": "green",
+                "icon": {
+                    "color": {
+                        "src": "https://www.la-spa.fr/app/app/themes/spa/assets/img/icons/map/refuge.svg",
+                        "alt": ""
+                    },
+                    "light": {
+                        "src": "https://www.la-spa.fr/app/app/themes/spa/assets/img/icons/map/refuge-light.svg",
+                        "alt": ""
+                    }
+                }
+            },
+            "image": {
+                "desktop": {
+                    "src": "https://www.la-spa.fr/app/app/uploads/2021/09/Refuge-Flayosc.jpg",
+                    "alt": "",
+                    "webp": ""
+                },
+                "mobile": {
+                    "src": "https://www.la-spa.fr/app/app/uploads/2021/09/Refuge-Flayosc.jpg",
+                    "alt": "",
+                    "webp": ""
+                }
+            },
+            "email": "",
+            "phone": "04 94 70 70 66",
+            "url": "/etablissement/refuge-spa-de-flayosc-draguignan/",
+            "contact": "/contact-etablissement/?establishment=refuge-spa-de-flayosc-draguignan"
+        },
+        {
+            "ID": "7400",
+            "name": "Refuge SPA de La-Roche-Sur-Yon",
+            "address": "Impasse François Cevert, Route de Nantes<br>85000 La-Roche-Sur-Yon",
+            "latitude": "46.69902841080922",
+            "longitude": "-1.4268338705542518",
+            "opening_hours": "Le refuge et le standard téléphonique sont ouverts de 14h00 à 17h00 tous les jours (dimanche inclus) sauf le jeudi, jour de fermeture hebdomadaire.<br />\r\nFermetures exceptionnelles les 1er janvier et 25 décembre.",
+            "filter": {
+                "ID": 23,
+                "name": "Refuges",
+                "color": "green",
+                "icon": {
+                    "color": {
+                        "src": "https://www.la-spa.fr/app/app/themes/spa/assets/img/icons/map/refuge.svg",
+                        "alt": ""
+                    },
+                    "light": {
+                        "src": "https://www.la-spa.fr/app/app/themes/spa/assets/img/icons/map/refuge-light.svg",
+                        "alt": ""
+                    }
+                }
+            },
+            "image": {
+                "desktop": {
+                    "src": "https://www.la-spa.fr/app/app/uploads/2021/09/20240411_161835-copie.jpg",
+                    "alt": "",
+                    "webp": ""
+                },
+                "mobile": {
+                    "src": "https://www.la-spa.fr/app/app/uploads/2021/09/20240411_161835-copie.jpg",
+                    "alt": "",
+                    "webp": ""
+                }
+            },
+            "email": "",
+            "phone": "02 51 05 41 01",
+            "url": "/etablissement/refuge-spa-de-la-roche-sur-yon/",
+            "contact": "/contact-etablissement/?establishment=refuge-spa-de-la-roche-sur-yon"
+        },
+        {
+            "ID": "7401",
+            "name": "Refuge SPA de Château-D'olonne - Les Petites Prises",
+            "address": "Refuge Les Petites Prises<br>85180 Château-D'olonne",
+            "latitude": "46.5137918081462",
+            "longitude": "-1.7284707432794513",
+            "opening_hours": "Ouvert tous les jours de 14h00 à 17h00 sauf le mardi.<br />\r\n<font color=\"orange\">Ouvert le 1<sup>er</sup> mai 2023 !</font><br />\r\nFermé le 01 janvier et 24 & 25 décembre.",
+            "filter": {
+                "ID": 23,
+                "name": "Refuges",
+                "color": "green",
+                "icon": {
+                    "color": {
+                        "src": "https://www.la-spa.fr/app/app/themes/spa/assets/img/icons/map/refuge.svg",
+                        "alt": ""
+                    },
+                    "light": {
+                        "src": "https://www.la-spa.fr/app/app/themes/spa/assets/img/icons/map/refuge-light.svg",
+                        "alt": ""
+                    }
+                }
+            },
+            "image": {
+                "desktop": {
+                    "src": "https://www.la-spa.fr/app/app/uploads/2021/09/Refuge.jpg",
+                    "alt": "",
+                    "webp": ""
+                },
+                "mobile": {
+                    "src": "https://www.la-spa.fr/app/app/uploads/2021/09/Refuge.jpg",
+                    "alt": "",
+                    "webp": ""
+                }
+            },
+            "email": "",
+            "phone": "02 51 95 62 46",
+            "url": "/etablissement/refuge-spa-de-chateau-dolonne-les-petites-prises/",
+            "contact": "/contact-etablissement/?establishment=refuge-spa-de-chateau-dolonne-les-petites-prises"
+        },
+        {
+            "ID": "7402",
+            "name": "Refuge SPA de Chamarande",
+            "address": "CD 99 – Sortie de Torfou Le Parc du Lys, Lieu-dit Le Poirier Rouge<br>91730 Chamarande",
+            "latitude": "48.53365740451314",
+            "longitude": "2.2092074270780446",
+            "opening_hours": "Ouvert du lundi au vendredi de 13h30 à 17h.<br />\r\nFermé le Mardi et le Jeudi toute la journée.<br />\r\nLe samedi et dimanche : ouvert de 10h30 à 12h30 et de 14h00 à 17h30.<br />\r\nEn fonction de l'affluence, l'accès au refuge ne sera plus possible 1h avant la fermeture.<br />\r\nLE REFUGE SERA OUVERT LE LUNDI 1ER AVRIL DE 13H30 A 17H.<br />\r\n",
+            "filter": {
+                "ID": 23,
+                "name": "Refuges",
+                "color": "green",
+                "icon": {
+                    "color": {
+                        "src": "https://www.la-spa.fr/app/app/themes/spa/assets/img/icons/map/refuge.svg",
+                        "alt": ""
+                    },
+                    "light": {
+                        "src": "https://www.la-spa.fr/app/app/themes/spa/assets/img/icons/map/refuge-light.svg",
+                        "alt": ""
+                    }
+                }
+            },
+            "image": {
+                "desktop": false,
+                "mobile": false
+            },
+            "email": "",
+            "phone": "01 60 82 32 93",
+            "url": "/etablissement/refuge-spa-de-chamarande/",
+            "contact": "/contact-etablissement/?establishment=refuge-spa-de-chamarande"
+        },
+        {
+            "ID": "7403",
+            "name": "Refuge SPA de Gennevilliers - Grammont",
+            "address": "30 Avenue du Général de Gaulle<br>92230 Gennevilliers",
+            "latitude": "48.93316294633534",
+            "longitude": "2.3086639986948763",
+            "opening_hours": "Notre refuge est ouvert aux adoptions, sans rendez-vous <strong>(prévoir de venir au moins 2h avant l'heure de fermeture)</strong> :<br />\r\n-Mercredi, Jeudi, Vendredi de 13h à 17h<br />\r\n-Samedi et Dimanche de 10h à 17h<br />\r\n-Fermeture le Lundi et Mardi<br />\r\n<br />\r\nN'oubliez pas votre certificat d'engagement (disponible en ligne) qui doit être lu, daté et signé 7 jours avant toute adoption, ainsi que l'exige la loi !<br />\r\nPour rencontrer nos animaux, pour adoption ou visite simple, merci de venir impérativement 2 heures avant la fermeture.<br />\r\nSelon l'affluence, les visites simples peuvent être arrêtées plus tôt pour la bonne gestion du public et le bien-être des animaux. Merci pour votre compréhension !",
+            "filter": {
+                "ID": 23,
+                "name": "Refuges",
+                "color": "green",
+                "icon": {
+                    "color": {
+                        "src": "https://www.la-spa.fr/app/app/themes/spa/assets/img/icons/map/refuge.svg",
+                        "alt": ""
+                    },
+                    "light": {
+                        "src": "https://www.la-spa.fr/app/app/themes/spa/assets/img/icons/map/refuge-light.svg",
+                        "alt": ""
+                    }
+                }
+            },
+            "image": {
+                "desktop": {
+                    "src": "https://www.la-spa.fr/app/app/uploads/2021/09/SPA23_FB_COVER_1500x571_VIKING.jpg",
+                    "alt": "",
+                    "webp": ""
+                },
+                "mobile": {
+                    "src": "https://www.la-spa.fr/app/app/uploads/2021/09/SPA23_FB_COVER_1500x571_VIKING.jpg",
+                    "alt": "",
+                    "webp": ""
+                }
+            },
+            "email": "",
+            "phone": "01 47 98 57 40",
+            "url": "/etablissement/refuge-spa-de-gennevilliers-grammont/",
+            "contact": "/contact-etablissement/?establishment=refuge-spa-de-gennevilliers-grammont"
+        },
+        {
+            "ID": "7404",
+            "name": "Refuge SPA de Guadeloupe - Papillon",
+            "address": "Aérogare pôle Caraïbes, Morne Mamiel<br>97139 Guadeloupe",
+            "latitude": "16.27109677759523",
+            "longitude": "-61.52528492612244",
+            "opening_hours": "Ouvert tous les jours, sauf le mercredi, de 13h à 16h.",
+            "filter": {
+                "ID": 23,
+                "name": "Refuges",
+                "color": "green",
+                "icon": {
+                    "color": {
+                        "src": "https://www.la-spa.fr/app/app/themes/spa/assets/img/icons/map/refuge.svg",
+                        "alt": ""
+                    },
+                    "light": {
+                        "src": "https://www.la-spa.fr/app/app/themes/spa/assets/img/icons/map/refuge-light.svg",
+                        "alt": ""
+                    }
+                }
+            },
+            "image": {
+                "desktop": {
+                    "src": "https://www.la-spa.fr/app/app/uploads/2021/09/Refuge-de-Guadeloupe.jpg",
+                    "alt": "",
+                    "webp": ""
+                },
+                "mobile": {
+                    "src": "https://www.la-spa.fr/app/app/uploads/2021/09/Refuge-de-Guadeloupe.jpg",
+                    "alt": "",
+                    "webp": ""
+                }
+            },
+            "email": "",
+            "phone": "05 90 21 12 80",
+            "url": "/etablissement/refuge-spa-de-guadeloupe-papillon/",
+            "contact": "/contact-etablissement/?establishment=refuge-spa-de-guadeloupe-papillon"
+        },
+        {
+            "ID": "7405",
+            "name": "Refuge SPA d'Yvré-l'Évêque - Le Mans",
+            "address": "Route de Changé<br>72530  Yvré-L’Évêque",
+            "latitude": "48.00780665267424",
+            "longitude": "0.27428551949293617",
+            "opening_hours": "Ouvert du lundi au dimanche de 14h15 à 17h30 sauf le jeudi.",
+            "filter": {
+                "ID": 23,
+                "name": "Refuges",
+                "color": "green",
+                "icon": {
+                    "color": {
+                        "src": "https://www.la-spa.fr/app/app/themes/spa/assets/img/icons/map/refuge.svg",
+                        "alt": ""
+                    },
+                    "light": {
+                        "src": "https://www.la-spa.fr/app/app/themes/spa/assets/img/icons/map/refuge-light.svg",
+                        "alt": ""
+                    }
+                }
+            },
+            "image": {
+                "desktop": {
+                    "src": "https://www.la-spa.fr/app/app/uploads/2021/09/Refuge-Yvre.jpg",
+                    "alt": "",
+                    "webp": ""
+                },
+                "mobile": {
+                    "src": "https://www.la-spa.fr/app/app/uploads/2021/09/Refuge-Yvre.jpg",
+                    "alt": "",
+                    "webp": ""
+                }
+            },
+            "email": "yvreleveque@la-spa.fr",
+            "phone": "02 43 84 32 17",
+            "url": "/etablissement/refuge-spa-dyvre-leveque-le-mans/",
+            "contact": "/contact-etablissement/?establishment=refuge-spa-dyvre-leveque-le-mans"
+        },
+        {
+            "ID": "37793",
+            "name": "Refuge SPA de Bouguenais - Nantes",
+            "address": "Route des Landes Bigot<br>44340 Bouguenais",
+            "latitude": "47.169262",
+            "longitude": "-1.659605",
+            "opening_hours": "LUNDI :           13h30 - 17h00<br />\r\nMARDI:           Fermeture ⛔️<br />\r\nMERCREDI :    13h30 - 17h00<br />\r\nJEUDI :            Fermeture ⛔️<br />\r\nVENDREDI :    13h30 - 17h00<br />\r\nSAMEDI :        10h30 - 12h30 puis 14h00 - 17h30<br />\r\nDIMANCHE :   10h30 - 12H30 puis 14h00 - 17h30<br />\r\n<br />\r\nPour toute adoption, nous vous conseillons de venir une heure avant la fermeture afin d'avoir le temps d'organiser la rencontre avec l'animal.<br />\r\n<br />\r\nPour toute demande d'abandon, merci de nous contacter au préalable par mail.",
+            "filter": {
+                "ID": 23,
+                "name": "Refuges",
+                "color": "green",
+                "icon": {
+                    "color": {
+                        "src": "https://www.la-spa.fr/app/app/themes/spa/assets/img/icons/map/refuge.svg",
+                        "alt": ""
+                    },
+                    "light": {
+                        "src": "https://www.la-spa.fr/app/app/themes/spa/assets/img/icons/map/refuge-light.svg",
+                        "alt": ""
+                    }
+                }
+            },
+            "image": {
+                "desktop": {
+                    "src": "https://www.la-spa.fr/app/app/uploads/2022/03/P1150366.png",
+                    "alt": "",
+                    "webp": ""
+                },
+                "mobile": {
+                    "src": "https://www.la-spa.fr/app/app/uploads/2022/03/P1150366.png",
+                    "alt": "",
+                    "webp": ""
+                }
+            },
+            "email": "",
+            "phone": "02 49 62 81 02",
+            "url": "/etablissement/refuge-de-bouguenais-nantes/",
+            "contact": "/contact-etablissement/?establishment=refuge-de-bouguenais-nantes"
+        },
+        {
+            "ID": "55242",
+            "name": "Refuge SPA de Saône et Loire - Beaurepaire en Bresse",
+            "address": "ZA La Chaigne - 595, Rue du Muguet<br>71580 Beaurepaire-en-Bresse",
+            "latitude": "46.40048",
+            "longitude": "5.24398",
+            "opening_hours": "Ouvert lundi, mardi, mercredi, vendredi et samedi de 14h30 à 17h30.<br />\r\n<br />\r\nFermé le jeudi et le dimanche",
+            "filter": {
+                "ID": 23,
+                "name": "Refuges",
+                "color": "green",
+                "icon": {
+                    "color": {
+                        "src": "https://www.la-spa.fr/app/app/themes/spa/assets/img/icons/map/refuge.svg",
+                        "alt": ""
+                    },
+                    "light": {
+                        "src": "https://www.la-spa.fr/app/app/themes/spa/assets/img/icons/map/refuge-light.svg",
+                        "alt": ""
+                    }
+                }
+            },
+            "image": {
+                "desktop": {
+                    "src": "https://www.la-spa.fr/app/app/uploads/2021/09/Refuge.jpg",
+                    "alt": "",
+                    "webp": ""
+                },
+                "mobile": {
+                    "src": "https://www.la-spa.fr/app/app/uploads/2021/09/Refuge.jpg",
+                    "alt": "",
+                    "webp": ""
+                }
+            },
+            "email": "",
+            "phone": "03 84 24 82 20",
+            "url": "/etablissement/refuge-spa-de-saone-et-loire-beaurepaire-en-bresse/",
+            "contact": "/contact-etablissement/?establishment=refuge-spa-de-saone-et-loire-beaurepaire-en-bresse"
+        },
+        {
+            "ID": "75983",
+            "name": "Refuge SPA de Lezignan Corbières",
+            "address": "Lieu dit Cabanon de Bories<br>11200 Lézignan-Corbières",
+            "latitude": "43.160500",
+            "longitude": "2.733222",
+            "opening_hours": "Le refuge de la SPA de Lézignan-Corbières est <strong>ouvert du lundi au samedi de 14h à 17h</strong> ainsi que <strong>le dimanche de 14h à 17h</strong>. Veuillez noter que <strong>le refuge est fermé le jeudi</strong>. Nous vous invitons à venir rencontrer nos pensionnaires durant nos heures d'ouverture.",
+            "filter": {
+                "ID": 23,
+                "name": "Refuges",
+                "color": "green",
+                "icon": {
+                    "color": {
+                        "src": "https://www.la-spa.fr/app/app/themes/spa/assets/img/icons/map/refuge.svg",
+                        "alt": ""
+                    },
+                    "light": {
+                        "src": "https://www.la-spa.fr/app/app/themes/spa/assets/img/icons/map/refuge-light.svg",
+                        "alt": ""
+                    }
+                }
+            },
+            "image": {
+                "desktop": {
+                    "src": "https://www.la-spa.fr/app/app/uploads/2021/09/Refuge.jpg",
+                    "alt": "",
+                    "webp": ""
+                },
+                "mobile": {
+                    "src": "https://www.la-spa.fr/app/app/uploads/2021/09/Refuge.jpg",
+                    "alt": "",
+                    "webp": ""
+                }
+            },
+            "email": "lezignan@la-spa.fr",
+            "phone": "04 68 27 42 13",
+            "url": "/etablissement/refuge-spa-de-lezignan-corbieres/",
+            "contact": "/contact-etablissement/?establishment=refuge-spa-de-lezignan-corbieres"
+        },
+        {
+            "ID": "93332",
+            "name": "Refuge SPA de Haute-Marne Voillecomte - Maison des Caliméros",
+            "address": "4 La Brie<br>52130 Voillecomte",
+            "latitude": "48.513133",
+            "longitude": "4.845718",
+            "opening_hours": "Ouvert tous les jours sauf le mardi et le jeudi de 14h à 17h30.",
+            "filter": {
+                "ID": 23,
+                "name": "Refuges",
+                "color": "green",
+                "icon": {
+                    "color": {
+                        "src": "https://www.la-spa.fr/app/app/themes/spa/assets/img/icons/map/refuge.svg",
+                        "alt": ""
+                    },
+                    "light": {
+                        "src": "https://www.la-spa.fr/app/app/themes/spa/assets/img/icons/map/refuge-light.svg",
+                        "alt": ""
+                    }
+                }
+            },
+            "image": {
+                "desktop": {
+                    "src": "https://www.la-spa.fr/app/app/uploads/2023/08/Refuge-Maison-des-calimeros.jpg",
+                    "alt": "",
+                    "webp": ""
+                },
+                "mobile": {
+                    "src": "https://www.la-spa.fr/app/app/uploads/2023/08/Refuge-Maison-des-calimeros.jpg",
+                    "alt": "",
+                    "webp": ""
+                }
+            },
+            "email": "voillecomte@la-spa.fr",
+            "phone": "03.65.35.06.20",
+            "url": "/etablissement/refuge-spa-haute-marne-voillecomte/",
+            "contact": "/contact-etablissement/?establishment=refuge-spa-haute-marne-voillecomte"
+        },
+        {
+            "ID": "7344",
+            "name": "Maison SPA de Nice",
+            "address": "74 rue de France<br>06000 Nice",
+            "latitude": "43.694920974187276",
+            "longitude": "7.254664735253421",
+            "opening_hours": "La Maison SPA vous accueille sans rdv du mardi au vendredi, de 10 à 12 et de 14 à 18, et le samedi, de 14 à 18.",
+            "filter": {
+                "ID": 24,
+                "name": "Maisons SPA",
+                "color": "brown",
+                "icon": {
+                    "color": {
+                        "src": "https://www.la-spa.fr/app/app/themes/spa/assets/img/icons/map/maison-spa.svg",
+                        "alt": ""
+                    },
+                    "light": {
+                        "src": "https://www.la-spa.fr/app/app/themes/spa/assets/img/icons/map/maison-spa-light.svg",
+                        "alt": ""
+                    }
+                }
+            },
+            "image": {
+                "desktop": {
+                    "src": "https://www.la-spa.fr/app/app/uploads/2021/09/Maison-SPA-1.jpg",
+                    "alt": "",
+                    "webp": ""
+                },
+                "mobile": {
+                    "src": "https://www.la-spa.fr/app/app/uploads/2021/09/Maison-SPA-1.jpg",
+                    "alt": "",
+                    "webp": ""
+                }
+            },
+            "email": "",
+            "phone": "04 93 71 77 63 ",
+            "url": "/etablissement/maison-spa-de-nice/",
+            "contact": "/contact-maison-spa/?establishment=maison-spa-de-nice"
+        },
+        {
+            "ID": "7346",
+            "name": "Maison SPA d’Ajaccio",
+            "address": "18 cours Général Leclerc<br>20000 Ajaccio",
+            "latitude": "41.917238843838966",
+            "longitude": " 8.726867028413741",
+            "opening_hours": "La Maison SPA d'Ajaccio vous accueille du mardi au vendredi, de 13h30 à 16h.",
+            "filter": {
+                "ID": 24,
+                "name": "Maisons SPA",
+                "color": "brown",
+                "icon": {
+                    "color": {
+                        "src": "https://www.la-spa.fr/app/app/themes/spa/assets/img/icons/map/maison-spa.svg",
+                        "alt": ""
+                    },
+                    "light": {
+                        "src": "https://www.la-spa.fr/app/app/themes/spa/assets/img/icons/map/maison-spa-light.svg",
+                        "alt": ""
+                    }
+                }
+            },
+            "image": {
+                "desktop": {
+                    "src": "https://www.la-spa.fr/app/app/uploads/2021/09/Maison-Chat.jpg",
+                    "alt": "",
+                    "webp": ""
+                },
+                "mobile": {
+                    "src": "https://www.la-spa.fr/app/app/uploads/2021/09/Maison-Chat.jpg",
+                    "alt": "",
+                    "webp": ""
+                }
+            },
+            "email": "",
+            "phone": "04 95 28 13 04",
+            "url": "/etablissement/maison-spa-dajaccio/",
+            "contact": "/contact-maison-spa/?establishment=maison-spa-dajaccio"
+        },
+        {
+            "ID": "7347",
+            "name": "Maison SPA de Bordeaux",
+            "address": "64 rue Fondaudège<br>33000 Bordeaux",
+            "latitude": "44.847500874404325",
+            "longitude": "-0.5814355759380796",
+            "opening_hours": "La Maison SPA vous accueille du mardi au samedi de 9h à 12h et de 14h à 18h.",
+            "filter": {
+                "ID": 24,
+                "name": "Maisons SPA",
+                "color": "brown",
+                "icon": {
+                    "color": {
+                        "src": "https://www.la-spa.fr/app/app/themes/spa/assets/img/icons/map/maison-spa.svg",
+                        "alt": ""
+                    },
+                    "light": {
+                        "src": "https://www.la-spa.fr/app/app/themes/spa/assets/img/icons/map/maison-spa-light.svg",
+                        "alt": ""
+                    }
+                }
+            },
+            "image": {
+                "desktop": {
+                    "src": "https://www.la-spa.fr/app/app/uploads/2022/07/IMG_0859-e1656668580111.jpg",
+                    "alt": "",
+                    "webp": ""
+                },
+                "mobile": {
+                    "src": "https://www.la-spa.fr/app/app/uploads/2022/07/IMG_0859-e1656668580111.jpg",
+                    "alt": "",
+                    "webp": ""
+                }
+            },
+            "email": "",
+            "phone": "05 57 83 28 77",
+            "url": "/etablissement/maison-spa-de-bordeaux/",
+            "contact": "/contact-maison-spa/?establishment=maison-spa-de-bordeaux"
+        },
+        {
+            "ID": "7349",
+            "name": "Maison SPA de Tourcoing",
+            "address": "5 place de la Croix Rouge<br>59200 Tourcoing",
+            "latitude": "50.73222330359827",
+            "longitude": "3.1800660006894654",
+            "opening_hours": "Nous vous accueillons <b>du mardi au vendredi de 13h30 à 17h30</b> et le <b>samedi de 10h à 12h30</b> et <b>de 13h30 à 17h30</b>.<br />\r\nFermé le dimanche & le lundi.<br />\r\n<b><span style=\"color: #eb561c;\">Pour tout projet d'adoption, nous vous prions de venir avant 16h30.</span></b>",
+            "filter": {
+                "ID": 24,
+                "name": "Maisons SPA",
+                "color": "brown",
+                "icon": {
+                    "color": {
+                        "src": "https://www.la-spa.fr/app/app/themes/spa/assets/img/icons/map/maison-spa.svg",
+                        "alt": ""
+                    },
+                    "light": {
+                        "src": "https://www.la-spa.fr/app/app/themes/spa/assets/img/icons/map/maison-spa-light.svg",
+                        "alt": ""
+                    }
+                }
+            },
+            "image": {
+                "desktop": {
+                    "src": "https://www.la-spa.fr/app/app/uploads/2021/09/Maison-SPA-1.jpg",
+                    "alt": "",
+                    "webp": ""
+                },
+                "mobile": {
+                    "src": "https://www.la-spa.fr/app/app/uploads/2021/09/Maison-SPA-1.jpg",
+                    "alt": "",
+                    "webp": ""
+                }
+            },
+            "email": "",
+            "phone": "03 20 25 54 55",
+            "url": "/etablissement/maison-spa-de-tourcoing/",
+            "contact": "/contact-maison-spa/?establishment=maison-spa-de-tourcoing"
+        },
+        {
+            "ID": "7350",
+            "name": "Maison SPA de Niort",
+            "address": "22 avenue Jacques Bujault<br>79000 Niort",
+            "latitude": "46.32179354371339",
+            "longitude": "-0.4580697937263388",
+            "opening_hours": "Lundi : fermé<br />\r\nMardi : 11h-12h30 / 13h30-17h<br />\r\nMercredi : 11h-12h30 / 13h30-17h<br />\r\nJeudi : 11h-12h30 / 13h30-17h<br />\r\nVendredi : 11h-12h30 / 13h30-17h<br />\r\nSamedi : 10h-12h30 / 13h30-18h<br />\r\nDimanche : fermé",
+            "filter": {
+                "ID": 24,
+                "name": "Maisons SPA",
+                "color": "brown",
+                "icon": {
+                    "color": {
+                        "src": "https://www.la-spa.fr/app/app/themes/spa/assets/img/icons/map/maison-spa.svg",
+                        "alt": ""
+                    },
+                    "light": {
+                        "src": "https://www.la-spa.fr/app/app/themes/spa/assets/img/icons/map/maison-spa-light.svg",
+                        "alt": ""
+                    }
+                }
+            },
+            "image": {
+                "desktop": {
+                    "src": "https://www.la-spa.fr/app/app/uploads/2021/09/Joup.jpg",
+                    "alt": "",
+                    "webp": ""
+                },
+                "mobile": {
+                    "src": "https://www.la-spa.fr/app/app/uploads/2021/09/Joup.jpg",
+                    "alt": "",
+                    "webp": ""
+                }
+            },
+            "email": "",
+            "phone": "09 64 42 60 59",
+            "url": "/etablissement/maison-spa-de-niort/",
+            "contact": "/contact-maison-spa/?establishment=maison-spa-de-niort"
+        },
+        {
+            "ID": "7356",
+            "name": "Maison SPA de Charleville-Mézières",
+            "address": "70, Avenue du Petit Bois<br>08000 Charleville-Mézières",
+            "latitude": "49.82246208142384",
+            "longitude": "4.598951735896643",
+            "opening_hours": "13H30 - 17H30 du mardi au samedi inclus",
+            "filter": {
+                "ID": 24,
+                "name": "Maisons SPA",
+                "color": "brown",
+                "icon": {
+                    "color": {
+                        "src": "https://www.la-spa.fr/app/app/themes/spa/assets/img/icons/map/maison-spa.svg",
+                        "alt": ""
+                    },
+                    "light": {
+                        "src": "https://www.la-spa.fr/app/app/themes/spa/assets/img/icons/map/maison-spa-light.svg",
+                        "alt": ""
+                    }
+                }
+            },
+            "image": {
+                "desktop": {
+                    "src": "https://www.la-spa.fr/app/app/uploads/2021/09/Refuge.jpg",
+                    "alt": "",
+                    "webp": ""
+                },
+                "mobile": {
+                    "src": "https://www.la-spa.fr/app/app/uploads/2021/09/Refuge.jpg",
+                    "alt": "",
+                    "webp": ""
+                }
+            },
+            "email": "",
+            "phone": "03 24 54 90 40",
+            "url": "/etablissement/refuge-spa-de-cliron-charleville-mezieres/",
+            "contact": "/contact-maison-spa/?establishment=refuge-spa-de-cliron-charleville-mezieres"
+        },
+        {
+            "ID": "7318",
+            "name": "Fourrière SPA de Cabourg",
+            "address": "Avenue de l'Hippodrome<br>14390 Cabourg",
+            "latitude": "49.27698013033936",
+            "longitude": "-0.11607741358816458",
+            "opening_hours": "Ouvert de 14h00 à 17h30<br />\r\nOuvert le dimanche et les jours fériés.<br />\r\nFermeture au public le mardi",
+            "filter": {
+                "ID": 25,
+                "name": "Fourrières",
+                "color": "blue-grey",
+                "icon": {
+                    "color": {
+                        "src": "https://www.la-spa.fr/app/app/themes/spa/assets/img/icons/map/fourriere.svg",
+                        "alt": ""
+                    },
+                    "light": {
+                        "src": "https://www.la-spa.fr/app/app/themes/spa/assets/img/icons/map/fourriere-light.svg",
+                        "alt": ""
+                    }
+                }
+            },
+            "image": {
+                "desktop": false,
+                "mobile": false
+            },
+            "email": "",
+            "phone": "02 31 28 09 71",
+            "url": "/etablissement/fourriere-spa-de-cabourg/",
+            "contact": "/contact-fourriere/?establishment=fourriere-spa-de-cabourg"
+        },
+        {
+            "ID": "7319",
+            "name": "Fourrière SPA de Cholet",
+            "address": "Route de Toulemonde<br>49300 Cholet",
+            "latitude": "47.0566268309681",
+            "longitude": "-0.8181984350242697",
+            "opening_hours": "Ouvert tous les jours de 14h à 17h",
+            "filter": {
+                "ID": 25,
+                "name": "Fourrières",
+                "color": "blue-grey",
+                "icon": {
+                    "color": {
+                        "src": "https://www.la-spa.fr/app/app/themes/spa/assets/img/icons/map/fourriere.svg",
+                        "alt": ""
+                    },
+                    "light": {
+                        "src": "https://www.la-spa.fr/app/app/themes/spa/assets/img/icons/map/fourriere-light.svg",
+                        "alt": ""
+                    }
+                }
+            },
+            "image": {
+                "desktop": false,
+                "mobile": false
+            },
+            "email": "",
+            "phone": "02 41 71 99 99",
+            "url": "/etablissement/fourriere-spa-de-cholet/",
+            "contact": "/contact-fourriere/?establishment=fourriere-spa-de-cholet"
+        },
+        {
+            "ID": "7320",
+            "name": "Fourrière SPA de Compiègne",
+            "address": "2 avenue de l'Armistice<br>60200 Compiègne",
+            "latitude": "49.42299241204667",
+            "longitude": "2.8485552412551067",
+            "opening_hours": "Ouvert tous les jours de 13h30 à 17h00.<br />\r\nLes week-end de 10h00 à 12h30 et de 13h30 à 17h00.<br />\r\nFermé à Noël (24 et 25 décembre) et au jour de l'an (31 décembre et 1er janvier).",
+            "filter": {
+                "ID": 25,
+                "name": "Fourrières",
+                "color": "blue-grey",
+                "icon": {
+                    "color": {
+                        "src": "https://www.la-spa.fr/app/app/themes/spa/assets/img/icons/map/fourriere.svg",
+                        "alt": ""
+                    },
+                    "light": {
+                        "src": "https://www.la-spa.fr/app/app/themes/spa/assets/img/icons/map/fourriere-light.svg",
+                        "alt": ""
+                    }
+                }
+            },
+            "image": {
+                "desktop": false,
+                "mobile": false
+            },
+            "email": "",
+            "phone": "03 44 40 21 20",
+            "url": "/etablissement/fourriere-spa-de-compiegne/",
+            "contact": "/contact-fourriere/?establishment=fourriere-spa-de-compiegne"
+        },
+        {
+            "ID": "7321",
+            "name": "Fourrière SPA de Crozon",
+            "address": "Z.A. Kerdanvez<br>29160 Crozon",
+            "latitude": "48.25289082716569",
+            "longitude": "-4.446519115149014",
+            "opening_hours": "Ouvert du lundi au dimanche de 14h00 à 17h00, y compris les jours fériés.",
+            "filter": {
+                "ID": 25,
+                "name": "Fourrières",
+                "color": "blue-grey",
+                "icon": {
+                    "color": {
+                        "src": "https://www.la-spa.fr/app/app/themes/spa/assets/img/icons/map/fourriere.svg",
+                        "alt": ""
+                    },
+                    "light": {
+                        "src": "https://www.la-spa.fr/app/app/themes/spa/assets/img/icons/map/fourriere-light.svg",
+                        "alt": ""
+                    }
+                }
+            },
+            "image": {
+                "desktop": false,
+                "mobile": false
+            },
+            "email": "",
+            "phone": "02 30 14 05 42",
+            "url": "/etablissement/fourriere-spa-de-crozon/",
+            "contact": "/contact-fourriere/?establishment=fourriere-spa-de-crozon"
+        },
+        {
+            "ID": "7322",
+            "name": "Fourrière SPA d’Étalondes",
+            "address": "Route de Boscrocourt<br>76260 Étalondes",
+            "latitude": "50.02121267968917",
+            "longitude": "1.3967069776701224",
+            "opening_hours": "Ouvert du lundi au dimanche de 14h à 17h.",
+            "filter": {
+                "ID": 25,
+                "name": "Fourrières",
+                "color": "blue-grey",
+                "icon": {
+                    "color": {
+                        "src": "https://www.la-spa.fr/app/app/themes/spa/assets/img/icons/map/fourriere.svg",
+                        "alt": ""
+                    },
+                    "light": {
+                        "src": "https://www.la-spa.fr/app/app/themes/spa/assets/img/icons/map/fourriere-light.svg",
+                        "alt": ""
+                    }
+                }
+            },
+            "image": {
+                "desktop": false,
+                "mobile": false
+            },
+            "email": "",
+            "phone": "02 35 86 88 51",
+            "url": "/etablissement/fourriere-spa-detalondes/",
+            "contact": "/contact-fourriere/?establishment=fourriere-spa-detalondes"
+        },
+        {
+            "ID": "7323",
+            "name": "Fourrière SPA de Flayosc",
+            "address": "125 route de Lorgues <br>83780 Flayosc",
+            "latitude": "43.54295861326064",
+            "longitude": "6.313172523310175",
+            "opening_hours": "Ouvert tous les jours de 14h00 à 17h00, sauf le mardi.",
+            "filter": {
+                "ID": 25,
+                "name": "Fourrières",
+                "color": "blue-grey",
+                "icon": {
+                    "color": {
+                        "src": "https://www.la-spa.fr/app/app/themes/spa/assets/img/icons/map/fourriere.svg",
+                        "alt": ""
+                    },
+                    "light": {
+                        "src": "https://www.la-spa.fr/app/app/themes/spa/assets/img/icons/map/fourriere-light.svg",
+                        "alt": ""
+                    }
+                }
+            },
+            "image": {
+                "desktop": false,
+                "mobile": false
+            },
+            "email": "",
+            "phone": "04 94 70 70 66",
+            "url": "/etablissement/fourriere-spa-de-flayosc/",
+            "contact": "/contact-fourriere/?establishment=fourriere-spa-de-flayosc"
+        },
+        {
+            "ID": "7324",
+            "name": "Fourrière SPA de Forbach",
+            "address": "1 rue St Guy<br>57600 Forbach",
+            "latitude": "49.193472592938534",
+            "longitude": "6.932104248769037",
+            "opening_hours": "Ouvert tous les jours de 14h à 17h30 sauf le jeudi.",
+            "filter": {
+                "ID": 25,
+                "name": "Fourrières",
+                "color": "blue-grey",
+                "icon": {
+                    "color": {
+                        "src": "https://www.la-spa.fr/app/app/themes/spa/assets/img/icons/map/fourriere.svg",
+                        "alt": ""
+                    },
+                    "light": {
+                        "src": "https://www.la-spa.fr/app/app/themes/spa/assets/img/icons/map/fourriere-light.svg",
+                        "alt": ""
+                    }
+                }
+            },
+            "image": {
+                "desktop": false,
+                "mobile": false
+            },
+            "email": "",
+            "phone": "03 87 87 29 30",
+            "url": "/etablissement/fourriere-spa-de-forbach/",
+            "contact": "/contact-fourriere/?establishment=fourriere-spa-de-forbach"
+        },
+        {
+            "ID": "7325",
+            "name": "Fourrière SPA de Golfech",
+            "address": "Route du stade<br>82400 Golfech",
+            "latitude": "44.11517669955284",
+            "longitude": "0.8658890556717515",
+            "opening_hours": "Ouvert tous les jours de 14h30 à 17h00.",
+            "filter": {
+                "ID": 25,
+                "name": "Fourrières",
+                "color": "blue-grey",
+                "icon": {
+                    "color": {
+                        "src": "https://www.la-spa.fr/app/app/themes/spa/assets/img/icons/map/fourriere.svg",
+                        "alt": ""
+                    },
+                    "light": {
+                        "src": "https://www.la-spa.fr/app/app/themes/spa/assets/img/icons/map/fourriere-light.svg",
+                        "alt": ""
+                    }
+                }
+            },
+            "image": {
+                "desktop": false,
+                "mobile": false
+            },
+            "email": "",
+            "phone": "05 63 39 55 20",
+            "url": "/etablissement/fourriere-spa-de-golfech/",
+            "contact": "/contact-fourriere/?establishment=fourriere-spa-de-golfech"
+        },
+        {
+            "ID": "7326",
+            "name": "Fourrière SPA de Laon",
+            "address": "Chemin de la Croix de Chivy<br>02000 Laon",
+            "latitude": "49.55644502399694",
+            "longitude": "3.6378486996861357",
+            "opening_hours": "Ouvert de 14h à 17h30<br />\r\nFermeture le mardi.",
+            "filter": {
+                "ID": 25,
+                "name": "Fourrières",
+                "color": "blue-grey",
+                "icon": {
+                    "color": {
+                        "src": "https://www.la-spa.fr/app/app/themes/spa/assets/img/icons/map/fourriere.svg",
+                        "alt": ""
+                    },
+                    "light": {
+                        "src": "https://www.la-spa.fr/app/app/themes/spa/assets/img/icons/map/fourriere-light.svg",
+                        "alt": ""
+                    }
+                }
+            },
+            "image": {
+                "desktop": false,
+                "mobile": false
+            },
+            "email": "",
+            "phone": "03 23 20 42 54",
+            "url": "/etablissement/fourriere-spa-de-laon/",
+            "contact": "/contact-fourriere/?establishment=fourriere-spa-de-laon"
+        },
+        {
+            "ID": "7327",
+            "name": "Fourrière SPA de La-Roche-Sur-Yon",
+            "address": "Impasse François Cevert \n, Route de Nantes<br>85000 La-Roche-Sur-Yon",
+            "latitude": "46.69902841080922",
+            "longitude": "-1.4268338705542518",
+            "opening_hours": "Ouvert tous les jours de 14h00 à 17h00.<br />\r\nFermé les 1er janvier, 1er mai et 25 décembre.",
+            "filter": {
+                "ID": 25,
+                "name": "Fourrières",
+                "color": "blue-grey",
+                "icon": {
+                    "color": {
+                        "src": "https://www.la-spa.fr/app/app/themes/spa/assets/img/icons/map/fourriere.svg",
+                        "alt": ""
+                    },
+                    "light": {
+                        "src": "https://www.la-spa.fr/app/app/themes/spa/assets/img/icons/map/fourriere-light.svg",
+                        "alt": ""
+                    }
+                }
+            },
+            "image": {
+                "desktop": false,
+                "mobile": false
+            },
+            "email": "",
+            "phone": "02 51 05 41 01",
+            "url": "/etablissement/fourriere-spa-de-la-roche-sur-yon/",
+            "contact": "/contact-fourriere/?establishment=fourriere-spa-de-la-roche-sur-yon"
+        },
+        {
+            "ID": "7328",
+            "name": "Fourrière SPA de Le Garric",
+            "address": "Route de Valdériès<br>81450 Le Garric",
+            "latitude": "44.00716115472063",
+            "longitude": "2.18166589438313",
+            "opening_hours": "Nous sommes ouverts, tous les jours sauf le mardi, de 14h15 à 17h00<br />\r\nOuverts jours fériés et weekend.",
+            "filter": {
+                "ID": 25,
+                "name": "Fourrières",
+                "color": "blue-grey",
+                "icon": {
+                    "color": {
+                        "src": "https://www.la-spa.fr/app/app/themes/spa/assets/img/icons/map/fourriere.svg",
+                        "alt": ""
+                    },
+                    "light": {
+                        "src": "https://www.la-spa.fr/app/app/themes/spa/assets/img/icons/map/fourriere-light.svg",
+                        "alt": ""
+                    }
+                }
+            },
+            "image": {
+                "desktop": false,
+                "mobile": false
+            },
+            "email": "",
+            "phone": "05 63 36 51 92",
+            "url": "/etablissement/fourriere-spa-de-le-garric/",
+            "contact": "/contact-fourriere/?establishment=fourriere-spa-de-le-garric"
+        },
+        {
+            "ID": "7329",
+            "name": "Fourrière SPA de Millau",
+            "address": "Route de Paulhe<br>12100 Millau",
+            "latitude": "44.12291019701695",
+            "longitude": "3.0970125215174704",
+            "opening_hours": "Ouvert tous les jours sauf le mardi et les jours fériés, de 14h à 17h.",
+            "filter": {
+                "ID": 25,
+                "name": "Fourrières",
+                "color": "blue-grey",
+                "icon": {
+                    "color": {
+                        "src": "https://www.la-spa.fr/app/app/themes/spa/assets/img/icons/map/fourriere.svg",
+                        "alt": ""
+                    },
+                    "light": {
+                        "src": "https://www.la-spa.fr/app/app/themes/spa/assets/img/icons/map/fourriere-light.svg",
+                        "alt": ""
+                    }
+                }
+            },
+            "image": {
+                "desktop": false,
+                "mobile": false
+            },
+            "email": "",
+            "phone": "05 65 61 26 27",
+            "url": "/etablissement/fourriere-spa-de-millau/",
+            "contact": "/contact-fourriere/?establishment=fourriere-spa-de-millau"
+        },
+        {
+            "ID": "7330",
+            "name": "Fourrière SPA de Mirepoix",
+            "address": "Route de Villefranche<br>09500 Mirepoix",
+            "latitude": "43.11780840382037",
+            "longitude": "1.8392960591620964",
+            "opening_hours": "Ouvert tous les jours de 13h à 17h.",
+            "filter": {
+                "ID": 25,
+                "name": "Fourrières",
+                "color": "blue-grey",
+                "icon": {
+                    "color": {
+                        "src": "https://www.la-spa.fr/app/app/themes/spa/assets/img/icons/map/fourriere.svg",
+                        "alt": ""
+                    },
+                    "light": {
+                        "src": "https://www.la-spa.fr/app/app/themes/spa/assets/img/icons/map/fourriere-light.svg",
+                        "alt": ""
+                    }
+                }
+            },
+            "image": {
+                "desktop": false,
+                "mobile": false
+            },
+            "email": "",
+            "phone": "05 61 68 89 77",
+            "url": "/etablissement/fourriere-spa-de-mirepoix/",
+            "contact": "/contact-fourriere/?establishment=fourriere-spa-de-mirepoix"
+        },
+        {
+            "ID": "7331",
+            "name": "Fourrière SPA de Montluçon",
+            "address": "35 rue de la Loue<br>03100 Montluçon",
+            "latitude": "46.369895198439956",
+            "longitude": "2.5967036687921263",
+            "opening_hours": "Ouvert tous les jours sauf les jeudis et certains jours fériés, de 14h à 17h30.",
+            "filter": {
+                "ID": 25,
+                "name": "Fourrières",
+                "color": "blue-grey",
+                "icon": {
+                    "color": {
+                        "src": "https://www.la-spa.fr/app/app/themes/spa/assets/img/icons/map/fourriere.svg",
+                        "alt": ""
+                    },
+                    "light": {
+                        "src": "https://www.la-spa.fr/app/app/themes/spa/assets/img/icons/map/fourriere-light.svg",
+                        "alt": ""
+                    }
+                }
+            },
+            "image": {
+                "desktop": false,
+                "mobile": false
+            },
+            "email": "",
+            "phone": "04 70 29 63 23",
+            "url": "/etablissement/fourriere-spa-de-montlucon/",
+            "contact": "/contact-fourriere/?establishment=fourriere-spa-de-montlucon"
+        },
+        {
+            "ID": "7332",
+            "name": "Fourrière SPA de Morée",
+            "address": "1 Les Grandes Bretonnières<br>41160 Morée",
+            "latitude": "47.91180286897853",
+            "longitude": "1.278139680805298",
+            "opening_hours": "Ouvert tous les jours de 14h à 17h30 en été et tous les jours de 13h30 à 17h en hiver.",
+            "filter": {
+                "ID": 25,
+                "name": "Fourrières",
+                "color": "blue-grey",
+                "icon": {
+                    "color": {
+                        "src": "https://www.la-spa.fr/app/app/themes/spa/assets/img/icons/map/fourriere.svg",
+                        "alt": ""
+                    },
+                    "light": {
+                        "src": "https://www.la-spa.fr/app/app/themes/spa/assets/img/icons/map/fourriere-light.svg",
+                        "alt": ""
+                    }
+                }
+            },
+            "image": {
+                "desktop": false,
+                "mobile": false
+            },
+            "email": "",
+            "phone": "02 54 82 09 79",
+            "url": "/etablissement/fourriere-spa-de-moree/",
+            "contact": "/contact-fourriere/?establishment=fourriere-spa-de-moree"
+        },
+        {
+            "ID": "7333",
+            "name": "Fourrière SPA de Plaisir",
+            "address": "Bois de Sainte Apolline<br>78370 Plaisir",
+            "latitude": "48.799870281121535",
+            "longitude": "1.9314405018236562",
+            "opening_hours": "Ouvert tous les jours sauf le jeudi de 14h à 17h.<br />\r\nSamedi et dimanche de 10h30 à 13h et de 14h à 17h.",
+            "filter": {
+                "ID": 25,
+                "name": "Fourrières",
+                "color": "blue-grey",
+                "icon": {
+                    "color": {
+                        "src": "https://www.la-spa.fr/app/app/themes/spa/assets/img/icons/map/fourriere.svg",
+                        "alt": ""
+                    },
+                    "light": {
+                        "src": "https://www.la-spa.fr/app/app/themes/spa/assets/img/icons/map/fourriere-light.svg",
+                        "alt": ""
+                    }
+                }
+            },
+            "image": {
+                "desktop": false,
+                "mobile": false
+            },
+            "email": "",
+            "phone": "01 34 89 05 47",
+            "url": "/etablissement/fourriere-spa-de-plaisir/",
+            "contact": "/contact-fourriere/?establishment=fourriere-spa-de-plaisir"
+        },
+        {
+            "ID": "7334",
+            "name": "Fourrière SPA de Plouhinec",
+            "address": "Trohonan<br>29780 Plouhinec",
+            "latitude": "48.03348348630781",
+            "longitude": " -4.492666945655804",
+            "opening_hours": "Ouvert tous les jours de 13h30 à 17h00.<br />\r\nFermeture hebdomadaire le mardi.<br />\r\nOuvert les jours fériés, sauf durant les fêtes de fin d'année.",
+            "filter": {
+                "ID": 25,
+                "name": "Fourrières",
+                "color": "blue-grey",
+                "icon": {
+                    "color": {
+                        "src": "https://www.la-spa.fr/app/app/themes/spa/assets/img/icons/map/fourriere.svg",
+                        "alt": ""
+                    },
+                    "light": {
+                        "src": "https://www.la-spa.fr/app/app/themes/spa/assets/img/icons/map/fourriere-light.svg",
+                        "alt": ""
+                    }
+                }
+            },
+            "image": {
+                "desktop": false,
+                "mobile": false
+            },
+            "email": "",
+            "phone": "02 98 70 44 93",
+            "url": "/etablissement/fourriere-spa-de-plouhinec/",
+            "contact": "/contact-fourriere/?establishment=fourriere-spa-de-plouhinec"
+        },
+        {
+            "ID": "7335",
+            "name": "Fourrière SPA de Pornic",
+            "address": "Le Brandais <br>44210 Pornic",
+            "latitude": "47.19170985734564",
+            "longitude": "-2.0755631042641802",
+            "opening_hours": "Ouvert du lundi au dimanche de 14h à 17h, sauf le mardi.<br />\r\nOuvert les jours fériés (sauf le 25 décembre et 1er janvier)",
+            "filter": {
+                "ID": 25,
+                "name": "Fourrières",
+                "color": "blue-grey",
+                "icon": {
+                    "color": {
+                        "src": "https://www.la-spa.fr/app/app/themes/spa/assets/img/icons/map/fourriere.svg",
+                        "alt": ""
+                    },
+                    "light": {
+                        "src": "https://www.la-spa.fr/app/app/themes/spa/assets/img/icons/map/fourriere-light.svg",
+                        "alt": ""
+                    }
+                }
+            },
+            "image": {
+                "desktop": false,
+                "mobile": false
+            },
+            "email": "",
+            "phone": "02 40 21 75 92",
+            "url": "/etablissement/fourriere-spa-de-pornic/",
+            "contact": "/contact-fourriere/?establishment=fourriere-spa-de-pornic"
+        },
+        {
+            "ID": "7336",
+            "name": "Fourrière SPA de Saint-Omer",
+            "address": "Allée du Général Grammont<br>62500 Saint-Omer",
+            "latitude": "50.74775730643689",
+            "longitude": "2.2777489790233956",
+            "opening_hours": "<strong>Inondations : Fermeture temporaire du Refuge</strong><br />\r\n<br />\r\nOuvert du lundi au vendredi de 8h30 à 12h, puis de 14h à 17h30.<br />\r\nPas de ramassage le samedi et le dimanche.<br />\r\nSi vous avez trouvé un animal appelez d'abord la mairie de commune pour savoir si elle dépend de notre fourrière pour éviter un déplacement pour rien ou appelez la fourrière.",
+            "filter": {
+                "ID": 25,
+                "name": "Fourrières",
+                "color": "blue-grey",
+                "icon": {
+                    "color": {
+                        "src": "https://www.la-spa.fr/app/app/themes/spa/assets/img/icons/map/fourriere.svg",
+                        "alt": ""
+                    },
+                    "light": {
+                        "src": "https://www.la-spa.fr/app/app/themes/spa/assets/img/icons/map/fourriere-light.svg",
+                        "alt": ""
+                    }
+                }
+            },
+            "image": {
+                "desktop": false,
+                "mobile": false
+            },
+            "email": "",
+            "phone": "03 21 98 43 03 ",
+            "url": "/etablissement/fourriere-spa-de-saint-omer/",
+            "contact": "/contact-fourriere/?establishment=fourriere-spa-de-saint-omer"
+        },
+        {
+            "ID": "7337",
+            "name": "Fourrière SPA de Sarreguemines",
+            "address": "100 chemin du Bruchwies <br>57200 Sarreguemines",
+            "latitude": "49.11019749842416",
+            "longitude": "7.127357739873835",
+            "opening_hours": "Ouvert tous les jours sauf le jeudi entre 14h30 et 17h30.",
+            "filter": {
+                "ID": 25,
+                "name": "Fourrières",
+                "color": "blue-grey",
+                "icon": {
+                    "color": {
+                        "src": "https://www.la-spa.fr/app/app/themes/spa/assets/img/icons/map/fourriere.svg",
+                        "alt": ""
+                    },
+                    "light": {
+                        "src": "https://www.la-spa.fr/app/app/themes/spa/assets/img/icons/map/fourriere-light.svg",
+                        "alt": ""
+                    }
+                }
+            },
+            "image": {
+                "desktop": false,
+                "mobile": false
+            },
+            "email": "",
+            "phone": "03 87 98 82 63",
+            "url": "/etablissement/fourriere-spa-de-sarreguemines/",
+            "contact": "/contact-fourriere/?establishment=fourriere-spa-de-sarreguemines"
+        },
+        {
+            "ID": "7338",
+            "name": "Fourrière SPA de Saint-Parres-Aux-Tertres",
+            "address": "Chemin Départemental de Baires<br>10410 St-Parres-Aux-Tertres",
+            "latitude": "48.28251978992517",
+            "longitude": "4.122306664822761",
+            "opening_hours": "Ouvert tous les jours sauf le mardi de 13h30 à 17h.",
+            "filter": {
+                "ID": 25,
+                "name": "Fourrières",
+                "color": "blue-grey",
+                "icon": {
+                    "color": {
+                        "src": "https://www.la-spa.fr/app/app/themes/spa/assets/img/icons/map/fourriere.svg",
+                        "alt": ""
+                    },
+                    "light": {
+                        "src": "https://www.la-spa.fr/app/app/themes/spa/assets/img/icons/map/fourriere-light.svg",
+                        "alt": ""
+                    }
+                }
+            },
+            "image": {
+                "desktop": false,
+                "mobile": false
+            },
+            "email": "",
+            "phone": "03 25 81 17 83",
+            "url": "/etablissement/fourriere-spa-de-saint-parres-aux-tertres/",
+            "contact": "/contact-fourriere/?establishment=fourriere-spa-de-saint-parres-aux-tertres"
+        },
+        {
+            "ID": "7339",
+            "name": "Fourrière SPA de Thionville",
+            "address": "101 Chemin des Mineurs Oeutrange<br>57100 Thionville",
+            "latitude": "49.406417597560186",
+            "longitude": "6.117183569570666",
+            "opening_hours": "Ouvert du lundi au dimanche de 14h à 17h30 sauf le vendredi de 14h à 16h30. Ouverture les jours fériés.<br />\r\nFermeture le jeudi.",
+            "filter": {
+                "ID": 25,
+                "name": "Fourrières",
+                "color": "blue-grey",
+                "icon": {
+                    "color": {
+                        "src": "https://www.la-spa.fr/app/app/themes/spa/assets/img/icons/map/fourriere.svg",
+                        "alt": ""
+                    },
+                    "light": {
+                        "src": "https://www.la-spa.fr/app/app/themes/spa/assets/img/icons/map/fourriere-light.svg",
+                        "alt": ""
+                    }
+                }
+            },
+            "image": {
+                "desktop": false,
+                "mobile": false
+            },
+            "email": "",
+            "phone": "03 82 50 31 45",
+            "url": "/etablissement/fourriere-spa-de-thionville/",
+            "contact": "/contact-fourriere/?establishment=fourriere-spa-de-thionville"
+        },
+        {
+            "ID": "7340",
+            "name": "Fourrière SPA du Cotentin",
+            "address": "3 RN 13, Lieu-dit Les Tourterelles<br>50470 Tollevast",
+            "latitude": "49.63385011111512",
+            "longitude": "-1.6035413013126993",
+            "opening_hours": "Ouvert du lundi au dimanche de 14h à 17h, sauf le jeudi.",
+            "filter": {
+                "ID": 25,
+                "name": "Fourrières",
+                "color": "blue-grey",
+                "icon": {
+                    "color": {
+                        "src": "https://www.la-spa.fr/app/app/themes/spa/assets/img/icons/map/fourriere.svg",
+                        "alt": ""
+                    },
+                    "light": {
+                        "src": "https://www.la-spa.fr/app/app/themes/spa/assets/img/icons/map/fourriere-light.svg",
+                        "alt": ""
+                    }
+                }
+            },
+            "image": {
+                "desktop": false,
+                "mobile": false
+            },
+            "email": "",
+            "phone": "02 33 20 49 74",
+            "url": "/etablissement/fourriere-spa-du-cotentin/",
+            "contact": "/contact-fourriere/?establishment=fourriere-spa-du-cotentin"
+        },
+        {
+            "ID": "7341",
+            "name": "Fourrière SPA de Chameyrat",
+            "address": "La Rochette RN 89<br>19330 Chameyrat",
+            "latitude": "45.225928249516414",
+            "longitude": "1.7098979712806317",
+            "opening_hours": "Ouvert tous les jours de 14h à 17h, y compris les jours fériés.",
+            "filter": {
+                "ID": 25,
+                "name": "Fourrières",
+                "color": "blue-grey",
+                "icon": {
+                    "color": {
+                        "src": "https://www.la-spa.fr/app/app/themes/spa/assets/img/icons/map/fourriere.svg",
+                        "alt": ""
+                    },
+                    "light": {
+                        "src": "https://www.la-spa.fr/app/app/themes/spa/assets/img/icons/map/fourriere-light.svg",
+                        "alt": ""
+                    }
+                }
+            },
+            "image": {
+                "desktop": false,
+                "mobile": false
+            },
+            "email": "",
+            "phone": "05 55 27 26 81",
+            "url": "/etablissement/fourriere-spa-de-chameyrat/",
+            "contact": "/contact-fourriere/?establishment=fourriere-spa-de-chameyrat"
+        },
+        {
+            "ID": "7342",
+            "name": "Fourrière SPA d'Arry",
+            "address": "Ferme du voisage, Route Nationale<br>57680 Arry",
+            "latitude": "49.00610523305906",
+            "longitude": "6.051981176244221",
+            "opening_hours": "Ouvert de 14H à 17H30<br />\r\nFermeture le jeudi.",
+            "filter": {
+                "ID": 25,
+                "name": "Fourrières",
+                "color": "blue-grey",
+                "icon": {
+                    "color": {
+                        "src": "https://www.la-spa.fr/app/app/themes/spa/assets/img/icons/map/fourriere.svg",
+                        "alt": ""
+                    },
+                    "light": {
+                        "src": "https://www.la-spa.fr/app/app/themes/spa/assets/img/icons/map/fourriere-light.svg",
+                        "alt": ""
+                    }
+                }
+            },
+            "image": {
+                "desktop": false,
+                "mobile": false
+            },
+            "email": "",
+            "phone": "03 57 84 02 83",
+            "url": "/etablissement/fourriere-spa-darry/",
+            "contact": "/contact-fourriere/?establishment=fourriere-spa-darry"
+        },
+        {
+            "ID": "7343",
+            "name": "Fourrière SPA de Brugheas",
+            "address": "9 bis La Boucharde<br>03700 Brugheas",
+            "latitude": "46.069611743225096",
+            "longitude": "3.3815094488383757",
+            "opening_hours": "Ouvert du lundi au vendredi de 13h à 17h, le samedi et le dimanche de 10h à 17h.<br />\r\nFermeture le jeudi.",
+            "filter": {
+                "ID": 25,
+                "name": "Fourrières",
+                "color": "blue-grey",
+                "icon": {
+                    "color": {
+                        "src": "https://www.la-spa.fr/app/app/themes/spa/assets/img/icons/map/fourriere.svg",
+                        "alt": ""
+                    },
+                    "light": {
+                        "src": "https://www.la-spa.fr/app/app/themes/spa/assets/img/icons/map/fourriere-light.svg",
+                        "alt": ""
+                    }
+                }
+            },
+            "image": {
+                "desktop": false,
+                "mobile": false
+            },
+            "email": "",
+            "phone": "04 70 41 17 79",
+            "url": "/etablissement/fourriere-spa-de-brugheas/",
+            "contact": "/contact-fourriere/?establishment=fourriere-spa-de-brugheas"
+        },
+        {
+            "ID": "7306",
+            "name": "Dispensaire SPA du Cannet - Jeanine Vincent",
+            "address": "17 avenue Maurice Jeanpierre<br>06110 Le Cannet",
+            "latitude": "43.5738046",
+            "longitude": "7.006238",
+            "opening_hours": "Ouvert du lundi au samedi de 14h à 17h30.",
+            "filter": {
+                "ID": 26,
+                "name": "Dispensaires",
+                "color": "blue",
+                "icon": {
+                    "color": {
+                        "src": "https://www.la-spa.fr/app/app/themes/spa/assets/img/icons/map/dispensaire.svg",
+                        "alt": ""
+                    },
+                    "light": {
+                        "src": "https://www.la-spa.fr/app/app/themes/spa/assets/img/icons/map/dispensaire-light.svg",
+                        "alt": ""
+                    }
+                }
+            },
+            "image": {
+                "desktop": {
+                    "src": "https://www.la-spa.fr/app/app/uploads/2021/09/Dispensaire.jpg",
+                    "alt": "",
+                    "webp": ""
+                },
+                "mobile": {
+                    "src": "https://www.la-spa.fr/app/app/uploads/2021/09/Dispensaire.jpg",
+                    "alt": "",
+                    "webp": ""
+                }
+            },
+            "email": "",
+            "phone": "04 93 69 92 95",
+            "url": "/etablissement/dispensaire-spa-du-cannet-jeanine-vincent/",
+            "contact": "/contact-dispensaire/?establishment=dispensaire-spa-du-cannet-jeanine-vincent"
+        },
+        {
+            "ID": "7307",
+            "name": "Dispensaire SPA de Marseille",
+            "address": "24 Rue d’Eguison<br>13010 Marseille",
+            "latitude": "43.2821017",
+            "longitude": "5.3971716",
+            "opening_hours": "Ouvert du lundi au vendredi de 9h à 12h et de 13h à 17h.",
+            "filter": {
+                "ID": 26,
+                "name": "Dispensaires",
+                "color": "blue",
+                "icon": {
+                    "color": {
+                        "src": "https://www.la-spa.fr/app/app/themes/spa/assets/img/icons/map/dispensaire.svg",
+                        "alt": ""
+                    },
+                    "light": {
+                        "src": "https://www.la-spa.fr/app/app/themes/spa/assets/img/icons/map/dispensaire-light.svg",
+                        "alt": ""
+                    }
+                }
+            },
+            "image": {
+                "desktop": {
+                    "src": "https://www.la-spa.fr/app/app/uploads/2021/09/Dispensaire.jpg",
+                    "alt": "",
+                    "webp": ""
+                },
+                "mobile": {
+                    "src": "https://www.la-spa.fr/app/app/uploads/2021/09/Dispensaire.jpg",
+                    "alt": "",
+                    "webp": ""
+                }
+            },
+            "email": "",
+            "phone": "04 91 80 38 89",
+            "url": "/etablissement/dispensaire-spa-de-marseille/",
+            "contact": "/contact-dispensaire/?establishment=dispensaire-spa-de-marseille"
+        },
+        {
+            "ID": "7308",
+            "name": "Dispensaire SPA de Toulouse",
+            "address": "3 impasse de Sicile<br>31400 Toulouse",
+            "latitude": "43.571752",
+            "longitude": "1.454337",
+            "opening_hours": "Ouvert du lundi au vendredi de 9h30 à 13h00 et de 13h30 à 16h30.",
+            "filter": {
+                "ID": 26,
+                "name": "Dispensaires",
+                "color": "blue",
+                "icon": {
+                    "color": {
+                        "src": "https://www.la-spa.fr/app/app/themes/spa/assets/img/icons/map/dispensaire.svg",
+                        "alt": ""
+                    },
+                    "light": {
+                        "src": "https://www.la-spa.fr/app/app/themes/spa/assets/img/icons/map/dispensaire-light.svg",
+                        "alt": ""
+                    }
+                }
+            },
+            "image": {
+                "desktop": {
+                    "src": "https://www.la-spa.fr/app/app/uploads/2021/09/Dispensaire.jpg",
+                    "alt": "",
+                    "webp": ""
+                },
+                "mobile": {
+                    "src": "https://www.la-spa.fr/app/app/uploads/2021/09/Dispensaire.jpg",
+                    "alt": "",
+                    "webp": ""
+                }
+            },
+            "email": "",
+            "phone": "05 61 25 94 19",
+            "url": "/etablissement/dispensaire-spa-de-toulouse/",
+            "contact": "/contact-dispensaire/?establishment=dispensaire-spa-de-toulouse"
+        },
+        {
+            "ID": "7309",
+            "name": "Dispensaire SPA de Grenoble",
+            "address": "169 cours de la Libération et du Général de Gaulle<br>38000 Grenoble",
+            "latitude": "45.1774254",
+            "longitude": "5.7155852",
+            "opening_hours": "Ouvert du lundi au vendredi de 8h30 à 12h et de 13h30 à 17h. Sur RDV uniquement.",
+            "filter": {
+                "ID": 26,
+                "name": "Dispensaires",
+                "color": "blue",
+                "icon": {
+                    "color": {
+                        "src": "https://www.la-spa.fr/app/app/themes/spa/assets/img/icons/map/dispensaire.svg",
+                        "alt": ""
+                    },
+                    "light": {
+                        "src": "https://www.la-spa.fr/app/app/themes/spa/assets/img/icons/map/dispensaire-light.svg",
+                        "alt": ""
+                    }
+                }
+            },
+            "image": {
+                "desktop": {
+                    "src": "https://www.la-spa.fr/app/app/uploads/2021/09/Dispensaire.jpg",
+                    "alt": "",
+                    "webp": ""
+                },
+                "mobile": {
+                    "src": "https://www.la-spa.fr/app/app/uploads/2021/09/Dispensaire.jpg",
+                    "alt": "",
+                    "webp": ""
+                }
+            },
+            "email": "",
+            "phone": "04 76 09 43 67",
+            "url": "/etablissement/dispensaire-spa-de-grenoble/",
+            "contact": "/contact-dispensaire/?establishment=dispensaire-spa-de-grenoble"
+        },
+        {
+            "ID": "7310",
+            "name": "Dispensaire SPA d’Orléans",
+            "address": "38 bis rue du Poirier Rond<br>45000 Orléans",
+            "latitude": "47.91337683144247",
+            "longitude": "1.9209639370531482",
+            "opening_hours": "Ouvert du mardi au vendredi de 13h à 16h30.",
+            "filter": {
+                "ID": 26,
+                "name": "Dispensaires",
+                "color": "blue",
+                "icon": {
+                    "color": {
+                        "src": "https://www.la-spa.fr/app/app/themes/spa/assets/img/icons/map/dispensaire.svg",
+                        "alt": ""
+                    },
+                    "light": {
+                        "src": "https://www.la-spa.fr/app/app/themes/spa/assets/img/icons/map/dispensaire-light.svg",
+                        "alt": ""
+                    }
+                }
+            },
+            "image": {
+                "desktop": {
+                    "src": "https://www.la-spa.fr/app/app/uploads/2021/09/Dispensaire.jpg",
+                    "alt": "",
+                    "webp": ""
+                },
+                "mobile": {
+                    "src": "https://www.la-spa.fr/app/app/uploads/2021/09/Dispensaire.jpg",
+                    "alt": "",
+                    "webp": ""
+                }
+            },
+            "email": "",
+            "phone": "02 38 83 15 22",
+            "url": "/etablissement/dispensaire-spa-dorleans/",
+            "contact": "/contact-dispensaire/?establishment=dispensaire-spa-dorleans"
+        },
+        {
+            "ID": "7311",
+            "name": "Dispensaire SPA de Lievin - Lens",
+            "address": "11 rue Nicolas Leblanc<br>62800 Lievin",
+            "latitude": "50.4248247",
+            "longitude": "2.7775905",
+            "opening_hours": "Ouvert du lundi au vendredi de 8h à 12h et de 14h à 17h<br />\r\nFermé samedi, dimanche et jours fériés<br />\r\nMatinées réservées aux chirurgies sur RDV<br />\r\nAprès-midi réservées aux consultations sur RDV",
+            "filter": {
+                "ID": 26,
+                "name": "Dispensaires",
+                "color": "blue",
+                "icon": {
+                    "color": {
+                        "src": "https://www.la-spa.fr/app/app/themes/spa/assets/img/icons/map/dispensaire.svg",
+                        "alt": ""
+                    },
+                    "light": {
+                        "src": "https://www.la-spa.fr/app/app/themes/spa/assets/img/icons/map/dispensaire-light.svg",
+                        "alt": ""
+                    }
+                }
+            },
+            "image": {
+                "desktop": {
+                    "src": "https://www.la-spa.fr/app/app/uploads/2021/09/Dispensaire.jpg",
+                    "alt": "",
+                    "webp": ""
+                },
+                "mobile": {
+                    "src": "https://www.la-spa.fr/app/app/uploads/2021/09/Dispensaire.jpg",
+                    "alt": "",
+                    "webp": ""
+                }
+            },
+            "email": "",
+            "phone": "03 21 45 25 55",
+            "url": "/etablissement/dispensaire-spa-de-lievin-lens/",
+            "contact": "/contact-dispensaire/?establishment=dispensaire-spa-de-lievin-lens"
+        },
+        {
+            "ID": "7312",
+            "name": "Dispensaire SPA de Perpignan",
+            "address": "Lieu-dit La Llabanère<br>66000 Perpignan",
+            "latitude": "42.74156536414631",
+            "longitude": "2.8865025764095273",
+            "opening_hours": "Consultations : Du lundi au vendredi de 13h30 à 17h sur RDV<br />\r\nChirurgies : Du lundi au vendredi de 8h30 à 12h",
+            "filter": {
+                "ID": 26,
+                "name": "Dispensaires",
+                "color": "blue",
+                "icon": {
+                    "color": {
+                        "src": "https://www.la-spa.fr/app/app/themes/spa/assets/img/icons/map/dispensaire.svg",
+                        "alt": ""
+                    },
+                    "light": {
+                        "src": "https://www.la-spa.fr/app/app/themes/spa/assets/img/icons/map/dispensaire-light.svg",
+                        "alt": ""
+                    }
+                }
+            },
+            "image": {
+                "desktop": {
+                    "src": "https://www.la-spa.fr/app/app/uploads/2021/09/Dispensaire.jpg",
+                    "alt": "",
+                    "webp": ""
+                },
+                "mobile": {
+                    "src": "https://www.la-spa.fr/app/app/uploads/2021/09/Dispensaire.jpg",
+                    "alt": "",
+                    "webp": ""
+                }
+            },
+            "email": "",
+            "phone": "04 68 57 52 50",
+            "url": "/etablissement/dispensaire-spa-de-perpignan/",
+            "contact": "/contact-dispensaire/?establishment=dispensaire-spa-de-perpignan"
+        },
+        {
+            "ID": "7313",
+            "name": "Dispensaire SPA de Lyon",
+            "address": "62 rue St Maximin<br>69003 Lyon",
+            "latitude": "45.747780867758195",
+            "longitude": "4.871975006319577",
+            "opening_hours": "Ouvert du lundi au vendredi de 8h à 12h et de 13h à 17h.<br />\r\nLe jeudi de 8h à 12h.",
+            "filter": {
+                "ID": 26,
+                "name": "Dispensaires",
+                "color": "blue",
+                "icon": {
+                    "color": {
+                        "src": "https://www.la-spa.fr/app/app/themes/spa/assets/img/icons/map/dispensaire.svg",
+                        "alt": ""
+                    },
+                    "light": {
+                        "src": "https://www.la-spa.fr/app/app/themes/spa/assets/img/icons/map/dispensaire-light.svg",
+                        "alt": ""
+                    }
+                }
+            },
+            "image": {
+                "desktop": {
+                    "src": "https://www.la-spa.fr/app/app/uploads/2021/09/Dispensaire.jpg",
+                    "alt": "",
+                    "webp": ""
+                },
+                "mobile": {
+                    "src": "https://www.la-spa.fr/app/app/uploads/2021/09/Dispensaire.jpg",
+                    "alt": "",
+                    "webp": ""
+                }
+            },
+            "email": "",
+            "phone": "04 78 52 61 17",
+            "url": "/etablissement/dispensaire-spa-de-lyon/",
+            "contact": "/contact-dispensaire/?establishment=dispensaire-spa-de-lyon"
+        },
+        {
+            "ID": "7314",
+            "name": "Dispensaire SPA de Paris",
+            "address": "5 avenue Stéphane Mallarmé<br>75017 Paris",
+            "latitude": "48.8870443",
+            "longitude": "2.2941794",
+            "opening_hours": "Ouvert du lundi au vendredi de 9h à 16h30.<br />\r\nSamedi réservé aux suivis post opératoires.<br />\r\nFermé le dimanche.",
+            "filter": {
+                "ID": 26,
+                "name": "Dispensaires",
+                "color": "blue",
+                "icon": {
+                    "color": {
+                        "src": "https://www.la-spa.fr/app/app/themes/spa/assets/img/icons/map/dispensaire.svg",
+                        "alt": ""
+                    },
+                    "light": {
+                        "src": "https://www.la-spa.fr/app/app/themes/spa/assets/img/icons/map/dispensaire-light.svg",
+                        "alt": ""
+                    }
+                }
+            },
+            "image": {
+                "desktop": {
+                    "src": "https://www.la-spa.fr/app/app/uploads/2021/09/Dispensaire.jpg",
+                    "alt": "",
+                    "webp": ""
+                },
+                "mobile": {
+                    "src": "https://www.la-spa.fr/app/app/uploads/2021/09/Dispensaire.jpg",
+                    "alt": "",
+                    "webp": ""
+                }
+            },
+            "email": "",
+            "phone": "01 46 33 94 37",
+            "url": "/etablissement/dispensaire-spa-de-paris/",
+            "contact": "/contact-dispensaire/?establishment=dispensaire-spa-de-paris"
+        },
+        {
+            "ID": "7315",
+            "name": "Dispensaire SPA Le Petit Quevilly - Rouen",
+            "address": "1 rue René Manesse<br>76140 Le Petit Quevilly",
+            "latitude": "49.41800436250458",
+            "longitude": "1.0654866632230382",
+            "opening_hours": "Ouvert du lundi au vendredi de 9h à 12h et de 13h00 à 17h00.",
+            "filter": {
+                "ID": 26,
+                "name": "Dispensaires",
+                "color": "blue",
+                "icon": {
+                    "color": {
+                        "src": "https://www.la-spa.fr/app/app/themes/spa/assets/img/icons/map/dispensaire.svg",
+                        "alt": ""
+                    },
+                    "light": {
+                        "src": "https://www.la-spa.fr/app/app/themes/spa/assets/img/icons/map/dispensaire-light.svg",
+                        "alt": ""
+                    }
+                }
+            },
+            "image": {
+                "desktop": {
+                    "src": "https://www.la-spa.fr/app/app/uploads/2021/09/Dispensaire.jpg",
+                    "alt": "",
+                    "webp": ""
+                },
+                "mobile": {
+                    "src": "https://www.la-spa.fr/app/app/uploads/2021/09/Dispensaire.jpg",
+                    "alt": "",
+                    "webp": ""
+                }
+            },
+            "email": "",
+            "phone": "02 35 63 20 27",
+            "url": "/etablissement/dispensaire-spa-le-petit-quevilly-rouen/",
+            "contact": "/contact-dispensaire/?establishment=dispensaire-spa-le-petit-quevilly-rouen"
+        },
+        {
+            "ID": "7316",
+            "name": "Dispensaire SPA de Poulainville",
+            "address": "Chemin des Aubivats<br>80260 Poulainville",
+            "latitude": "49.949374557633284",
+            "longitude": "2.3018638369305853",
+            "opening_hours": "Chirurgies : Lundi Mardi Jeudi et Vendredi à 9h<br />\r\nConsultations : Lundi Mardi et Vendredi de 14h00 à 17h00<br />\r\n<br />\r\nUNIQUEMENT SUR RENDEZ-VOUS <br />\r\n",
+            "filter": {
+                "ID": 26,
+                "name": "Dispensaires",
+                "color": "blue",
+                "icon": {
+                    "color": {
+                        "src": "https://www.la-spa.fr/app/app/themes/spa/assets/img/icons/map/dispensaire.svg",
+                        "alt": ""
+                    },
+                    "light": {
+                        "src": "https://www.la-spa.fr/app/app/themes/spa/assets/img/icons/map/dispensaire-light.svg",
+                        "alt": ""
+                    }
+                }
+            },
+            "image": {
+                "desktop": {
+                    "src": "https://www.la-spa.fr/app/app/uploads/2021/09/Dispensaire.jpg",
+                    "alt": "",
+                    "webp": ""
+                },
+                "mobile": {
+                    "src": "https://www.la-spa.fr/app/app/uploads/2021/09/Dispensaire.jpg",
+                    "alt": "",
+                    "webp": ""
+                }
+            },
+            "email": "",
+            "phone": "03 22 52 16 30 ",
+            "url": "/etablissement/dispensaire-spa-de-poulainville/",
+            "contact": "/contact-dispensaire/?establishment=dispensaire-spa-de-poulainville"
+        },
+        {
+            "ID": "7317",
+            "name": "Dispensaire SPA de Toulon",
+            "address": "32 rue Berthier <br>83100 Toulon",
+            "latitude": "43.12434064023219",
+            "longitude": "5.951480007454315",
+            "opening_hours": "Ouvert du lundi au vendredi de 8h30 à 12h et de 13h à 17h.",
+            "filter": {
+                "ID": 26,
+                "name": "Dispensaires",
+                "color": "blue",
+                "icon": {
+                    "color": {
+                        "src": "https://www.la-spa.fr/app/app/themes/spa/assets/img/icons/map/dispensaire.svg",
+                        "alt": ""
+                    },
+                    "light": {
+                        "src": "https://www.la-spa.fr/app/app/themes/spa/assets/img/icons/map/dispensaire-light.svg",
+                        "alt": ""
+                    }
+                }
+            },
+            "image": {
+                "desktop": {
+                    "src": "https://www.la-spa.fr/app/app/uploads/2021/09/Dispensaire.jpg",
+                    "alt": "",
+                    "webp": ""
+                },
+                "mobile": {
+                    "src": "https://www.la-spa.fr/app/app/uploads/2021/09/Dispensaire.jpg",
+                    "alt": "",
+                    "webp": ""
+                }
+            },
+            "email": "",
+            "phone": "04 94 03 33 00",
+            "url": "/etablissement/dispensaire-spa-de-toulon/",
+            "contact": "/contact-dispensaire/?establishment=dispensaire-spa-de-toulon"
+        }
+    ]
+}
