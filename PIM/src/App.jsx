@@ -4,7 +4,9 @@ function App() {
 
   return (
     <>
-      <p>PAGE D'OUVERTURE</p>
+    <button>
+      PAGE D'OUVERTURE
+    </button>
     </>
   )
 }
