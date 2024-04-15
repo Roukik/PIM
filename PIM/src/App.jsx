@@ -5,7 +5,7 @@ function App() {
 
   return (
     <>
-        <button type="Onclick">
+        <button type="Onclick" className='btnStart'>
           PAGE D'OUVERTURE
         </button>
     </>
