@@ -2,9 +2,7 @@ import React, { useState } from 'react';
 import Notif from '../assets/notif.svg';
 import Coeur from '../assets/coeur.svg';
 import Bonhomme from '../assets/bonhomme.svg';
-import Favories from '../Pages/Favories';
-import Notifications from '../Pages/Notifications';
-import Profil from '../Pages/Profil';
+import { Link } from 'react-router-dom';
 
 const Menu = () => {
   const [sidebarOpen, setSidebarOpen] = useState(false);
@@ -203,8 +201,8 @@ const Menu = () => {
           <Link to="/Notifications">
             <img src={Notif} alt="Notifications" className="icon" />
           </Link>
-          <Link to="/Favorites">
-            <img src={Coeur} alt="Favorites" className="icon" />
+          <Link to="/Favories">
+            <img src={Coeur} alt="Favories" className="icon" />
           </Link>
           <Link to="/Profil">
             <img src={Bonhomme} alt="Profil" className="icon" />
