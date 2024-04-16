@@ -1,11 +1,4 @@
-import React, { useState } from 'react';
-
-const Menu = () => {
-  const [sidebarOpen, setSidebarOpen] = useState(false);
-
-  const handleSidebarToggle = () => {
-    setSidebarOpen(!sidebarOpen);
-  };
+#ADC798
 
   return (
     <div className="container">
@@ -31,7 +24,7 @@ const Menu = () => {
           width: 100%;
           max-width: 100%;
           box-shadow: none;
-          background-color: #ADC798;
+          background-color: #FC466B;
           position: fixed;
           height: 60px!important;
           overflow: hidden;
@@ -68,7 +61,7 @@ const Menu = () => {
           margin-top: 60px;
           transform: translateX(-250px);
           transition: transform 250ms ease-in-out;
-          background:#ADC798;
+          background: linear-gradient(180deg, #FC466B 0%, #3F5EFB 100%);
         }
 
         .sidebarMenuInner {
@@ -174,42 +167,3 @@ const Menu = () => {
           transform: rotate(-135deg);
           margin-top:8px;
         }
-      `}</style>
-      <div className="header"></div>
-      <input type="checkbox" className="openSidebarMenu" id="openSidebarMenu" checked={sidebarOpen} onChange={handleSidebarToggle} />
-      <label htmlFor="openSidebarMenu" className="sidebarIconToggle">
-        <div className="spinner diagonal part-1"></div>
-        <div className="spinner horizontal"></div>
-        <div className="spinner diagonal part-2"></div>
-      </label>
-      <div id="sidebarMenu" className={sidebarOpen ? 'open' : ''}>
-        <ul className="sidebarMenuInner">
-          <li><span>MENU</span></li>
-          <li><a href="https://vanila.io" target="_blank" rel="noopener noreferrer">Refuge</a></li>
-          <li><a href="https://instagram.com/plavookac" target="_blank" rel="noopener noreferrer">Cartes</a></li>
-          <li><a href="https://twitter.com/plavookac" target="_blank" rel="noopener noreferrer">Animaux</a></li>
-          <li><a href="https://www.youtube.com/channel/UCDfZM0IK6RBgud8HYGFXAJg" target="_blank" rel="noopener noreferrer">Prendre rendez-vous</a></li>
-          <li><a href="https://www.linkedin.com/in/plavookac/" target="_blank" rel="noopener noreferrer">Profil</a></li>
-        </ul>
-        <div className="sidebarIcons">
-          <div className="icon"><i className="fas fa-bell"></i></div>
-          <div className="icon"><i className="fas fa-heart"></i></div>
-          <div className="icon"><i className="fas fa-user"></i></div>
-        </div>
-      </div>
-      <div id='center' className="main center">
-        <div className="mainInner">
-          <div>PURE CSS SIDEBAR TOGGLE MENU</div>
-        </div>
-        <div className="mainInner">
-          <div>PURE CSS SIDEBAR TOGGLE MENU</div>
-        </div>
-        <div className="mainInner">
-          <div>PURE CSS SIDEBAR TOGGLE MENU</div>
-        </div>
-      </div>
-    </div>
-  );
-};
-
-export default Menu;
