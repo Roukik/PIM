@@ -136,23 +136,25 @@ const Menu = () => {
           transition: all 0.3s;
           box-sizing: border-box;
           position: relative;
-          float: left;
-          margin-top: 3px;
+          margin-top: 13px; /* Ajustez la valeur pour l'alignement vertical */
+          width: 50px;
         }
-
+        
         .diagonal.part-1 {
           position: relative;
           transition: all 0.3s;
           box-sizing: border-box;
           float: left;
+          width: 50px;
         }
-
+        
         .diagonal.part-2 {
           transition: all 0.3s;
           box-sizing: border-box;
           position: relative;
           float: left;
-          margin-top: 3px;
+          margin-top: 13px; /* Ajustez la valeur pour l'alignement vertical */
+          width: 50px;
         }
 
         input[type=checkbox]:checked ~ .sidebarIconToggle > .horizontal {
