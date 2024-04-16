@@ -2,6 +2,9 @@ import React, { useState } from 'react';
 import Notif from '../assets/notif.svg';
 import Coeur from '../assets/coeur.svg';
 import Bonhomme from '../assets/bonhomme.svg';
+import Favories from '../Pages/Favories';
+import Notifications from '../Pages/Notifications';
+import Profil from '../Pages/Profil';
 
 const Menu = () => {
   const [sidebarOpen, setSidebarOpen] = useState(false);
@@ -196,9 +199,16 @@ const Menu = () => {
       `}</style>
       <div className="header">
       <div className="icons-container">
-          <img src={Notif} alt="Notifications" className="icon" />
-          <img src={Coeur} alt="Favorites" className="icon" />
-          <img src={Bonhomme} alt="Profile" className="icon" />
+          {/* Utilisez Link pour relier chaque icône à une page */}
+          <Link to="/Notifications">
+            <img src={Notif} alt="Notifications" className="icon" />
+          </Link>
+          <Link to="/Favorites">
+            <img src={Coeur} alt="Favorites" className="icon" />
+          </Link>
+          <Link to="/Profil">
+            <img src={Bonhomme} alt="Profil" className="icon" />
+          </Link>
         </div>
       </div>
       <input type="checkbox" className="openSidebarMenu" id="openSidebarMenu" checked={sidebarOpen} onChange={handleSidebarToggle} />
@@ -216,11 +226,7 @@ const Menu = () => {
           <li><a href="https://www.youtube.com/channel/UCDfZM0IK6RBgud8HYGFXAJg" target="_blank" rel="noopener noreferrer">Prendre rendez-vous</a></li>
           <li><a href="https://www.linkedin.com/in/plavookac/" target="_blank" rel="noopener noreferrer">Profil</a></li>
         </ul>
-        <div className="sidebarIcons">
-          <div className="icon"><i className="fas fa-bell"></i></div>
-          <div className="icon"><i className="fas fa-heart"></i></div>
-          <div className="icon"><i className="fas fa-user"></i></div>
-        </div>
+
       </div>
       <div id='center' className="main center">
         <div className="mainInner">
