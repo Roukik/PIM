@@ -191,10 +191,8 @@ const Menu = () => {
           top: 50%; /* Ajustez si nécessaire */
           transform: translateY(-50%); /* Pour centrer verticalement */
           right: 10px; /* Ajustez pour l'espace entre les icônes et le bord droit */
-          width: 80px;
 
         }
-        
         
       `}</style>
       <div className="header">
