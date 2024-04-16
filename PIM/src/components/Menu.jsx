@@ -1,4 +1,7 @@
 import React, { useState } from 'react';
+import Notif from '../assets/notif.svg';
+import Coeur from '../assets/coeur.svg';
+import Bonhomme from '../assets/bonhomme.svg';
 
 const Menu = () => {
   const [sidebarOpen, setSidebarOpen] = useState(false);
@@ -32,10 +35,13 @@ const Menu = () => {
           max-width: 100%;
           box-shadow: none;
           background-color: #ADC798;
+
           position: fixed;
           height: 60px!important;
           overflow: hidden;
           z-index: 10;
+          border-bottom: solid 1px;
+
         }
 
         .main {
@@ -155,6 +161,7 @@ const Menu = () => {
           float: left;
           margin-top: 13px; /* Ajustez la valeur pour l'alignement vertical */
           width: 50px;
+          background-color: #1F330A,
         }
 
         input[type=checkbox]:checked ~ .sidebarIconToggle > .horizontal {
@@ -175,9 +182,25 @@ const Menu = () => {
           box-sizing: border-box;
           transform: rotate(-135deg);
           margin-top:8px;
+
         }
+
+        .icons-container {
+          position: absolute;
+          top: 50%; /* Ajustez si nécessaire */
+          transform: translateY(-50%); /* Pour centrer verticalement */
+          right: 10px; /* Ajustez pour l'espace entre les icônes et le bord droit */
+
+        }
+        
       `}</style>
-      <div className="header"></div>
+      <div className="header">
+      <div className="icons-container">
+          <img src={Notif} alt="Notifications" className="icon" />
+          <img src={Coeur} alt="Favorites" className="icon" />
+          <img src={Bonhomme} alt="Profile" className="icon" />
+        </div>
+      </div>
       <input type="checkbox" className="openSidebarMenu" id="openSidebarMenu" checked={sidebarOpen} onChange={handleSidebarToggle} />
       <label htmlFor="openSidebarMenu" className="sidebarIconToggle">
         <div className="spinner diagonal part-1"></div>
