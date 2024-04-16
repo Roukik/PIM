@@ -5,7 +5,8 @@ import Favories from './Pages/Favories';
 import Notifications from './Pages/Notifications';
 import PageOuverture from './Pages/PageOuverture';
 import Profil from './Pages/Profil';
-import Layout from './Layouts/Layout';
+import Menu from './components/Menu';
+
 
 
 function App() {
@@ -16,4 +17,4 @@ function App() {
   )
 }
 
-export default App
+export default App 
