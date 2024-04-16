@@ -125,7 +125,6 @@ const Menu = () => {
           position: absolute;
           z-index: 99;
           height: 100%;
-          width: 100%;
           top: 22px;
           left: 15px;
         }
