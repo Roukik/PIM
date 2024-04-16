@@ -16,7 +16,7 @@ ReactDOM.createRoot(document.getElementById('root')).render(
         <Route path="/menu" element={<Menu />} />
         <Route path="/notifications" element={<Notifications />} />
         <Route path="/profil" element={<Profil />} />
-        <Route path="/favorites" element={<Favories />} />
+        <Route path="/favories" element={<Favories />} />
       </Routes>
     </Router>
   </React.StrictMode>
