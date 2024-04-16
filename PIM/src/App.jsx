@@ -5,9 +5,10 @@ function App() {
 
   return (
     <>
-        <button type="Onclick" className='btnStart'>
+        
+          <Link to='/test'>test</Link>
           PAGE D'OUVERTURE
-        </button>
+
     </>
   )
 }
