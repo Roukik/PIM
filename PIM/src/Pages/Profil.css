@@ -17,4 +17,21 @@
     background-color: azure;
   }
   
+  .Container1 {
+    display: flex; /* Utilisation de flexbox pour aligner les éléments horizontalement */
+    align-items: center; /* Aligner les éléments verticalement au centre */
+    margin-top: 18px;
+    margin-left: 24px;
+  }
+  
+  .arrow {
+    width: 22px; /* Ajustez la taille de la flèche selon vos besoins */
+    height: 22px;
+    margin-right: 5px; /* Ajoute une marge à droite de l'image */
+  }
+  
+  .Container1 p {
+    margin: 0; /* Supprime les marges par défaut du paragraphe */
+  }
+  
   
