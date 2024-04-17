@@ -1,10 +1,20 @@
-.block1{
+.block1 {
     width: 360px;
     height: 199px;
-    background-color: aliceblue;
-}
-
-.ContainerProfil {
+    background-color: rgb(255, 255, 255);
+    position: absolute;
+    top: 60px;
+    border-bottom: solid 1px gray;
+    
+  }
+  
+  .ContainerProfil {
+    position: relative; /* Nécessaire pour que la position absolue de block1 fonctionne correctement */
+    height: 733px;
     background-image: url('./assets/fondChien.jpg');
-}
+    background-size: cover; /* Ajuster la taille de l'image de fond pour couvrir le conteneur */
+    background-position: center; /* Centrer l'image de fond */
+    background-color: azure;
+  }
+  
   
