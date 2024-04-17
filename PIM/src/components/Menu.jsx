@@ -12,12 +12,11 @@ const Menu = () => {
   };
 
   return (
-    <div className="container" style={{ height: '100vh', overflowY: 'auto' }}>
+    <div className="container" style={{ overflowY: 'auto' }}>
       <style>{`
         .container {
           width: 360px; /* Dimensions du Samsung Galaxy 8 */
           overflow: hidden;
-          position: relative;
         }
 
         html, body {

@@ -10,11 +10,10 @@ function Profil() {
       <Menu></Menu>
       <body>
         { <img src={FondChien} alt="" className='Fond' /> }
+        <div className='block1'>
+
+        </div>
       </body>
-
-      <div className='block1'>
-
-      </div>
     </div>
   )
 }
