@@ -221,14 +221,6 @@ const Menu = () => {
           <li><a href="https://www.linkedin.com/in/plavookac/" target="_blank" rel="noopener noreferrer">Profil</a></li>
         </ul>
       </div>
-      <div id='center' className="main center">
-        <div className="mainInner">
-          <div>PURE CSS SIDEBAR TOGGLE MENU</div>
-        </div>
-        <div className="mainInner">
-          <div>PURE CSS SIDEBAR TOGGLE MENU</div>
-        </div>
-      </div>
     </div>
   );
 };
