@@ -12,11 +12,10 @@ const Menu = () => {
   };
 
   return (
-    <div className="container">
+    <div className="container" style={{ height: '100vh', overflowY: 'auto' }}>
       <style>{`
         .container {
           width: 360px; /* Dimensions du Samsung Galaxy 8 */
-          height: 740px; /* Dimensions du Samsung Galaxy 8 */
           overflow: hidden;
           position: relative;
         }
@@ -36,13 +35,11 @@ const Menu = () => {
           max-width: 100%;
           box-shadow: none;
           background-color: #ADC798;
-
           position: fixed;
           height: 60px!important;
           overflow: hidden;
           z-index: 10;
           border-bottom: solid 1px;
-
         }
 
         .main {
@@ -195,7 +192,7 @@ const Menu = () => {
         
       `}</style>
       <div className="header">
-      <div className="icons-container">
+        <div className="icons-container">
           {/* Utilisez Link pour relier chaque icône à une page */}
           <Link to="/Notifications">
             <img src={Notif} alt="Notifications" className="icon" />
@@ -223,7 +220,6 @@ const Menu = () => {
           <li><a href="https://www.youtube.com/channel/UCDfZM0IK6RBgud8HYGFXAJg" target="_blank" rel="noopener noreferrer">Prendre rendez-vous</a></li>
           <li><a href="https://www.linkedin.com/in/plavookac/" target="_blank" rel="noopener noreferrer">Profil</a></li>
         </ul>
-
       </div>
       <div id='center' className="main center">
         <div className="mainInner">
@@ -238,3 +234,4 @@ const Menu = () => {
 };
 
 export default Menu;
+
