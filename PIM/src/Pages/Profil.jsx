@@ -1,19 +1,18 @@
 import React from 'react'
 import Menu from '../components/Menu'
-import FondChien from '../assets/fondChien.jpg'
+import '../assets/fondChien.jpg'
+import './Profil'
+import '../Pages/Profil.css'
 
 
 
 function Profil() {
   return (
-    <div>
+    <div className='ContainerProfil'>
       <Menu></Menu>
-      <body>
-        { <img src={FondChien} alt="" className='Fond' /> }
         <div className='block1'>
 
         </div>
-      </body>
     </div>
   )
 }
