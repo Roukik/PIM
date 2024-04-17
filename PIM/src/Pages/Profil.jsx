@@ -1,8 +1,11 @@
 import React from 'react'
+import Menu from '../components/Menu'
 
 function Profil() {
   return (
-    <div>Profil</div>
+    <div>
+      <Menu></Menu>
+    </div>
   )
 }
 

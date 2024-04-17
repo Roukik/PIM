@@ -232,9 +232,6 @@ const Menu = () => {
         <div className="mainInner">
           <div>PURE CSS SIDEBAR TOGGLE MENU</div>
         </div>
-        <div className="mainInner">
-          <div>PURE CSS SIDEBAR TOGGLE MENU</div>
-        </div>
       </div>
     </div>
   );
