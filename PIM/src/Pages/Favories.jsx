@@ -11,15 +11,11 @@ function Favories() {
   return (
     <div>
       <Menu></Menu>
+    <div className='space'> </div>
+    
     <div className='retourfav'>
     {<img src= {Fleche} alt="" className='fleche'/>}     Favoris
     </div>
-
-    <div class="test">
-      <a href="#home">Home</a>
-      <a href="#news">News</a>
-      <a href="#contact">Contact</a>
-     </div>
 
     <div className="Lesfavories">
       <div className="favorie12">
