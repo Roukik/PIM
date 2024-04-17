@@ -1,33 +1,19 @@
 import React from 'react';
 import Menu from '../components/Menu';
 import './Favories.css';
-import Favorie1 from '../assets/favorie1.svg';
-import Favorie2 from '../assets/favorie2.svg';
-import Favorie3 from '../assets/favorie3.svg';
-import Favorie4 from '../assets/favorie4.svg';
+import Barfav from '../components/barfav';
 import Fleche from '../assets/fleche.svg';
 
 function Favories() {
   return (
     <div>
       <Menu></Menu>
-    <div className='space'> </div>
-    
-    <div className='retourfav'>
-    {<img src= {Fleche} alt="" className='fleche'/>}     Favoris
-    </div>
 
     <div className="Lesfavories">
-      <div className="favorie12">
-        {<img src= {Favorie1} alt="" className='Favorie1'/>}
-        {<img src= {Favorie2} alt="" className='Favorie2'/>}
+      <div className='retourfav'>
+        {<img src= {Fleche} alt="" className='fleche'/>}     Favoris
+        <Barfav></Barfav>
       </div>
-
-      <div className='favorie34'>
-        {<img src= {Favorie3} alt="" className='Favorie3'/>}
-        {<img src= {Favorie4} alt="" className='Favorie4'/>}
-      </div>
-
     </div>
     </div>
   );
