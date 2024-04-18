@@ -24,10 +24,16 @@ function Barfav() {
       </Tabs>
       {selectedTab === 0 && (
         <div className="AnimauxFav">
-          <img src={Favorie1} alt="" className="Favorie1" />
-          <img src={Favorie2} alt="" className="Favorie2" />
-          <img src={Favorie3} alt="" className="Favorie3" />
-          <img src={Favorie4} alt="" className="Favorie4" />
+            <div className="Fav12">
+              <img src={Favorie1} alt="" className="Favorie1" />
+              <img src={Favorie2} alt="" className="Favorie2" />
+            </div>
+
+            <div className="Fav34">
+                <img src={Favorie3} alt="" className="Favorie3" />
+                <img src={Favorie4} alt="" className="Favorie4" />
+            </div>
+            
         </div>
       )}
       {selectedTab === 1 && (

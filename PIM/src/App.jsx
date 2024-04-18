@@ -4,17 +4,16 @@ import Accueil from './Pages/Accueil';
 import Favories from './Pages/Favories';
 import Notifications from './Pages/Notifications';
 import PageOuverture from './Pages/PageOuverture';
-import Profil from './Pages/Profil';
+import PageBienvenue from './Pages/PageBienvenue';
 import Menu from './components/Menu';
-
-
 
 function App() {
   return (
     <div>
-      <Menu></Menu>
+      <PageBienvenue />
     </div>
-  )
+  );
 }
 
-export default App 
+export default App;
+

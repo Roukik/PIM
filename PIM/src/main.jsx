@@ -7,12 +7,14 @@ import Menu from './components/Menu';
 import Favories from './Pages/Favories';
 import Notifications from './Pages/Notifications';
 import Profil from './Pages/Profil';
+import PageBienvenue from './Pages/PageBienvenue';
 
 ReactDOM.createRoot(document.getElementById('root')).render(
   <React.StrictMode>
     <Router>
       <Routes>
-        <Route path="/" element={<App />} />
+        <Route path="/" element={<PageBienvenue />} />
+        <Route path="/app" element={<App />} />
         <Route path="/menu" element={<Menu />} />
         <Route path="/notifications" element={<Notifications />} />
         <Route path="/profil" element={<Profil />} />
@@ -21,3 +23,4 @@ ReactDOM.createRoot(document.getElementById('root')).render(
     </Router>
   </React.StrictMode>
 );
+

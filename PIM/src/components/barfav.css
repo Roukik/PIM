@@ -1,12 +1,19 @@
-/* barfav.css */
-
 .AnimauxFav {
-    display: inline-block;
-    text-align: left;
+  display: flex;
+  text-align: left;
+  padding-top: 50px;
+  align-items: center;
+  justify-content: center;
+  flex-direction: row;
+  align-content: center;
+  flex-wrap: wrap;
+  }
+  
+.Refuges {
     padding-top: 50px;
   }
   
-  .Refuges {
-    padding-top: 50px;
-  }
-  
+.Fav12{
+  display: flex;
+  justify-content: space-between; 
+}

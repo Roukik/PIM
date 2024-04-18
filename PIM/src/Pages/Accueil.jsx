@@ -2,7 +2,9 @@ import React from 'react'
 
 function Accueil() {
   return (
-    <div>Accueil</div>
+    <div>
+      <Menu></Menu>
+    </div>
   )
 }
 
