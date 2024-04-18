@@ -14,5 +14,18 @@ function PageBienvenue() {
 
 export default PageBienvenue;
 
+<<<<<<< HEAD
 
+=======
+import React from 'react'
+import '../Pages/PageBienvenue.css';
+
+function PageBienvenue() {
+  return (
+    <div>PageBienvenue
+      
+    </div>
+  )
+}
+>>>>>>> 197694d2ab8f327d6e9c7aeaf33a4c1f5f9656ea
 

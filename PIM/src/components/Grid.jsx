@@ -44,7 +44,7 @@ function FormRow({ text1, text2, text3}) {
 export default function NestedGrid() {
   return (
     <Box sx={{ flexGrow: 1 }}>
-      <Grid container spacing={1}>
+      <Grid container spacing={2}>
         <Grid container item spacing={3}>
           <FormRow text1="Un chien peureux" text2="Un nouveau chien dans ta région !" text3="Voir plus" />
         </Grid>

@@ -3,15 +3,13 @@
     align-items: center;
     margin-top: 72px;
     margin-left: 24px;
-    background-color: antiquewhite;
     width: 300px;
 }
 
 .Container2Notif {
     width: 360px;
-    height: 610px;
-    background-color: aliceblue;
-    margin-top: 9px;
+    height: 610px;   
+    margin-top: -9px;
    
 }
 
@@ -23,5 +21,5 @@
 .Container3Notif p{
     margin-left: 30px;
     border-bottom: solid 5;
-    box-shadow: 2px 2px 5px rgba(128, 128, 128, 0.412);
 }
+
