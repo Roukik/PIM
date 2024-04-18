@@ -23,4 +23,13 @@
     font-weight: 600;
     line-height: normal;
 }
+
+.page-container {
+    text-align: center;
+    padding-top: 50px; /* Espacement pour laisser de la place au-dessus du bouton */
+  }
+  
+  .button-adopte {
+    margin-top: 20px; /* Espacement entre le titre et le bouton */
+  }
   
