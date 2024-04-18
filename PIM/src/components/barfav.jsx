@@ -23,7 +23,7 @@ function Barfav() {
         <Tab label="Refuges" />
       </Tabs>
       {selectedTab === 0 && (
-        <div className="favories">
+        <div className="AnimauxFav">
           <img src={Favorie1} alt="" className="Favorie1" />
           <img src={Favorie2} alt="" className="Favorie2" />
           <img src={Favorie3} alt="" className="Favorie3" />
