@@ -32,10 +32,13 @@ function PageBienvenue() {
 export default PageBienvenue;*/
 
 import React from 'react'
+import '../Pages/PageBienvenue.css';
 
 function PageBienvenue() {
   return (
-    <div>PageBienvenue</div>
+    <div>PageBienvenue
+      
+    </div>
   )
 }
 
