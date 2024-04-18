@@ -1,4 +1,5 @@
 import React, { useState } from 'react';
+import { Link } from 'react-router-dom';
 import Menu from '../components/Menu';
 import '../Pages/Accueil.css';
 import Card from '@mui/material/Card';
@@ -16,6 +17,8 @@ import Glue from '../assets/Glue.svg';
 import Rikers from '../assets/Rikers.svg';
 import Button from '@mui/material/Button';
 import RoomIcon from '@mui/icons-material/Room';
+import CarteR from '../Pages/CarteR'
+import SDes from '../Descriptions/SDes';
 
 const Circle = {
   width: '50px',
@@ -46,7 +49,7 @@ function Accueil() {
         <p>Accueil</p>
         {/* Première carte */}
         <Card sx={cardStyle}>
-          <CardActionArea>
+          <CardActionArea component={Link} to="/SDes">
             <CardMedia
               component="img"
               height="140"
@@ -82,7 +85,7 @@ function Accueil() {
 
         {/* Deuxième carte (Riley) */}
         <Card sx={cardStyle}>
-          <CardActionArea>
+          <CardActionArea component={Link} to="/page-riley">
             <CardMedia
               component="img"
               height="140"
@@ -121,7 +124,7 @@ function Accueil() {
 
         {/* Troisième carte */}
         <Card sx={cardStyle}>
-          <CardActionArea>
+          <CardActionArea component={Link} to="/page-glue">
             <CardMedia
               component="img"
               height="140"
@@ -157,13 +160,13 @@ function Accueil() {
 
         {/* Quatrième carte (Rikers) */}
         <Card sx={cardStyle}>
-          <CardActionArea>
+          <CardActionArea component={Link} to="/page-rikers">
             <CardMedia
               component="img"
               height="140"
               image={Rikers}
               alt="Rikers"
-              style={{ objectFit: 'cover', objectPosition: 'center top' }} // Image centrée sur le haut
+              style={{ objectFit: 'cover', objectPosition: 'center top' }}
             />
             <CardContent className="description">
               <Typography gutterBottom variant="h7" component="div">
@@ -192,9 +195,9 @@ function Accueil() {
         </Card>
       </div>
 
-{/*le petit bouton carte*/}
+      {/* petit bouton carte */}
       <div style={{ position: 'fixed', bottom: '10%', left: '50%', transform: 'translate(-50%, 50%)', textAlign: 'center' }}>
-        <Button variant="contained" color="primary" style={{backgroundColor: '#897F66', color: '#ffffff', borderRadius: '50px'}}>
+        <Button component={Link} to="/CarteR" variant="contained" color="primary" style={{backgroundColor: '#897F66', color: '#ffffff', borderRadius: '50px'}}>
           <RoomIcon /> Carte
         </Button>
       </div>

@@ -1,4 +1,4 @@
-import React from 'react'; // Importez React une seule fois
+import React from 'react';
 import Tracepates from '../assets/tracepates.svg';
 import '../Pages/Popup.css';
 import IconButton from '@mui/material/IconButton';

@@ -11,6 +11,9 @@ import PageBienvenue from './Pages/PageBienvenue';
 import Popup from './Pages/Popup';
 import Accueil from './Pages/Accueil';
 import PopupQuestionnaire from './Pages/PopupQuestionnaire';
+import SDes from './Descriptions/SDes';
+import Carte from './Pages/CarteR';
+
 
 ReactDOM.createRoot(document.getElementById('root')).render(
   <React.StrictMode>
@@ -20,6 +23,8 @@ ReactDOM.createRoot(document.getElementById('root')).render(
         <Route path="/popup" element={<Popup />} />
         <Route path="/accueil" element={<Accueil />} />
         <Route path="/popupquestionnaire" element={<PopupQuestionnaire/>} />
+        <Route path="/sdes" element={<SDes/>} />
+        <Route path="/carter" element={<Carte/>} />
         <Route path="/app" element={<App />} />
         <Route path="/menu" element={<Menu />} />
         <Route path="/notifications" element={<Notifications />} />
