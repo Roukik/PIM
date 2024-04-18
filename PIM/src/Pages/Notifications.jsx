@@ -23,7 +23,6 @@ function Notifications() {
         </div>
       </div>
     </div>
-    
   )
 }
 
