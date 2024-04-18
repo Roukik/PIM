@@ -33,12 +33,11 @@ const Menu = () => {
           width: 100%;
           max-width: 100%;
           box-shadow: none;
-          background-color: #ADC798;
+          background-color: #fff;
           position: fixed;
           height: 60px!important;
           overflow: hidden;
           z-index: 10;
-          border-bottom: solid 1px;
         }
 
         .main {
