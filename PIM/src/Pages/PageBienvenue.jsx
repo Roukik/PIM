@@ -1,4 +1,4 @@
-import React from 'react';
+/*import React from 'react';
 import { Box, Button, Typography } from '@mui/material';
 import '../Pages/PageBienvenue.css';
 
@@ -29,5 +29,14 @@ function PageBienvenue() {
   );
 }
 
-export default PageBienvenue;
+export default PageBienvenue;*/
 
+import React from 'react'
+
+function PageBienvenue() {
+  return (
+    <div>PageBienvenue</div>
+  )
+}
+
+export default PageBienvenue
