@@ -11,7 +11,6 @@ import PP from '../assets/PP.png'
 function Profil() {
   return (
     <div className='ContainerProfil'>
-      <Menu></Menu>
         { <img src={FondChien} alt="" className='fond' /> }
         <div className='block1'>
 

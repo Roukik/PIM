@@ -8,7 +8,7 @@ import Grid from '../components/Grid'
 function Notifications() {
   return (
     <div>
-      <Menu></Menu>
+    
       <div className="Container1Notif">
         { <img src={Fleche} alt="" className='arrow' /> }
         <p>Notification</p>
