@@ -1,8 +1,11 @@
 import React from 'react'
+import Menu from '../components/Menu'
 
 function Carte() {
   return (
-    <div>Carte</div>
+    <div>
+      <Menu></Menu>
+    </div>
   )
 }
 
