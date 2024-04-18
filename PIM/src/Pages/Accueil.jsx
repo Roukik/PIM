@@ -14,6 +14,8 @@ import Scoopie from '../assets/scoopie.svg';
 import Riley from '../assets/Riley.svg';
 import Glue from '../assets/Glue.svg';
 import Rikers from '../assets/Rikers.svg';
+import Button from '@mui/material/Button';
+import RoomIcon from '@mui/icons-material/Room';
 
 const Circle = {
   width: '50px',
@@ -161,7 +163,7 @@ function Accueil() {
               height="140"
               image={Rikers}
               alt="Rikers"
-              style={{ objectFit: 'cover', objectPosition: '' }} // Image centrée sur le haut
+              style={{ objectFit: 'cover', objectPosition: 'center top' }} // Image centrée sur le haut
             />
             <CardContent className="description">
               <Typography gutterBottom variant="h7" component="div">
@@ -189,11 +191,16 @@ function Accueil() {
           </CardContent>
         </Card>
       </div>
+
+{/*le petit bouton carte*/}
+      <div style={{ position: 'fixed', bottom: '10%', left: '50%', transform: 'translate(-50%, 50%)', textAlign: 'center' }}>
+        <Button variant="contained" color="primary" style={{backgroundColor: '#897F66', color: '#ffffff', borderRadius: '50px'}}>
+          <RoomIcon /> Carte
+        </Button>
+      </div>
     </div>
   );
 }
 
 export default Accueil;
-
-
 
