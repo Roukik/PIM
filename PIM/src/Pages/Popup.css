@@ -1,0 +1,16 @@
+.Tracepates {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    align-content: space-around;
+    align-items: center;
+    position: relative; /* Ajout de la position relative pour que l'icône soit positionnée correctement */
+  }
+  
+  .CloseButton {
+    position: absolute;
+    top: 10px; /* ajustez la position verticale selon votre besoin */
+    left: 10px; /* ajustez la position horizontale selon votre besoin */
+    z-index: 999; /* assure que l'icône est au-dessus de l'image */
+  }
+  
