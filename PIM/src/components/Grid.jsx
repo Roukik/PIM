@@ -13,12 +13,12 @@ const Item = styled(Paper)(({ theme }) => ({
   display: 'flex',
   flexDirection: 'column',
   alignItems: '', // Centrer verticalement les éléments
-  position: 'relative', // Ajouter position relative pour positionner TextRight
+   // Ajouter position relative pour positionner TextRight
 }));
 
 const TextRight = styled('div')({
   position: 'absolute',
-  right: '0',
+  right: '50px',
 });
 
 const TextContainer = styled('div')({
@@ -28,7 +28,7 @@ const TextContainer = styled('div')({
 function FormRow({ text1, text2, text3}) {
   return (
     <React.Fragment>
-      <Grid item xs={11}>
+      <Grid item xs={11} style={{ marginLeft: '15px' }}> {/* Ajoutez le style marginLeft */}
         <Item>
           <TextContainer>
             <div>{text1}</div>
@@ -46,25 +46,25 @@ export default function NestedGrid() {
     <Box sx={{ flexGrow: 1 }}>
       <Grid container spacing={1}>
         <Grid container item spacing={3}>
-          <FormRow text1="Un chien peureux" text2="Texte 2" text3="kjfnjd" />
+          <FormRow text1="Un chien peureux" text2="Un nouveau chien dans ta région !" text3="Voir plus" />
         </Grid>
         <Grid container item spacing={3}>
-          <FormRow text1="Tiger a trouvé une maison" text2="Texte 2" text3="kjfnjd" />
+          <FormRow text1="Tiger a trouvé une maison" text2="votre favori a été adopté !" text3="Voir plus" />
         </Grid>
         <Grid container item spacing={3}>
-          <FormRow text1="Coup de cœur pour Loulou ?" text2="Texte 2" text3="kjfnjd" />
+          <FormRow text1="Coup de cœur pour Loulou ?" text2="Passez à l'action ! Planifiez une visite !" text3="6h" />
         </Grid>
         <Grid container item spacing={3}>
-          <FormRow text1="Lola a trouvé une maison" text2="Texte 2" text3="kjfnjd"/>
+          <FormRow text1="Lola a trouvé une maison" text2="votre favori a été adopté !" text3="2j"/>
         </Grid>
         <Grid container item spacing={3}>
-          <FormRow text1="Un chien affectueux" text2="Texte 2" text3="kjfnjd"/>
+          <FormRow text1="Un chien affectueux" text2="Un nouveau chien dans ta région !" text3="2j"/>
         </Grid>
         <Grid container item spacing={3}>
-          <FormRow text1="Un Teckel dans votre région!" text2="Texte 2" text3="kjfnjd"/>
+          <FormRow text1="Un Teckel dans votre région!" text2="Il cherche une famille aimante" text3="5j"/>
         </Grid>
         <Grid container item spacing={3}>
-          <FormRow text1="Kiki a trouvé une maison !" text2="Texte 2" text3="kjfnjd"/>
+          <FormRow text1="Kiki a trouvé une maison !" text2="votre favori a été adopté !" text3="7j"/>
         </Grid>
       </Grid>
     </Box>
