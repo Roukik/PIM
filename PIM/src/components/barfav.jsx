@@ -6,6 +6,7 @@ import Favorie3 from '../assets/favorie3.svg';
 import Favorie4 from '../assets/favorie4.svg';
 import Tabs from "@mui/material/Tabs";
 import Tab from "@mui/material/Tab";
+import { Grid, Card, CardContent, Typography } from "@mui/material";
 
 function Barfav() {
   const [selectedTab, setSelectedTab] = useState(0);
@@ -21,7 +22,7 @@ function Barfav() {
         <Tab label="Refuges" />
       </Tabs>
       {selectedTab === 0 && (
-        <div className="favorie12">
+        <div className="favories">
           <img src={Favorie1} alt="" className="Favorie1" />
           <img src={Favorie2} alt="" className="Favorie2" />
           <img src={Favorie3} alt="" className="Favorie3" />
@@ -30,7 +31,33 @@ function Barfav() {
       )}
       {selectedTab === 1 && (
         <div className="Refuges">
- 
+          <Grid container spacing={2}>
+            <Grid item xs={6}>
+              <Card>
+                <CardContent>
+                  <Typography variant="h5" component="div">
+                    Refuge 1
+                  </Typography>
+                  <Typography variant="body2" component="p">
+                    Description du refuge 1.
+                  </Typography>
+                </CardContent>
+              </Card>
+            </Grid>
+            <Grid item xs={6}>
+              <Card>
+                <CardContent>
+                  <Typography variant="h5" component="div">
+                    Refuge 2
+                  </Typography>
+                  <Typography variant="body2" component="p">
+                    Description du refuge 2.
+                  </Typography>
+                </CardContent>
+              </Card>
+            </Grid>
+            {/* Ajoutez d'autres cartes ici pour chaque refuge */}
+          </Grid>
         </div>
       )}
     </div>
@@ -38,3 +65,4 @@ function Barfav() {
 }
 
 export default Barfav;
+
