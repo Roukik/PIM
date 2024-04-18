@@ -4,7 +4,7 @@
     background-color: rgb(255, 255, 255);
     position: absolute;
     top: 60px;
-    border-bottom: solid 1px gray;
+    box-shadow: 2px 2px 8px rgba(128, 128, 128, 0.412);
     
   }
   
@@ -25,13 +25,57 @@
   }
   
   .arrow {
-    width: 22px; /* Ajustez la taille de la flèche selon vos besoins */
-    height: 22px;
-    margin-right: 5px; /* Ajoute une marge à droite de l'image */
+     margin-right: 5px; /* Ajoute une marge à droite de l'image */
   }
   
   .Container1 p {
     margin: 0; /* Supprime les marges par défaut du paragraphe */
   }
-  
-  
+
+  .Container2{
+    display: flex;
+    display: flex;
+    justify-content: center;
+    margin-top: 25px;
+  }
+
+  .Container3{
+    background-color: antiquewhite;
+    width: 100px;
+    margin-left: 145px;
+  }
+
+.Container3 p{
+   background-color: azure; 
+   margin: 10px;
+}
+
+.Container4{
+    
+    width: 320px;
+    height:430px;
+    margin-left: 21px;
+    margin-top: 30px;
+}
+
+.Container4 p{
+    height: 50px;
+    background-color: rgba(255, 255, 255, 0.848);
+    border: solid 0;
+    border-radius: 3px;
+    box-shadow: 2px 2px 8px rgba(128, 128, 128, 0.412);
+    
+}
+
+.Container4 button{
+    width: 192px;
+    height: 48px;
+    background-color: #8E9D65;
+    border-radius: 10px;
+    margin-left: 60px;
+    margin-top: 41px;
+    border: solid 0;
+    box-shadow: 2px 2px 8px rgba(128, 128, 128, 0.412);
+    color: white;
+}
+

@@ -24,13 +24,18 @@ function Profil() {
             { <img src={PP} alt="" srcset="" className='PP' /> }
           </div>
 
-          <dic className="Container3">
+          <div className="Container3">
             <p>Julien Rio</p>
             <p>32 ans</p>
-          </dic>
-          
-          <div className='block2'>
+          </div>
 
+          <div className='Container4'>
+            <p>Tel : 06 59 33 38 11</p>
+            <p>Mail : julienriodejanero@gmail.com</p>
+            <p>Résidence : appartement</p>
+            <p>Département : île-de-France</p>
+            <p>Voir mes préférences</p>
+            <button className='mofierLeProfil'>Modifier le Profil</button>
           </div>
         </div>
     </div>
