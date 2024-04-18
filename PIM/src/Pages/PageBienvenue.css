@@ -1,9 +1,30 @@
-.pageBienvenueContainer {
+body {
     background-color: #ADC798;
-    min-height: 100vh;
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
+    margin: 0; 
   }
+
+.PageB {
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    height: 100vh;
+    padding-top: 250px;
+    z-index: 1;
+  }
+  
+.Bienvenue {
+    text-align: center;
+    padding-top: 20px;
+  }
+
+.eheh{
+    color: #FFF;
+    text-align: center;
+    font-feature-settings: 'clig' off, 'liga' off;
+    font-family: "Nunito Sans";
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+}
   
