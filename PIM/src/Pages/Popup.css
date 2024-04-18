@@ -4,13 +4,19 @@
     flex-wrap: wrap;
     align-content: space-around;
     align-items: center;
-    position: relative; /* Ajout de la position relative pour que l'icône soit positionnée correctement */
+    position: relative;
   }
   
-  .CloseButton {
+.CloseButton {
     position: absolute;
-    top: 10px; /* ajustez la position verticale selon votre besoin */
-    left: 10px; /* ajustez la position horizontale selon votre besoin */
-    z-index: 999; /* assure que l'icône est au-dessus de l'image */
+    top: -730px;
+    left: 120px;
+    z-index: 999;
   }
   
+.Arrow {
+    position: absolute;
+    top: -50px;
+    left: 120px;
+    z-index: 999;
+}
