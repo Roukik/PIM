@@ -187,7 +187,7 @@ const Menu = () => {
           top: 50%; /* Ajustez si nécessaire */
           transform: translateY(-50%); /* Pour centrer verticalement */
           right: 10px; /* Ajustez pour l'espace entre les icônes et le bord droit */
-
+class
         }
         
       `}</style>
@@ -207,8 +207,8 @@ const Menu = () => {
         
         <div>
           <button  className={sidebarOpen ? 'is-active hamburger hamburger--collapse' : 'hamburger hamburger--collapse'} type="button"  onClick={handleSidebarToggle}>
-            <span class="hamburger-box">
-              <span class="hamburger-inner"></span>
+            <span className="hamburger-box">
+              <span className="hamburger-inner"></span>
             </span>
           </button>
         </div>

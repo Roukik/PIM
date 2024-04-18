@@ -1,5 +1,5 @@
 import React from 'react';
-import ReactDOM from 'react-dom';
+import { createRoot } from 'react-dom/client'; 
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 import './index.css';
 import App from './App';
@@ -12,10 +12,10 @@ import Popup from './Pages/Popup';
 import Accueil from './Pages/Accueil';
 import PopupQuestionnaire from './Pages/PopupQuestionnaire';
 import SDes from './Descriptions/SDes';
-import Carte from './Pages/CarteR';
+import CarteR from './Pages/CarteR';
 
 
-ReactDOM.createRoot(document.getElementById('root')).render(
+createRoot(document.getElementById('root')).render(
   <React.StrictMode>
     <Router>
       <Routes>
@@ -24,7 +24,7 @@ ReactDOM.createRoot(document.getElementById('root')).render(
         <Route path="/accueil" element={<Accueil />} />
         <Route path="/popupquestionnaire" element={<PopupQuestionnaire/>} />
         <Route path="/sdes" element={<SDes/>} />
-        <Route path="/carter" element={<Carte/>} />
+        <Route path="/carter" element={<CarteR/>} />
         <Route path="/app" element={<App />} />
         <Route path="/menu" element={<Menu />} />
         <Route path="/notifications" element={<Notifications />} />
@@ -34,4 +34,3 @@ ReactDOM.createRoot(document.getElementById('root')).render(
     </Router>
   </React.StrictMode>
 );
-
