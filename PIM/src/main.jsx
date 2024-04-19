@@ -24,9 +24,9 @@ createRoot(document.getElementById('root')).render(
         <Route path="/" exact={true} element={<PageBienvenue />} />
         <Route path="/popup" element={<Popup />} />
         <Route path="/popupquestionnaire" element={<PopupQuestionnaire />} />
+        <Route path="/suivant" element={<Suivant/>} />
         <Route path="/" element={<MainLayout />}>
           <Route path="/accueil" element={<Accueil />} />      
-          <Route path="/suivant" element={<Suivant/>} />
           <Route path="/fiche/:id" element={<SDes />} />
           <Route path="/carte" element={<CarteR />} />
           <Route path="/profil" element={<Profil />} />
