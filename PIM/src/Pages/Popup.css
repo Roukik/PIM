@@ -15,8 +15,9 @@
   }
   
 .Arrow {
-    position: absolute;
-    top: -50px;
-    left: 120px;
-    z-index: 999;
+  font-size: 48px;
+  color: white;
+  position: absolute;
+  z-index: 999;
+  bottom: 250;
 }
