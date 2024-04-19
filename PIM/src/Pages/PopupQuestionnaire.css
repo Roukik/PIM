@@ -1,13 +1,36 @@
-.i{
+.i {
     display: flex;
     flex-direction: column;
     align-content: center;
     flex-wrap: wrap;
-}
+  }
 
+  .pets{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    text-align: left;
+    padding-top: 140px;
+    align-items: center;
+    justify-content: center;
+    flex-direction: row;
+    align-content: center;
+    flex-wrap: wrap;
+  }
+  
 
+.pets12{
+     display: flex;
+     justify-content: center;
+  }
 
-
-
+  .pets34 {
+    display: flex;
+    justify-content: center;
+  }
+  
 
   
