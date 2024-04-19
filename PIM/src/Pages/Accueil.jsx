@@ -17,7 +17,7 @@ import Glue from '../assets/Glue.svg';
 import Rikers from '../assets/Rikers.svg';
 import Button from '@mui/material/Button';
 import RoomIcon from '@mui/icons-material/Room';
-import CarteR from '../Pages/CarteR'
+import Carte from '../Pages/CarteR'
 import SDes from '../Descriptions/SDes';
 
 const Circle = {
@@ -45,7 +45,7 @@ function Accueil() {
   return (
     <div>
       <Menu /> 
-      <div className="espace">
+      
         <p>Accueil</p>
         {/* Première carte */}
         <Card sx={cardStyle}>
@@ -193,11 +193,11 @@ function Accueil() {
             </div>
           </CardContent>
         </Card>
-      </div>
+      
 
       {/* petit bouton carte */}
       <div style={{ position: 'fixed', bottom: '10%', left: '50%', transform: 'translate(-50%, 50%)', textAlign: 'center' }}>
-        <Button component={Link} to="/CarteR" variant="contained" color="primary" style={{backgroundColor: '#897F66', color: '#ffffff', borderRadius: '50px'}}>
+        <Button component={Link} to="/Carte" variant="contained" color="primary" style={{backgroundColor: '#897F66', color: '#ffffff', borderRadius: '50px'}}>
           <RoomIcon /> Carte
         </Button>
       </div>

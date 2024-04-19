@@ -3,7 +3,7 @@ import Menu from '../components/Menu';
 import { MapContainer, TileLayer, Marker, Popup } from 'react-leaflet';
 import 'leaflet/dist/leaflet.css'
 
-function CarteR() {
+function Carte() {
   return (
     <div style={{flex: 1}}>
     <MapContainer center={[51.505, -0.09]} zoom={13} style={{ height: "calc(100vh - 60px)" }}>
@@ -20,5 +20,5 @@ function CarteR() {
   );
 }
 
-export default CarteR;
+export default Carte;
 
