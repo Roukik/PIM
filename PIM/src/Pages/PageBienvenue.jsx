@@ -5,6 +5,7 @@ import Stack from '@mui/material/Stack';
 import Button from '@mui/material/Button';
 import Popup from './Popup';
 import FondPansement from '../assets/FondPansement.png';
+import Logo from '../assets/Logo.png'
 
 function PageBienvenue() {
   return (
@@ -30,6 +31,7 @@ function PageBienvenue() {
               </Button>
             </Link>
           </Stack>
+          <img src={Logo} alt="" className='Logo' />
         </div>
       </div>
     </div>
