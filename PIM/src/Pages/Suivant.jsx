@@ -1,5 +1,3 @@
-// Suivant.jsx
-
 import React, { useState } from 'react';
 import '../Pages/Suivant.css';
 import { Link } from 'react-router-dom';
@@ -7,6 +5,7 @@ import FondS from '../assets/Suivant.svg';
 import ChienColor from '../assets/chienColor.svg';
 import Button from '@mui/material/Button';
 import Slider from '@mui/material/Slider';
+import FinQ from '../Pages/FinQ'
 
 function Suivant() {
   const [fondDimensions, setFondDimensions] = useState({ width: 0, height: 0 });
@@ -32,7 +31,7 @@ function Suivant() {
         />
       </div>
       
-      <Link to="/" style={{ position: 'absolute', bottom: '30px', left: '50%', transform: 'translateX(-50%)', width: '80%' }}>
+      <Link to="finq" style={{ position: 'absolute', bottom: '30px', left: '50%', transform: 'translateX(-50%)', width: '80%' }}>
         <Button
           variant="contained"
           disableElevation

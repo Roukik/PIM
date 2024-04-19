@@ -15,6 +15,7 @@ import SDes from './Descriptions/SDes';
 import CarteR from './Pages/CarteR';
 import MainLayout from './layouts/MainLayout';
 import Suivant from '../src/Pages/Suivant'
+import Finq from './Pages/FinQ';
 
 
 createRoot(document.getElementById('root')).render(
@@ -25,6 +26,7 @@ createRoot(document.getElementById('root')).render(
         <Route path="/popup" element={<Popup />} />
         <Route path="/popupquestionnaire" element={<PopupQuestionnaire />} />
         <Route path="/suivant" element={<Suivant/>} />
+        <Route path="/finq" element={<FinQ/>} />
         <Route path="/" element={<MainLayout />}>
           <Route path="/accueil" element={<Accueil />} />      
           <Route path="/fiche/:id" element={<SDes />} />
