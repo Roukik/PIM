@@ -28,6 +28,7 @@ const Circle = {
   display: 'flex',
   justifyContent: 'center',
   alignItems: 'center',
+  
 };
 
 const cardStyle = {
@@ -71,7 +72,7 @@ function Accueil() {
             </CardContent>
           </CardActionArea>
           <CardContent sx={{ display: 'flex', justifyContent: 'flex-end' }}>
-            <div style={Circle} onClick={toggleFavorite}> 
+            <div style={Circle} onClick={toggleFavorite} > 
               {isFavorite ? (
                 <FavoriteIcon style={{ color: '#ffffff' }} />
               ) : (
