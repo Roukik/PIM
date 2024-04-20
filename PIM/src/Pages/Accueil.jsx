@@ -44,7 +44,7 @@ function Accueil() {
 
   return (
     <div>
-      <Menu /> 
+      
       
         <p>Accueil</p>
         {/* Première carte */}
