@@ -1,8 +1,12 @@
 import React from 'react'
+import FondFin from '../assets/FondFin.png'
+import '.'
 
 function FinQ() {
   return (
-    <div>Finq</div>
+    <div className='Contenu'>
+      { <img src={FondFin} alt="" className='fondfin' /> }
+    </div>
   )
 }
 

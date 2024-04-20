@@ -7,44 +7,42 @@ import Button from '@mui/material/Button';
 import Slider from '@mui/material/Slider';
 import FinQ from '../Pages/FinQ';
 import MultipleSelectCheckmarks from '../components/MultipleSelectCheckmarks';
-import FemelleColor from '../assets/FemelleColor.svg'
-import Femelle from '../assets/Femelle.svg'
-import MaleColor from '../assets/MaleColor.svg'
-import Male from '../assets/Male.svg'
+import FemelleColor from '../assets/FemelleColor.svg';
+import Femelle from '../assets/Femelle.svg';
+import MaleColor from '../assets/MaleColor.svg';
+import Male from '../assets/Male.svg';
 
 function Suivant() {
-
   const [likedImages, setLikedImages] = useState({
     Femelle: false,
     Male: false,
   });
 
   const toggleLike = (imageType) => {
-    setLikedImages(prevState => ({
+    setLikedImages((prevState) => ({
       ...prevState,
-      [imageType]: !prevState[imageType]
+      [imageType]: !prevState[imageType],
     }));
   };
-  
-
-  const [fondDimensions, setFondDimensions] = useState({ width: 0, height: 0 });
 
   const handleFondLoad = (event) => {
     setFondDimensions({
       width: event.target.width,
-      height: event.target.height
+      height: event.target.height,
     });
   };
 
+  const [fondDimensions, setFondDimensions] = useState({ width: 0, height: 0 });
+
   return (
     <div className="centered-container" style={{ position: 'relative' }}>
-      <img src={FondS} alt="" className='FondS' onLoad={handleFondLoad} style={{ position: 'absolute', top: 5, left: 20, zIndex: -1 }} />
+      <img src={FondS} alt="" className="FondS" onLoad={handleFondLoad} style={{ position: 'absolute', top: 5, left: 20, zIndex: -1 }} />
       
       <div className="centered-container" style={{ position: 'absolute', top: '105%', left: '50%', transform: 'translate(-50%, -50%)', zIndex: 1 }}>
         <MultipleSelectCheckmarks />
       </div>
 
-      <img src={ChienColor} alt="" className='chien'/>
+      <img src={ChienColor} alt="" className="chien" />
 
       <div className="slider-container" style={{ width: fondDimensions.width, height: fondDimensions.height }}>
         <Slider
@@ -55,11 +53,10 @@ function Suivant() {
         />
       </div>
       
-      <div className="Sexe" style={{ marginTop: '530px', display: 'flex', justifyContent: 'space-between' }}>
-        <img src={likedImages.Femelle ? FemelleColor : Femelle} alt="" className="Femelle" onClick={() => toggleLike("Femelle")} style={{ marginRight: '45px' }} />
-        <img src={likedImages.Male ? MaleColor : Male} alt="" className="Male" onClick={() => toggleLike("Male")} />
+      <div className="Sexe" style={{ marginTop: '530px', display: 'flex', justifyContent: 'space-between' }}> {/*MarginTop: 530 px bloque le like/delike */}
+        <img src={likedImages.Femelle ? FemelleColor : Femelle} alt="" className="Femelle" onClick={() => toggleLike('Femelle')} style={{ marginRight: '45px' }} />
+        <img src={likedImages.Male ? MaleColor : Male} alt="" className="Male" onClick={() => toggleLike('Male')} />
       </div>
-
 
       <Link to="/FinQ" style={{ position: 'absolute', bottom: '30px', left: '50%', transform: 'translateX(-50%)', width: '80%', zIndex: 1 }}>
         <Button
