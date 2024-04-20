@@ -44,9 +44,7 @@ function Accueil() {
 
   return (
     <div>
-      <Menu /> 
-      
-        <p>Accueil</p>
+        <p>Annuaire</p>
         {/* Première carte */}
         <Card sx={cardStyle}>
           <CardActionArea component={Link} to="/SDes">
