@@ -5,11 +5,11 @@ import Stack from '@mui/material/Stack';
 import Button from '@mui/material/Button';
 import Popup from './Popup';
 import FondPansement from '../assets/FondPansement.png';
-import Logo from '../assets/Logo.png'
+import Logo from '../assets/Logo.png';
 
 function PageBienvenue() {
   return (
-    <div className="page-container page-bienvenue"> {/* Ajoutez la classe page-bienvenue ici */}
+    <div className="page-container page-bienvenue">
       <img src={FondPansement} alt="" className='FondPansement' />
       <div className="content-container">
         <h1 className="Bienvenue">Bienvenue !</h1>
@@ -33,12 +33,16 @@ function PageBienvenue() {
           </Stack>
           <img src={Logo} alt="" className='Logo' />
         </div>
+        <Link to="/P1">
+          <p style={{ color: 'white', cursor: 'pointer' }}>Inscrire votre refuge pour aider les animaux</p>
+        </Link>
       </div>
     </div>
   );
 }
 
 export default PageBienvenue;
+
 
 
 
