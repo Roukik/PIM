@@ -1,9 +1,9 @@
 import React from 'react'
 
-function Finq() {
+function FinQ() {
   return (
     <div>Finq</div>
   )
 }
 
-export default Finq
+export default FinQ

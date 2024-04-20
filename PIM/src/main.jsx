@@ -15,7 +15,7 @@ import SDes from './Descriptions/SDes';
 import CarteR from './Pages/CarteR';
 import MainLayout from './layouts/MainLayout';
 import Suivant from '../src/Pages/Suivant'
-import Finq from './Pages/FinQ';
+import FinQ from './Pages/FinQ';
 
 
 createRoot(document.getElementById('root')).render(
