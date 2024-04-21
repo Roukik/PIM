@@ -22,7 +22,7 @@ import FormulaireRefuge from './BackPage/FormulaireRefuge';
 import Verification from './BackPage/Verification';
 import Validation from './BackPage/Validation';
 import Refugeprofil from './BackPage/Refugeprofil';
-import PageRefuge from './Pages/PageRefuge';
+
 
 
 
