@@ -21,7 +21,6 @@ function PageRefuge() {
             <RefugeCard></RefugeCard>
             <img src={DesRefuge} alt="" className='DesRefuge' />
               <button className='btnRVD'>Rencontre-nous !</button>
-           
           </div>
         </div>
     </div>
