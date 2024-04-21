@@ -4,6 +4,7 @@ import '../Pages/PageRegufe.css'
 import Refugeimg from '../assets/ScootieMagelan.png'
 import RefugeCard from '../components/RefugeCard'
 import DesRefuge from '../assets/DesRefuge.png'
+import { Link } from 'react-router-dom'
 
 
 
@@ -20,7 +21,9 @@ function PageRefuge() {
           <div className="Container3Refuge">
             <RefugeCard></RefugeCard>
             <img src={DesRefuge} alt="" className='DesRefuge' />
+             <Link to='/PagesRDV'>
               <button className='btnRVD'>Rencontre-nous !</button>
+              </Link>
           </div>
         </div>
     </div>
