@@ -18,6 +18,7 @@ import Suivant from '../src/Pages/Suivant'
 import FinQ from './Pages/FinQ';
 import P1 from './BackPage/P1';
 import FormulaireRefuge from './BackPage/FormulaireRefuge';
+import Verification from './BackPage/Verification';
 
 
 createRoot(document.getElementById('root')).render(
@@ -30,6 +31,7 @@ createRoot(document.getElementById('root')).render(
         <Route path="/suivant" element={<Suivant/>} />
         <Route path="/P1" element={<P1/>} />
         <Route path="/FormulaireRefuge" element={<FormulaireRefuge/>} />
+        <Route path="/Verification" element={<Verification/>} />
         <Route path="/FinQ" element={<FinQ/>} />
         <Route path="/" element={<MainLayout />}>
           <Route path="/accueil" element={<Accueil />} />      

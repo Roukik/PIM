@@ -23,7 +23,7 @@ function FormulaireRefuge() {
 
   const handleSubmit = (e) => {
     e.preventDefault();
-    // Ajoutez ici la logique pour soumettre les données du formulaire
+
     console.log(refugeData);
   };
 
@@ -41,7 +41,7 @@ function FormulaireRefuge() {
     border: '3px solid var(--Beige-Fonc, #897F66)',
     background: 'rgba(234, 227, 211, 0.50)',
     width: '100%', 
-    marginBottom: '10px', // Ajouter un espace entre les champs
+    marginBottom: '10px',
     padding: '10px'
   };
 
@@ -130,7 +130,7 @@ function FormulaireRefuge() {
             style={inputStyle}
           />
         </label>
-        <Link to="/">
+        <Link to="/Verification">
         <button type="submit" style={{...inputStyle, marginTop: '20px', width: '100%', borderRadius: '16px', color: '#897F66',backgroundColor: '#EAE3D3',border: '2px solid #897F66',}}>Suivant</button>
         </Link>
       </form>

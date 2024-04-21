@@ -19,8 +19,8 @@
     font-style: normal;
     font-weight: 300;
     line-height: normal;
-    border: none; /* Supprimer les bordures si nécessaire */
-    background-color: transparent; /* Rendre le fond transparent si nécessaire */
+    border: none;
+    background-color: transparent;
   }
   
 
