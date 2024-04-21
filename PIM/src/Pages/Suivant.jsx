@@ -5,7 +5,7 @@ import FondS from '../assets/Suivant.svg';
 import ChienColor from '../assets/chienColor.svg';
 import Button from '@mui/material/Button';
 import Slider from '@mui/material/Slider';
-import FinQ from '../Pages/FinQ';
+import FinQ from './FinQ';
 import MultipleSelectCheckmarks from '../components/MultipleSelectCheckmarks';
 import FemelleColor from '../assets/FemelleColor.svg';
 import Femelle from '../assets/Femelle.svg';

@@ -18,6 +18,8 @@ import Suivant from '../src/Pages/Suivant'
 import FinQ from './Pages/FinQ';
 import P1 from './BackPage/P1';
 import PageRefuge from './Pages/PageRefuge';
+import FormulaireRefuge from './BackPage/FormulaireRefuge';
+import Verification from './BackPage/Verification';
 
 
 createRoot(document.getElementById('root')).render(
@@ -32,6 +34,7 @@ createRoot(document.getElementById('root')).render(
         <Route path="/FormulaireRefuge" element={<FormulaireRefuge/>} />
         <Route path="/Verification" element={<Verification/>} />
         <Route path="/FinQ" element={<FinQ/>} />
+        <Route path="/PageRefuge" element= {<PageRefuge/>} />
         <Route path="/" element={<MainLayout />}>
           <Route path="/accueil" element={<Accueil />} />      
           <Route path="/fiche/:id" element={<SDes />} />
@@ -40,8 +43,9 @@ createRoot(document.getElementById('root')).render(
           <Route path="/favories" element={<Favories />} />
           <Route path="/notifications" element={<Notifications />} />
           <Route path="/sdes" element={<SDes/>} />
+          <Route path="/PageRefuge" element={<PageRefuge/>} />
         </Route>
-        <Route path='/sdes' element= { <PageRefuge/> } />
+        
       </Routes>
     </Router>
   </React.StrictMode>
