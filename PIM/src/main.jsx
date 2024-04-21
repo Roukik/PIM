@@ -18,10 +18,13 @@ import Suivant from '../src/Pages/Suivant'
 import FinQ from './Pages/FinQ';
 import P1 from './BackPage/P1';
 import PageRefuge from './Pages/PageRefuge';
-import FormulaireRefuge from '../src/BackPage/FormulaireRefuge'
+import FormulaireRefuge from './BackPage/FormulaireRefuge';
 import Verification from './BackPage/Verification';
 import Validation from './BackPage/Validation';
-import RefugeProfil from '../src/BackPage/Refugeprofil'
+import Refugeprofil from './BackPage/Refugeprofil';
+import PageRefuge from './Pages/PageRefuge';
+
+
 
 
 createRoot(document.getElementById('root')).render(
@@ -45,10 +48,10 @@ createRoot(document.getElementById('root')).render(
           <Route path="/favories" element={<Favories />} />
           <Route path="/notifications" element={<Notifications />} />
           <Route path="/sdes" element={<SDes/>} />
-          <Route path="/RefugeProfil" element={<RefugeProfil/>} />
-          <Route path='/PageRefuge' element= { <PageRefuge/> } />
-        </Route>
+          <Route path="/PageRefuge" element={<PageRefuge/>} />
+          <Route path="/Refugeprofil" element={<Refugeprofil/>} />
 
+        </Route>
       </Routes>
     </Router>
   </React.StrictMode>
