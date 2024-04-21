@@ -9,8 +9,8 @@ function Verification() {
     <div className="v">
       <img src={FondVerification} alt="" className='FondVerification' />
 
-      <Link to="/">
-        <img src={Logo} alt="" className='Logo' />
+      <Link to="/Validation">
+        <img src={Logo} alt="" className='LogoV' />
       </Link>
     </div>
   );

@@ -20,6 +20,10 @@ import P1 from './BackPage/P1';
 import PageRefuge from './Pages/PageRefuge';
 import FormulaireRefuge from './BackPage/FormulaireRefuge';
 import Verification from './BackPage/Verification';
+import FormulaireRefuge from '../src/BackPage/FormulaireRefuge'
+import Verification from './BackPage/Verification';
+import Validation from './BackPage/Validation';
+import RefugeProfil from '../src/BackPage/Refugeprofil'
 
 
 createRoot(document.getElementById('root')).render(
@@ -33,6 +37,7 @@ createRoot(document.getElementById('root')).render(
         <Route path="/P1" element={<P1/>} />
         <Route path="/FormulaireRefuge" element={<FormulaireRefuge/>} />
         <Route path="/Verification" element={<Verification/>} />
+        <Route path="/Validation" element={<Validation/>} />
         <Route path="/FinQ" element={<FinQ/>} />
         <Route path="/PageRefuge" element= {<PageRefuge/>} />
         <Route path="/" element={<MainLayout />}>
@@ -43,7 +48,11 @@ createRoot(document.getElementById('root')).render(
           <Route path="/favories" element={<Favories />} />
           <Route path="/notifications" element={<Notifications />} />
           <Route path="/sdes" element={<SDes/>} />
+<<<<<<< HEAD
           <Route path="/PageRefuge" element={<PageRefuge/>} />
+=======
+          <Route path="/RefugeProfil" element={<RefugeProfil/>} />
+>>>>>>> d59c87bb83160263a60f64cd7e0072f2ae15c60d
         </Route>
         
       </Routes>
