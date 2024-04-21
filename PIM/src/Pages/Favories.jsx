@@ -8,7 +8,10 @@ function Favories() {
     
     <div className="Lesfavories">
       <div className='retourfav'>
-        {<img src= {Fleche} alt="" className='fleche'/>}     Favoris
+      <div className="Container1Description">
+        <img src={Fleche} alt="" className='arrow' />
+        <p>Favoris</p>
+      </div>
         <Barfav></Barfav>
       </div>
     </div>
