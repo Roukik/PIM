@@ -46,8 +46,9 @@ createRoot(document.getElementById('root')).render(
           <Route path="/notifications" element={<Notifications />} />
           <Route path="/sdes" element={<SDes/>} />
           <Route path="/RefugeProfil" element={<RefugeProfil/>} />
+          <Route path='/PageRefuge' element= { <PageRefuge/> } />
         </Route>
-        <Route path='/sdes' element= { <PageRefuge/> } />
+
       </Routes>
     </Router>
   </React.StrictMode>
