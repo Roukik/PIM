@@ -2,9 +2,9 @@
     position: relative;
   }
   
-  .LogoV{
+  .LogoVa{
     position: absolute;
-    top: 480px;
+    top: 530px;
     left: 120px;
     z-index: 1;
   }

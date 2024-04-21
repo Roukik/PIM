@@ -1,11 +1,11 @@
 .page-container {
   position: relative;
   text-align: center;
-  padding-top: 100px; /* Espacement pour laisser de la place au-dessus du bouton */
+  padding-top: 100px; /
 }
 
 .button-adopte {
-  margin-top: 50px; /* Espacement entre le titre et le bouton */
+  margin-top: 50px; 
 }
 
 .page-bienvenue {
@@ -61,4 +61,5 @@
 
 .Logo {
   margin: 50px;
+  
 }
