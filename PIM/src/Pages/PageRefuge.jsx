@@ -20,10 +20,8 @@ function PageRefuge() {
           <div className="Container3Refuge">
             <RefugeCard></RefugeCard>
             <img src={DesRefuge} alt="" className='DesRefuge' />
-            <Link to=""  >
-            
-            </Link>
-            <button className='btnRVD'>Rencontre-nous !</button>
+              <button className='btnRVD'>Rencontre-nous !</button>
+           
           </div>
         </div>
     </div>

@@ -28,6 +28,7 @@ import MesAnimaux from './BackPage/MesAnimaux';
 
 
 
+
 createRoot(document.getElementById('root')).render(
   <React.StrictMode>
     <Router>
@@ -41,6 +42,7 @@ createRoot(document.getElementById('root')).render(
         <Route path="/Verification" element={<Verification/>} />
         <Route path="/Validation" element={<Validation/>} />
         <Route path="/FinQ" element={<FinQ/>} />
+        <Route path="/" element={<MainLayout />}></Route>
         <Route path="/" element={<MainLayout />}>
           <Route path="/accueil" element={<Accueil />} />      
           <Route path="/fiche/:id" element={<SDes />} />
@@ -52,7 +54,6 @@ createRoot(document.getElementById('root')).render(
           <Route path="/PageRefuge" element={<PageRefuge/>} />
           <Route path="/Refugeprofil" element={<Refugeprofil/>} />
           <Route path="/MesAnimaux" element={<MesAnimaux/>} />
-
         </Route>
       </Routes>
     </Router>
