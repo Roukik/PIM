@@ -21,6 +21,7 @@ import PageRefuge from './Pages/PageRefuge';
 import FormulaireRefuge from '../src/BackPage/FormulaireRefuge'
 import Verification from './BackPage/Verification';
 import Validation from './BackPage/Validation';
+import RefugeProfil from '../src/BackPage/Refugeprofil'
 
 
 createRoot(document.getElementById('root')).render(
@@ -44,6 +45,7 @@ createRoot(document.getElementById('root')).render(
           <Route path="/favories" element={<Favories />} />
           <Route path="/notifications" element={<Notifications />} />
           <Route path="/sdes" element={<SDes/>} />
+          <Route path="/RefugeProfil" element={<RefugeProfil/>} />
         </Route>
         <Route path='/sdes' element= { <PageRefuge/> } />
       </Routes>

@@ -9,7 +9,7 @@ function Validation() {
     <div className="v">
       <img src={FondValidation} alt="" className='FondValidation' />
 
-      <Link to="/Validation">
+      <Link to="/Refugeprofil">
         <img src={Logo} alt="" className='LogoVa' />
       </Link>
     </div>

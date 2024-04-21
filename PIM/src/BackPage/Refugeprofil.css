@@ -1,0 +1,96 @@
+.block123 {
+    width: 360px;
+    height: 199px;
+    background-color: rgb(255, 255, 255);
+    position: absolute;
+    top: 0px;
+    box-shadow: 2px 2px 8px rgba(128, 128, 128, 0.412);
+    
+  }
+  
+  .ContainerRefugeprofil {
+    position: relative; /* Nécessaire pour que la position absolue de block1 fonctionne correctement */
+    height: 733px;
+    background-image: url('./assets/fondChien.jpg');
+    background-size: cover; /* Ajuster la taille de l'image de fond pour couvrir le conteneur */
+    background-position: center; /* Centrer l'image de fond */
+    background-color: azure;
+    z-index: 2;
+  }
+  
+  .ContainerRefugeprofil1 {
+    display: flex; /* Utilisation de flexbox pour aligner les éléments horizontalement */
+    align-items: center; /* Aligner les éléments verticalement au centre */
+    margin-top: 18px;
+    margin-left: 24px;
+  }
+  
+  .arrowr {
+     margin-right: 5px; /* Ajoute une marge à droite de l'image */
+  }
+  
+  .ContainerRefugeprofil1 p {
+    margin: 0; 
+    font-family: Nunito Sans; /* Supprime les marges par défaut du paragraphe */
+  }
+
+  .ContainerRefugeprofil2{
+    display: flex;
+    display: flex;
+    justify-content: center;
+    margin-top: 8px;
+  }
+
+  .ContainerRefugeprofil3{
+    width: 100px;
+    margin-left: 130px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 60px;
+  }
+
+.ContainerRefugeprofil3 p{
+    
+   margin: 3px;
+}
+
+p{
+  font-family: Nunito Sans;
+}
+
+.ContainerRefugeprofil4{
+    
+    width: 320px;
+    height:430px;
+    margin-left: 21px;
+    margin-top: 30px;
+}
+
+.ContainerRefugeprofil4 p{
+    height: 50px;
+    background-color: rgba(255, 255, 255, 0.848);
+    border: solid 0;
+    border-radius: 3px;
+    box-shadow: 2px 2px 8px rgba(128, 128, 128, 0.412);
+    
+}
+
+.ContainerRefugeprofil4 button{
+    width: 192px;
+    height: 48px;
+    background-color: #897F66;
+    border-radius: 10px;
+    margin-left: 60px;
+    margin-top: 41px;
+    border: solid 0;
+    box-shadow: 2px 2px 8px rgba(128, 128, 128, 0.412);
+    color: white;
+    font-family: Nunito Sans;
+}
+
+.fond1 {
+    margin-top: -40px;
+    z-index: 1; 
+}
