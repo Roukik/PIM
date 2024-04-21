@@ -1,11 +1,10 @@
 import React from 'react'
-import Menu from '../components/Menu'
 import FondChien from '../assets/fondChien.jpg'
 import './Profil'
 import '../Pages/Profil.css'
 import Fleche from '../assets/fleche.svg'
 import PP from '../assets/PP.png'
-
+import InfosProfil from '../components/InfosProfil'
 
 
 function Profil() {
@@ -29,11 +28,7 @@ function Profil() {
           </div>
 
           <div className='Container4'>
-            <p>Tel : 06 59 33 38 11</p>
-            <p>Mail : julienriodejanero@gmail.com</p>
-            <p>Résidence : appartement</p>
-            <p>Département : île-de-France</p>
-            <p>Voir mes préférences</p>
+            <InfosProfil></InfosProfil>
             <button className='mofierLeProfil'>Modifier le Profil</button>
           </div>
         </div>

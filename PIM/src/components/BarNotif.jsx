@@ -5,10 +5,10 @@ import Tab from '@mui/material/Tab';
 import Typography from '@mui/material/Typography';
 import Box from '@mui/material/Box';
 import Grid from '../components/Grid'
+import GridNonlu from '../components/GridNonlu'
 
 function CustomTabPanel(props) {
   const { children, value, index, ...other } = props;
-
   return (
     <div
       role="tabpanel"
@@ -57,9 +57,8 @@ export default function BasicTabs() {
       <CustomTabPanel value={value} index={0}>
       <Grid></Grid>
       </CustomTabPanel>
-        
       <CustomTabPanel value={value} index={1}>
-        
+      <GridNonlu></GridNonlu>
       </CustomTabPanel>
     </Box>
   );

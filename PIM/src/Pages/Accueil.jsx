@@ -28,6 +28,7 @@ const Circle = {
   display: 'flex',
   justifyContent: 'center',
   alignItems: 'center',
+  
 };
 
 const cardStyle = {
@@ -44,9 +45,7 @@ function Accueil() {
 
   return (
     <div>
-      
-      
-        <p>Accueil</p>
+        <p>Annuaire</p>
         {/* Première carte */}
         <Card sx={cardStyle}>
           <CardActionArea component={Link} to="/SDes">
@@ -73,7 +72,7 @@ function Accueil() {
             </CardContent>
           </CardActionArea>
           <CardContent sx={{ display: 'flex', justifyContent: 'flex-end' }}>
-            <div style={Circle} onClick={toggleFavorite}> 
+            <div style={Circle} onClick={toggleFavorite} > 
               {isFavorite ? (
                 <FavoriteIcon style={{ color: '#ffffff' }} />
               ) : (
