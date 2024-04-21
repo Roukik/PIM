@@ -18,6 +18,8 @@ import Suivant from '../src/Pages/Suivant'
 import FinQ from './Pages/FinQ';
 import P1 from './BackPage/P1';
 import PageRefuge from './Pages/PageRefuge';
+import FormulaireRefuge from '../src/BackPage/FormulaireRefuge'
+import Verification from './BackPage/Verification';
 
 
 createRoot(document.getElementById('root')).render(
