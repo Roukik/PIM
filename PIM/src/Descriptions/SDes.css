@@ -1,0 +1,45 @@
+.Container1Description {
+    display: flex;
+    padding-left: 25px;
+    gap: 18px;
+  }
+  
+  .Container2Description {
+    position: relative; 
+    display: flex;
+    padding-left: 15px;
+    padding-top: 15px;
+  }
+  
+  .Container3Description {
+    background-color: #EAE3D3;
+    width: 333px;
+    height: 700px; 
+    border-top-left-radius: 30px;
+    border-top-right-radius: 30px;
+    position: absolute; 
+    bottom: -600px; 
+    left: 25; 
+  }
+  
+  .scoopie {
+    border-radius: 30px;
+  }
+
+  .scoopieDescription{
+    width: 325px;
+
+  }
+
+.btnRVD{
+    background-color: #897F66;
+    border-radius: 16px;
+    width: 207px;
+    height: 35px;
+    color: white;
+    margin-top: 15px;
+    margin-left: 64px;
+    border: none;
+    box-shadow: 2px 2px 8px rgba(128, 128, 128, 0.955);
+  }
+  

@@ -17,6 +17,7 @@ import MainLayout from './layouts/MainLayout';
 import Suivant from '../src/Pages/Suivant'
 import FinQ from './Pages/FinQ';
 import P1 from './BackPage/P1';
+import PageRefuge from './Pages/PageRefuge';
 
 
 createRoot(document.getElementById('root')).render(
@@ -36,7 +37,9 @@ createRoot(document.getElementById('root')).render(
           <Route path="/profil" element={<Profil />} />
           <Route path="/favories" element={<Favories />} />
           <Route path="/notifications" element={<Notifications />} />
+          <Route path="/sdes" element={<SDes/>} />
         </Route>
+        <Route path='/sdes' element= { <PageRefuge/> } />
       </Routes>
     </Router>
   </React.StrictMode>
