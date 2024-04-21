@@ -29,6 +29,8 @@ createRoot(document.getElementById('root')).render(
         <Route path="/popupquestionnaire" element={<PopupQuestionnaire />} />
         <Route path="/suivant" element={<Suivant/>} />
         <Route path="/P1" element={<P1/>} />
+        <Route path="/FormulaireRefuge" element={<FormulaireRefuge/>} />
+        <Route path="/Verification" element={<Verification/>} />
         <Route path="/FinQ" element={<FinQ/>} />
         <Route path="/" element={<MainLayout />}>
           <Route path="/accueil" element={<Accueil />} />      

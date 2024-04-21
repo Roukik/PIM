@@ -1,23 +1,25 @@
 .Tracepates {
-    display: flex;
-    flex-direction: column;
-    flex-wrap: wrap;
-    align-content: space-around;
-    align-items: center;
-    position: relative;
-  }
-  
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  align-content: space-around;
+  align-items: center;
+  position: relative;
+}
+
 .CloseButton {
-    position: absolute;
-    top: -730px;
-    left: 120px;
-    z-index: 999;
-  }
+  position: absolute;
+  top: -730px;
+  left: 120px;
+  z-index: 999;
   
+}
+
 .Arrow {
   font-size: 48px;
   color: white;
   position: absolute;
   z-index: 999;
-  bottom: 250;
+  bottom: 250px;
+  top:60%;
 }

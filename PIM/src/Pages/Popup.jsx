@@ -17,10 +17,10 @@ function Popup() {
         </IconButton>
       </Link>
       
-      {/* Placer le lien vers PopupQuestionnaire ici */}
+
       <Link to="/PopupQuestionnaire">
         <IconButton className="Arrow">
-          <ArrowForwardIcon style={{ fontSize: 48, color: 'black' }} />
+          <ArrowForwardIcon style={{ fontSize: 230, color: 'white' }} />
         </IconButton>
       </Link>
     </div>

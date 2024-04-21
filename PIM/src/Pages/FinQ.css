@@ -4,3 +4,8 @@
     align-content: center;
     flex-wrap: wrap;
 }
+
+.BalicSelect {
+    margin-top: 60px;
+    z-index: 1;
+}
