@@ -9,7 +9,7 @@ function FinQ() {
   return (
     <div className='Contenu'>
       {/* Placez BasicSelect ici et ajustez sa position avec des styles */}
-      <div style={{ marginTop: '0px' }}>
+      <div className='BalicSelect'>
         <BasicSelect />
       </div>
 
