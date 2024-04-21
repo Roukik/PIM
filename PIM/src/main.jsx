@@ -22,6 +22,7 @@ import FormulaireRefuge from './BackPage/FormulaireRefuge';
 import Verification from './BackPage/Verification';
 import Validation from './BackPage/Validation';
 import Refugeprofil from './BackPage/Refugeprofil';
+import MesAnimaux from './BackPage/MesAnimaux';
 
 
 
@@ -50,6 +51,7 @@ createRoot(document.getElementById('root')).render(
           <Route path="/sdes" element={<SDes/>} />
           <Route path="/PageRefuge" element={<PageRefuge/>} />
           <Route path="/Refugeprofil" element={<Refugeprofil/>} />
+          <Route path="/MesAnimaux" element={<MesAnimaux/>} />
 
         </Route>
       </Routes>

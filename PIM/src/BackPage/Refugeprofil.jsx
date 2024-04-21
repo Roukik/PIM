@@ -28,7 +28,7 @@ function Refugeprofil() {
           <p>Refuge pour animaux à Toulouse</p>
         </div>
 
-        <Link to="/Suivant" style={{ position: 'absolute', bottom: '-90px', left: '50%', transform: 'translateX(-50%)', width: '80%' }}>
+        <Link to="/MesAnimaux" style={{ position: 'absolute', bottom: '-90px', left: '50%', transform: 'translateX(-50%)', width: '80%' }}>
           <Button
             variant="contained"
             disableElevation
