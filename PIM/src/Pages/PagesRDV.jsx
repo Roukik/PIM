@@ -3,7 +3,7 @@ import Fleche from '../assets/fleche.svg'
 import '../Pages/RDV.css'
 import Refugeimg from '../assets/ScootieMagelan.png'
 import RDVCard from '../components/RDVCard'
-import RDVCalender from '../components/RDVCalender'
+
 
 function PagesRDV() {
   return (
@@ -16,7 +16,7 @@ function PagesRDV() {
           <img src={Refugeimg} alt="" className='Refugeimg'/>
           <div className="Container3RDV">
             <RDVCard></RDVCard>
-            <RDVCalender></RDVCalender>
+            
           </div>
         </div>
 
