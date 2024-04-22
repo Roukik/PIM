@@ -9,6 +9,7 @@ function Favories() {
     <div className="Lesfavories">
       <div className='retourfav'>
       <div className="Container1Description">
+        
         <img src={Fleche} alt="" className='arrow' />
         <p>Favoris</p>
       </div>
