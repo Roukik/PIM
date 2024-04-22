@@ -34,7 +34,7 @@ function PageBienvenue() {
           <img src={Logo} alt="" className='Logo' />
         </div>
         <Link to="/P1">
-          <p style={{ color: 'white', cursor: 'pointer' }}>Inscrire votre refuge pour aider les animaux</p>
+          <p style={{ color: 'white', cursor: 'pointer', textDecoration:'none' }}>Inscrire votre refuge pour aider les animaux</p>
         </Link>
       </div>
     </div>

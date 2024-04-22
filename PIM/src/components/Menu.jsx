@@ -22,7 +22,7 @@ const Menu = () => {
         </button>
 
         <div className="icons-container">
-          {/* Utilisez Link pour relier chaque icône à une page */}
+
           <Link to="/Notifications">
             <img src={Notif} alt="Notifications" className="icon" />
           </Link>
