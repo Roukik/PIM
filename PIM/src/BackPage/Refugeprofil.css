@@ -14,7 +14,6 @@
     background-image: url('./assets/fondChien.jpg');
     background-size: cover; /* Ajuster la taille de l'image de fond pour couvrir le conteneur */
     background-position: center; /* Centrer l'image de fond */
-    background-color: azure;
     z-index: 2;
   }
   
@@ -34,11 +33,12 @@
     font-family: Nunito Sans; /* Supprime les marges par défaut du paragraphe */
   }
 
-  .ContainerRefugeprofil2{
+  .ContainerRefugeProfil2{
     display: flex;
     display: flex;
     justify-content: center;
     margin-top: 8px;
+    
   }
 
   .ContainerRefugeprofil3{
@@ -51,9 +51,11 @@
     margin-bottom: 60px;
   }
 
-.ContainerRefugeprofil3 p{
-    
-   margin: 3px;
+.ContainerRefugeProfil3 p{
+  margin-left: 5px;
+  font-size: 15px;
+  margin-bottom: 5px;
+  margin-top: 8px; 
 }
 
 p{
@@ -65,7 +67,7 @@ p{
     width: 320px;
     height:430px;
     margin-left: 21px;
-    margin-top: 30px;
+    margin-top: 90px;
 }
 
 .ContainerRefugeprofil4 p{

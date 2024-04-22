@@ -9,11 +9,10 @@ function FinQ() {
   return (
     <div className='Contenu'>
       {/* Placez BasicSelect ici et ajustez sa position avec des styles */}
+      <img src={FondFin} alt="" className='fondfin' />
       <div className='BalicSelect'>
         <BasicSelect />
       </div>
-
-      <img src={FondFin} alt="" className='fondfin' />
 
       <Link to="/Accueil" style={{ position: 'absolute', bottom: '40px', left: '50%', transform: 'translateX(-50%)', width: '80%', zIndex: 1 }}>
         <Button

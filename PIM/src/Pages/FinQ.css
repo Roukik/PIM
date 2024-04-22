@@ -8,4 +8,6 @@
 .BalicSelect {
     margin-top: 60px;
     z-index: 1;
+    top: -465px;
+    position: relative;
 }
