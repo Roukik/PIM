@@ -1,0 +1,23 @@
+.Container1RDV{
+    display: flex;
+    padding-left: 25px;
+    gap: 18px;
+}
+
+.Containe2RDV{
+    position: relative; 
+    display: flex;
+    padding-left: 15px;
+    padding-top: 15px;
+  }
+
+  .Container3RDV {
+    background-color: #EAE3D3;
+    width: 322px;
+    height: 800px; 
+    border-top-left-radius: 30px;
+    border-top-right-radius: 30px;
+    position: absolute; 
+    bottom: -776px; 
+    left: 25; 
+  }
