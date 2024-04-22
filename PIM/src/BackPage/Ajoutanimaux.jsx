@@ -1,13 +1,16 @@
 import React from 'react'
-import Ajout from '../assets/ajout.png'
+import Ajout2 from '../assets/Ajout2.png'
+
 
 
 
 function Ajoutanimaux() {
     return (
-        <div>
-            <img src={Ajout} alt="" className="Ajout" />
+        <div className='AjoutContenu'>
+            <img src={Ajout2} alt="" className="Ajout2" />
+
         </div>
+
     )
 }
 
