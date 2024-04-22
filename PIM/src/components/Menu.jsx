@@ -3,6 +3,7 @@ import Notif from '../assets/notif.svg';
 import Coeur from '../assets/coeur.svg';
 import Bonhomme from '../assets/bonhomme.svg';
 import { Link } from 'react-router-dom';
+import Logo from '../assets/Logo.png'
 
 const Menu = () => {
   const [sidebarOpen, setSidebarOpen] = useState(false);
@@ -37,11 +38,35 @@ const Menu = () => {
       <div id="sidebarMenu" className={sidebarOpen ? 'open' : ''}>
         <ul className="sidebarMenuInner">
           <li><span>MENU</span></li>
-          <li><a href="https://vanila.io" target="_blank" rel="noopener noreferrer">Refuge</a></li>
-          <li><a href="https://instagram.com/plavookac" target="_blank" rel="noopener noreferrer">Cartes</a></li>
-          <li><a href="https://twitter.com/plavookac" target="_blank" rel="noopener noreferrer">Animaux</a></li>
-          <li><a href="https://www.youtube.com/channel/UCDfZM0IK6RBgud8HYGFXAJg" target="_blank" rel="noopener noreferrer">Prendre rendez-vous</a></li>
-          <li><a href="https://www.linkedin.com/in/plavookac/" target="_blank" rel="noopener noreferrer">Profil</a></li>
+          <Link to="/Carte" style={{textDecoration:'none'}}>
+            <li>Carte</li>
+          </Link>
+
+          <Link to="/Accueil" style={{textDecoration:'none'}}>
+          <li>Animaux</li>
+          </Link>
+
+          <Link to="/PagesRDV" style={{textDecoration:'none'}}>
+          <li>Prendre rendez-vous</li>
+          </Link>
+
+          <Link to="/Profil" style={{textDecoration:'none'}}>
+          <li>Profil</li>
+          </Link>
+
+          <Link to="/ " style={{textDecoration:'none'}}>
+          <li>Ressources</li>
+          </Link>
+
+          <Link to="/" style={{textDecoration:'none'}}>
+          <li>Qui sommes-nous ?</li>
+          </Link>
+
+          <Link to="/" style={{textDecoration:'none'}}>
+          <li>Mentions légales </li>
+          </Link>
+
+          <img src={Logo} alt="" className="Logo" />
         </ul>
       </div>
     </>
