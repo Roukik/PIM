@@ -1,10 +1,13 @@
 import React from 'react'
+import Ajout from '../assets/ajout.png'
 
 
 
 function Ajoutanimaux() {
     return (
-        <div>PageOuverture</div>
+        <div>
+            <img src={Ajout} alt="" className="Ajout" />
+        </div>
     )
 }
 
