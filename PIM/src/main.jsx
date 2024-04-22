@@ -24,6 +24,7 @@ import Validation from './BackPage/Validation';
 import Refugeprofil from './BackPage/Refugeprofil';
 import MesAnimaux from './BackPage/MesAnimaux';
 import PagesRDV from './Pages/PagesRDV'
+import Ajoutanimaux from './BackPage/Ajoutanimaux'
 
 
 
@@ -56,6 +57,7 @@ createRoot(document.getElementById('root')).render(
           <Route path="/Refugeprofil" element={<Refugeprofil/>} />
           <Route path="/MesAnimaux" element={<MesAnimaux/>} />
           <Route path="/PagesRDV" element={<PagesRDV/>} />
+          <Route path="/Ajoutanimaux" element={<Ajoutanimaux/>} />
         </Route>
       </Routes>
     </Router>

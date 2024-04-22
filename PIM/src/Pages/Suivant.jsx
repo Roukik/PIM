@@ -53,9 +53,9 @@ function Suivant() {
         />
       </div>
       
-      <div className="Sexe" style={{ marginTop: '530px', display: 'flex', justifyContent: 'space-between' }}> {/*MarginTop: 530 px bloque le like/delike */}
-        <img src={likedImages.Femelle ? FemelleColor : Femelle} alt="" className="Femelle" onClick={() => toggleLike('Femelle')} style={{ marginRight: '45px' }} />
-        <img src={likedImages.Male ? MaleColor : Male} alt="" className="Male" onClick={() => toggleLike('Male')} />
+      <div className="Sexe" style={{ display: 'flex', justifyContent: 'space-between', marginTop: '520px' }}>
+        <img src={likedImages.Femelle ? FemelleColor : Femelle} alt="" className="Femelle" onClick={() => toggleLike('Femelle')} style={{ marginRight: '10px' }} />
+        <img src={likedImages.Male ? MaleColor : Male} alt="" className="Male" onClick={() => toggleLike('Male')} style={{ marginLeft: '45px' }} />
       </div>
 
       <Link to="/FinQ" style={{ position: 'absolute', bottom: '30px', left: '50%', transform: 'translateX(-50%)', width: '80%', zIndex: 1 }}>
