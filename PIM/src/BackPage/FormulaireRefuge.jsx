@@ -59,7 +59,7 @@ function FormulaireRefuge() {
     <div>
       <h2 style={h2Style}>Informations Générales du Refuge</h2>
       <form onSubmit={handleSubmit}>
-        <label style={labelStyle}>
+        <label style={labelStyle} >
           Nom du refuge:
           <input 
             type="text" 
